@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-23T17:53:36.983577+00:00",
+  "fetched_at": "2026-06-23T21:44:30.507651+00:00",
   "name": "NI PMG Toledo (Ex Travesía)",
   "correlativo": 1721,
   "completition_status": 82,
@@ -284,11 +284,11 @@
       "casilla": "Plan Ener Gx",
       "parent_group": "OTROS PES",
       "sub_panels": [
-        "Listado de Requerimientos\n75%\nPLAN DE ENERGIZACIÓN GENERACIÓN\nEncargado: Departamento Conexiones\nI.4\nRecepción plan de energización Generación\nI.4\nRevisión Plan de Energización Generación\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa solicitante debe hacer envío del plan de Energización de acuerdo al AT.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGNS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n13-05-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n87%\nPLAN DE ENERGIZACIÓN GENERACIÓN\nEncargado: Departamento Conexiones\nI.4\nRecepción plan de energización Generación\nI.4\nRevisión Plan de Energización Generación\n¿Qué estoy viendo?\n\nDescripción\n\nEl coordinador emitirá su aprobación u observaciones al documento\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n10 días hábiles\n\nFecha límite\n\n08-07-2026\n\nDepende de\n\nRecepción plan de energización Generación\nHistorial de movimientos"
       ]
     }
   },
   "first_seen": {
-    "req665604b236d9ef441648202b|La Empresa solicitante debe hacer envío del plan de Energización de acuerdo al AT.": "2026-06-23T01:25:53.595954+00:00"
+    "req665604b236d9ef441648202b|El coordinador emitirá su aprobación u observaciones al documento": "2026-06-23T21:44:30.507771+00:00"
   }
 }
