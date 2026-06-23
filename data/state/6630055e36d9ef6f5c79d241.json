@@ -1,0 +1,406 @@
+{
+  "fetched_at": "2026-06-23T01:26:16.892837+00:00",
+  "name": "PMG Buenaventura",
+  "correlativo": 650,
+  "completition_status": 64,
+  "completition_pes": 79,
+  "service_estimate_date": "2026-05-01T00:00:00",
+  "operative_estimate_date": "2026-07-01T00:00:00",
+  "reception_date": "2024-04-26T00:00:00",
+  "boxes": {
+    "req5a5ebdc901447e4bfc0aa6e3": {
+      "text": "CEM Definitiva",
+      "state": "completado",
+      "is_container": false
+    },
+    "req6088396036d9ef6adef5612c": {
+      "text": "ANIT y PLANOS",
+      "state": "completado",
+      "is_container": true
+    },
+    "req5d4c907f36d9ef7615bf7a08": {
+      "text": "DUF",
+      "state": "completado",
+      "is_container": false
+    },
+    "req5ea9f8c136d9ef4be78ea70b": {
+      "text": "ANIT",
+      "state": "completado",
+      "is_container": false
+    },
+    "req5d4d5ffe36d9ef7615c24383": {
+      "text": "RI",
+      "state": "completado",
+      "is_container": false
+    },
+    "req60ad0d0d36d9ef44f12350ef": {
+      "text": "Cronograma",
+      "state": "en_curso",
+      "is_container": false
+    },
+    "req5d4c968836d9ef7617252155": {
+      "text": "Act. CEM Def",
+      "state": "completado",
+      "is_container": false
+    },
+    "req60ca060536d9ef1ee6b43b49": {
+      "text": "INFORMACIÓN TÉCNICA",
+      "state": "completado",
+      "is_container": true
+    },
+    "req60ca075236d9ef2b9316e203": {
+      "text": "INFOTÉCNICA PARA ESTUDIOS",
+      "state": "completado",
+      "is_container": true
+    },
+    "req606a67b536d9ef51933e526e": {
+      "text": "IT E (inv)",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4c9a0536d9ef7615c07b9a": {
+      "text": "IT E",
+      "state": "completado",
+      "is_container": false
+    },
+    "req5fb1bc5236d9ef6c9002c548": {
+      "text": "IT NO DISPONIBLE",
+      "state": "completado",
+      "is_container": true
+    },
+    "req5fb1ba3336d9ef6c925390f1": {
+      "text": "PO no disponibles",
+      "state": "completado",
+      "is_container": false
+    },
+    "req5fb1bb6936d9ef6c9002c1d7": {
+      "text": "IT no disponible",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req60ca06b836d9ef38d7c4be4e": {
+      "text": "ESTUDIOS DE INTERCONEXIÓN",
+      "state": "completado",
+      "is_container": true
+    },
+    "req5d4d62dd36d9ef761727f012": {
+      "text": "ECAP",
+      "state": "completado",
+      "is_container": false
+    },
+    "req5d4d80cc36d9ef76163c415e": {
+      "text": "ET",
+      "state": "completado",
+      "is_container": false
+    },
+    "req5d4d815e36d9ef7615c337b6": {
+      "text": "ECB",
+      "state": "completado",
+      "is_container": false
+    },
+    "req5d4d811736d9ef76163c4333": {
+      "text": "ECC",
+      "state": "completado",
+      "is_container": false
+    },
+    "req5d4d828736d9ef7615c3571d": {
+      "text": "ECA",
+      "state": "completado",
+      "is_container": false
+    },
+    "req5d4d821236d9ef7615c3554c": {
+      "text": "EMT",
+      "state": "completado",
+      "is_container": false
+    },
+    "req5d4d852636d9ef76183532d7": {
+      "text": "SCADA Y MEDIDAS",
+      "state": "completado",
+      "is_container": true
+    },
+    "req5d4d8b9e36d9ef76163cb2cf": {
+      "text": "SITR",
+      "state": "completado",
+      "is_container": true
+    },
+    "req607664e136d9ef3500287df3": {
+      "text": "Enlace",
+      "state": "completado",
+      "is_container": false
+    },
+    "req606a6b8536d9ef1a2254fa09": {
+      "text": "DIR/TAG",
+      "state": "completado",
+      "is_container": false
+    },
+    "req606a6bc436d9ef1a2254fc9b": {
+      "text": "Fecha Pruebas",
+      "state": "en_curso",
+      "is_container": false
+    },
+    "req5d4d8e6c36d9ef7615c3ecd3": {
+      "text": "Pruebas",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4d8acf36d9ef761835aef5": {
+      "text": "EME",
+      "state": "completado",
+      "is_container": true
+    },
+    "req6076676d36d9ef7d11ba2199": {
+      "text": "Enlace",
+      "state": "en_curso",
+      "is_container": false
+    },
+    "req606a6c0436d9ef51933e5e93": {
+      "text": "Fecha Pruebas",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5e4d4b5a36d9ef2cd9aa1241": {
+      "text": "Pruebas",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4d985736d9ef76163d61b6": {
+      "text": "OTROS PES",
+      "state": "en_curso",
+      "is_container": true
+    },
+    "req5d4da0b036d9ef76163e2e6d": {
+      "text": "Prot P",
+      "state": "en_curso",
+      "is_container": false
+    },
+    "req5d4da10d36d9ef7615c50d5d": {
+      "text": "PO N",
+      "state": "en_curso",
+      "is_container": false
+    },
+    "req5d4da05136d9ef7615c4d9bd": {
+      "text": "Prot E",
+      "state": "en_curso",
+      "is_container": false
+    },
+    "req665604b236d9ef441648202b": {
+      "text": "Plan Ener Gx",
+      "state": "en_curso",
+      "is_container": false
+    },
+    "req5d4da28736d9ef7615c57207": {
+      "text": "GM",
+      "state": "completado",
+      "is_container": false
+    },
+    "req5d4da2bc36d9ef761836f1eb": {
+      "text": "Prog P",
+      "state": "en_curso",
+      "is_container": false
+    },
+    "req5d4d9fe036d9ef7615c4a7d9": {
+      "text": "Carta SEC",
+      "state": "en_curso",
+      "is_container": false
+    },
+    "req604792ec36d9ef3b4fd75707": {
+      "text": "PLATAFORMAS PES",
+      "state": "en_curso",
+      "is_container": true
+    },
+    "req6047918036d9ef2de309723d": {
+      "text": "Opreal",
+      "state": "en_curso",
+      "is_container": false
+    },
+    "req604791af36d9ef530b47bbd7": {
+      "text": "Pronósticos",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req60612e2236d9ef1fc3814a92": {
+      "text": "Neomante",
+      "state": "completado",
+      "is_container": false
+    },
+    "req60ca07ce36d9ef38d7c4e6bc": {
+      "text": "PLATAFORMAS EO",
+      "state": "pendiente",
+      "is_container": true
+    },
+    "req60612d9936d9ef0e9752226b": {
+      "text": "REUC",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req60612e0736d9ef1fc3814808": {
+      "text": "P. Pagos",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req60478dea36d9ef42935ee7d1": {
+      "text": "OTROS EO",
+      "state": "pendiente",
+      "is_container": true
+    },
+    "req64e3afeb36d9ef23190ab0a4": {
+      "text": "Pruebas End to End",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4da16b36d9ef76172b5bc4": {
+      "text": "PO E",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req606a67e336d9ef1a2254f2f7": {
+      "text": "IT PES (inv)",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4c9a3d36d9ef7615c07cfb": {
+      "text": "IT PES",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4da9c336d9ef761837419c": {
+      "text": "CVNC",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4da87e36d9ef76183739c3": {
+      "text": "VMD",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req600f044436d9ef327f0765cb": {
+      "text": "PARÁMETROS DE GENERACIÓN",
+      "state": "pendiente",
+      "is_container": true
+    },
+    "req5d4da5d136d9ef761837315b": {
+      "text": "PMax",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4da62e36d9ef76172b6c08": {
+      "text": "PPyD",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4da56936d9ef7615c580e4": {
+      "text": "MT",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4dab3f36d9ef7615c59207": {
+      "text": "SEO",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req625487a136d9ef2b523ef0df": {
+      "text": "REPORTES DEL PROCESO",
+      "state": "pendiente",
+      "is_container": true
+    },
+    "req625486e536d9ef2424aaa076": {
+      "text": "Reporte IT Estudios",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req6254875a36d9ef3507f77666": {
+      "text": "Reporte PES",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req6254877736d9ef48fa044081": {
+      "text": "Reporte EO",
+      "state": "pendiente",
+      "is_container": false
+    }
+  },
+  "active_tasks": {
+    "req60ad0d0d36d9ef44f12350ef": {
+      "casilla": "Cronograma",
+      "parent_group": null,
+      "sub_panels": [
+        "Listado de Requerimientos\n85%\n'ACTUALIZACIÓN DE CRONOGRAMA\nEncargado: Departamento Conexiones\nI.7\nActualización de Cronograma\n¿Qué estoy viendo?\n\nDescripción\n\nDe acuerdo con el Artículo 5 letra c) del Anexo Técnico: Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI, las empresas solicitantes deben mantener actualizado el cronograma del proyecto.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n12-05-2026\n\nHistorial de movimientos"
+      ]
+    },
+    "req606a6bc436d9ef1a2254fc9b": {
+      "casilla": "Fecha Pruebas",
+      "parent_group": "SITR",
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\n'COORDINACIÓN FECHA PRUEBAS SITR\nEncargado: SCADA\nI.1\nSolicitud de fecha de pruebas SITR\nI.1\nConfirmación de fecha de pruebas SITR\nI.1\nResultados de pruebas internas SITR\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe proponer una fecha para la realización de pruebas punto a punto, al menos 7 días hábiles antes de las pruebas. Los formatos de solicitud se pueden encontrar en material de ayuda de la PGP o en el sitio web http://www.coordinador.cl/conexion.proyectos.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n12-05-2026\n\nHistorial de movimientos"
+      ]
+    },
+    "req6076676d36d9ef7d11ba2199": {
+      "casilla": "Enlace",
+      "parent_group": "EME",
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\n'PRUEBAS DEL ENLACE DE COMUNICACIONES EME\nEncargado: Departamento Conexiones\nI.1\nDefinición y Prueba del Enlace\n¿Qué estoy viendo?\n\nDescripción\n\nDefinición y Pruebas del enlace de comunicaciones para los medidores del proyecto.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n5 días hábiles\n\nFecha límite\n\n18-05-2026\n\nHistorial de movimientos"
+      ]
+    },
+    "req5d4da0b036d9ef76163e2e6d": {
+      "casilla": "Prot P",
+      "parent_group": "OTROS PES",
+      "sub_panels": [
+        "Listado de Requerimientos\n50%\n'PROTOCOLOS SAT PROTECCIONES\nEncargado: DAOP\nI.1\nSolicitud de revisión de Protocolos de Protecciones\nI.1\nRevisión de Protocolos de Protecciones\n¿Qué estoy viendo?\n\nDescripción\n\nObservaciones a los protocolos de prueba de inyección secundaria de los nuevos relés.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n10 días hábiles\n\nFecha límite\n\n01-07-2026\n\nDepende de\n\nSolicitud de revisión de Protocolos de Protecciones\nHistorial de movimientos"
+      ]
+    },
+    "req5d4da10d36d9ef7615c50d5d": {
+      "casilla": "PO N",
+      "parent_group": "OTROS PES",
+      "sub_panels": [
+        "Listado de Requerimientos\n50%\n'PRINT OUT DE RELÉS NUEVOS\nEncargado: DAOP\nI.1\nSolicitud de revisión de Print Out nuevo\nI.1\nRevisión de Print Out nuevos\n¿Qué estoy viendo?\n\nDescripción\n\nObservaciones a los Print Out de los nuevos Relés.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n10 días hábiles\n\nFecha límite\n\n01-07-2026\n\nDepende de\n\nSolicitud de revisión de Print Out nuevo\nHistorial de movimientos"
+      ]
+    },
+    "req5d4da05136d9ef7615c4d9bd": {
+      "casilla": "Prot E",
+      "parent_group": "OTROS PES",
+      "sub_panels": [
+        "Listado de Requerimientos\n50%\n'PROTOCOLOS SAT EQUIPOS PRIMARIOS\nEncargado: DAOP\nI.1\nSolicitud de revisión de Protocolos SAT\nI.1\nRevisión de Protocolos SAT\n¿Qué estoy viendo?\n\nDescripción\n\nObservaciones a los protocolos SAT de Equipos Primarios.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n10 días hábiles\n\nFecha límite\n\n25-06-2026\n\nDepende de\n\nSolicitud de revisión de Protocolos SAT\nHistorial de movimientos"
+      ]
+    },
+    "req665604b236d9ef441648202b": {
+      "casilla": "Plan Ener Gx",
+      "parent_group": "OTROS PES",
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\nPLAN DE ENERGIZACIÓN GENERACIÓN\nEncargado: Departamento Conexiones\nI.1\nRecepción plan de energización Generación\nI.1\nRevisión Plan de Energización Generación\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa solicitante debe hacer envío del plan de Energización de acuerdo al AT.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n12-05-2026\n\nHistorial de movimientos"
+      ]
+    },
+    "req5d4da2bc36d9ef761836f1eb": {
+      "casilla": "Prog P",
+      "parent_group": "OTROS PES",
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\n'PROGRAMA DE PRUEBAS\nEncargado: Programacion\nI.1\nRecepción del Programa de Pruebas\nI.1\nRevisión del Programa de Pruebas\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante envía un Programa de Pruebas para revisión\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n12-05-2026\n\nHistorial de movimientos"
+      ]
+    },
+    "req5d4d9fe036d9ef7615c4a7d9": {
+      "casilla": "Carta SEC",
+      "parent_group": "OTROS PES",
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\n'COMUNICACIÓN A LA SEC\nEncargado: Departamento Conexiones\nI.1\nCarta a la SEC\n¿Qué estoy viendo?\n\nDescripción\n\nComunicación a la SEC con 15 días de anticipación a la energización de instalaciones, según se indica en el Artículo 72°17 de la LGSE\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n12-05-2026\n\nHistorial de movimientos"
+      ]
+    },
+    "req6047918036d9ef2de309723d": {
+      "casilla": "Opreal",
+      "parent_group": "PLATAFORMAS PES",
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\n'OPERACIÓN REAL\nEncargado: OpReal\nI.1\nRecepción Antecedentes Opreal\nI.1\nCreación Usuario Opreal\n¿Qué estoy viendo?\n\nDescripción\n\nRecepción de Formulario para creación de la Central en la Plataforma Opreal\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n12-06-2026\n\nHistorial de movimientos"
+      ]
+    }
+  },
+  "first_seen": {
+    "req60ad0d0d36d9ef44f12350ef|De acuerdo con el Artículo 5 letra c) del Anexo Técnico: Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI, las empresas solicitantes deben mantener actualizado el cronograma del proyecto.": "2026-06-23T01:26:16.892920+00:00",
+    "req606a6bc436d9ef1a2254fc9b|La Empresa Solicitante debe proponer una fecha para la realización de pruebas punto a punto, al menos 7 días hábiles antes de las pruebas. Los formatos de solicitud se pueden encontrar en material de ayuda de la PGP o en el sitio web http://www.coordinador.cl/conexion.proyectos.": "2026-06-23T01:26:16.892941+00:00",
+    "req6076676d36d9ef7d11ba2199|Definición y Pruebas del enlace de comunicaciones para los medidores del proyecto.": "2026-06-23T01:26:16.892955+00:00",
+    "req5d4da0b036d9ef76163e2e6d|Observaciones a los protocolos de prueba de inyección secundaria de los nuevos relés.": "2026-06-23T01:26:16.892969+00:00",
+    "req5d4da10d36d9ef7615c50d5d|Observaciones a los Print Out de los nuevos Relés.": "2026-06-23T01:26:16.892981+00:00",
+    "req5d4da05136d9ef7615c4d9bd|Observaciones a los protocolos SAT de Equipos Primarios.": "2026-06-23T01:26:16.892993+00:00",
+    "req665604b236d9ef441648202b|La Empresa solicitante debe hacer envío del plan de Energización de acuerdo al AT.": "2026-06-23T01:26:16.893002+00:00",
+    "req5d4da2bc36d9ef761836f1eb|La Empresa Solicitante envía un Programa de Pruebas para revisión": "2026-06-23T01:26:16.893012+00:00",
+    "req5d4d9fe036d9ef7615c4a7d9|Comunicación a la SEC con 15 días de anticipación a la energización de instalaciones, según se indica en el Artículo 72°17 de la LGSE": "2026-06-23T01:26:16.893029+00:00",
+    "req6047918036d9ef2de309723d|Recepción de Formulario para creación de la Central en la Plataforma Opreal": "2026-06-23T01:26:16.893040+00:00"
+  }
+}

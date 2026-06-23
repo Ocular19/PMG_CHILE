@@ -1,0 +1,315 @@
+{
+  "fetched_at": "2026-06-23T01:26:23.550367+00:00",
+  "name": "NI PMG Zaturno ",
+  "correlativo": 1697,
+  "completition_status": 12,
+  "completition_pes": 14,
+  "service_estimate_date": "2026-03-30T00:00:00",
+  "operative_estimate_date": "2026-06-22T00:00:00",
+  "reception_date": "2023-03-31T00:00:00",
+  "boxes": {
+    "req5a5ebdc901447e4bfc0aa6e3": {
+      "text": "CEM Definitiva",
+      "state": "completado",
+      "is_container": false
+    },
+    "req6088396036d9ef6adef5612c": {
+      "text": "ANIT y PLANOS",
+      "state": "completado",
+      "is_container": true
+    },
+    "req5d4c907f36d9ef7615bf7a08": {
+      "text": "DUF",
+      "state": "completado",
+      "is_container": false
+    },
+    "req5ea9f8c136d9ef4be78ea70b": {
+      "text": "ANIT",
+      "state": "completado",
+      "is_container": false
+    },
+    "req5d4d5ffe36d9ef7615c24383": {
+      "text": "RI",
+      "state": "en_curso",
+      "is_container": false
+    },
+    "req60ad0d0d36d9ef44f12350ef": {
+      "text": "Cronograma",
+      "state": "en_curso",
+      "is_container": false
+    },
+    "req5d4c968836d9ef7617252155": {
+      "text": "Act. CEM Def",
+      "state": "en_curso",
+      "is_container": false
+    },
+    "req60ca060536d9ef1ee6b43b49": {
+      "text": "INFORMACIÓN TÉCNICA",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req60ca075236d9ef2b9316e203": {
+      "text": "INFOTÉCNICA PARA ESTUDIOS",
+      "state": "pendiente",
+      "is_container": true
+    },
+    "req5d4c9a0536d9ef7615c07b9a": {
+      "text": "IT E",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req663e555536d9ef0e1713e378": {
+      "text": "RevITEInv",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req60ca06b836d9ef38d7c4be4e": {
+      "text": "ESTUDIOS DE INTERCONEXIÓN",
+      "state": "pendiente",
+      "is_container": true
+    },
+    "req5d4d62dd36d9ef761727f012": {
+      "text": "ECAP",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4d80cc36d9ef76163c415e": {
+      "text": "ET",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4d815e36d9ef7615c337b6": {
+      "text": "ECB",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4d811736d9ef76163c4333": {
+      "text": "ECC",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4d828736d9ef7615c3571d": {
+      "text": "ECA",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4d821236d9ef7615c3554c": {
+      "text": "EMT",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4d852636d9ef76183532d7": {
+      "text": "SCADA Y MEDIDAS",
+      "state": "pendiente",
+      "is_container": true
+    },
+    "req5d4d8b9e36d9ef76163cb2cf": {
+      "text": "SITR",
+      "state": "pendiente",
+      "is_container": true
+    },
+    "req607664e136d9ef3500287df3": {
+      "text": "Enlace",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req606a6b8536d9ef1a2254fa09": {
+      "text": "DIR/TAG",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req606a6bc436d9ef1a2254fc9b": {
+      "text": "Fecha Pruebas",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4d8e6c36d9ef7615c3ecd3": {
+      "text": "Pruebas",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4d8acf36d9ef761835aef5": {
+      "text": "EME",
+      "state": "pendiente",
+      "is_container": true
+    },
+    "req6076676d36d9ef7d11ba2199": {
+      "text": "Enlace",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req606a6c0436d9ef51933e5e93": {
+      "text": "Fecha Pruebas",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5e4d4b5a36d9ef2cd9aa1241": {
+      "text": "Pruebas",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4d985736d9ef76163d61b6": {
+      "text": "OTROS PES",
+      "state": "pendiente",
+      "is_container": true
+    },
+    "req5d4da28736d9ef7615c57207": {
+      "text": "GM",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req665604b236d9ef441648202b": {
+      "text": "Plan Ener Gx",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4da2bc36d9ef761836f1eb": {
+      "text": "Prog P",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4da05136d9ef7615c4d9bd": {
+      "text": "Prot E",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4da0b036d9ef76163e2e6d": {
+      "text": "Prot P",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4da10d36d9ef7615c50d5d": {
+      "text": "PO N",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4d9fe036d9ef7615c4a7d9": {
+      "text": "Carta SEC",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req604792ec36d9ef3b4fd75707": {
+      "text": "PLATAFORMAS PES",
+      "state": "pendiente",
+      "is_container": true
+    },
+    "req6047918036d9ef2de309723d": {
+      "text": "Opreal",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req604791af36d9ef530b47bbd7": {
+      "text": "Pronósticos",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req60612e2236d9ef1fc3814a92": {
+      "text": "Neomante",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req60ca07ce36d9ef38d7c4e6bc": {
+      "text": "PLATAFORMAS EO",
+      "state": "pendiente",
+      "is_container": true
+    },
+    "req60612d9936d9ef0e9752226b": {
+      "text": "REUC",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req60612e0736d9ef1fc3814808": {
+      "text": "P. Pagos",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req60478dea36d9ef42935ee7d1": {
+      "text": "OTROS EO",
+      "state": "pendiente",
+      "is_container": true
+    },
+    "req5d4c9a3d36d9ef7615c07cfb": {
+      "text": "IT PES",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req64e3afeb36d9ef23190ab0a4": {
+      "text": "Pruebas End to End",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req606a67e336d9ef1a2254f2f7": {
+      "text": "IT PES (inv)",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4da16b36d9ef76172b5bc4": {
+      "text": "PO E",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4da9c336d9ef761837419c": {
+      "text": "CVNC",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4da87e36d9ef76183739c3": {
+      "text": "VMD",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req600f044436d9ef327f0765cb": {
+      "text": "PARÁMETROS DE GENERACIÓN",
+      "state": "pendiente",
+      "is_container": true
+    },
+    "req5d4da5d136d9ef761837315b": {
+      "text": "PMax",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4da62e36d9ef76172b6c08": {
+      "text": "PPyD",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4da56936d9ef7615c580e4": {
+      "text": "MT",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req5d4dab3f36d9ef7615c59207": {
+      "text": "SEO",
+      "state": "pendiente",
+      "is_container": false
+    }
+  },
+  "active_tasks": {
+    "req5d4d5ffe36d9ef7615c24383": {
+      "casilla": "RI",
+      "parent_group": "ANIT y PLANOS",
+      "sub_panels": [
+        "Listado de Requerimientos\n66%\n'REVISIÓN INGENIERÍA DE DISEÑO\nEncargado: Dpto. Estándares y Normativa\nI.3\nSolicitud de Revisión de la Ingeniería de Diseño\nI.3\nRevisión de Ingeniería de Diseño\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante envía a revisión los respaldos de la Ingeniería de Diseño solicitada\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGMMS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n23-12-2025\n\nHistorial de movimientos"
+      ]
+    },
+    "req60ad0d0d36d9ef44f12350ef": {
+      "casilla": "Cronograma",
+      "parent_group": null,
+      "sub_panels": [
+        "Listado de Requerimientos\n87%\n'ACTUALIZACIÓN DE CRONOGRAMA\nEncargado: Departamento Conexiones\nI.8\nActualización de Cronograma\n¿Qué estoy viendo?\n\nDescripción\n\nDe acuerdo con el Artículo 5 letra c) del Anexo Técnico: Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI, las empresas solicitantes deben mantener actualizado el cronograma del proyecto.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGMMS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n03-06-2026\n\nHistorial de movimientos"
+      ]
+    },
+    "req5d4c968836d9ef7617252155": {
+      "casilla": "Act. CEM Def",
+      "parent_group": null,
+      "sub_panels": [
+        "Listado de Requerimientos\n50%\n'ACTUALIZACIÓN DE ANEXOS DE CEM DEFINITIVA\nEncargado: Departamento Conexiones\nI.2\nSolicitud de actualización de Anexos CEM\nI.2\nActualización de Anexos de la CEM\n¿Qué estoy viendo?\n\nDescripción\n\nSolicitud de actualización de Anexos de la CEM\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGMMS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n03-06-2026\n\nHistorial de movimientos"
+      ]
+    }
+  },
+  "first_seen": {
+    "req5d4d5ffe36d9ef7615c24383|La Empresa Solicitante envía a revisión los respaldos de la Ingeniería de Diseño solicitada": "2026-06-23T01:26:23.550396+00:00",
+    "req60ad0d0d36d9ef44f12350ef|De acuerdo con el Artículo 5 letra c) del Anexo Técnico: Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI, las empresas solicitantes deben mantener actualizado el cronograma del proyecto.": "2026-06-23T01:26:23.550417+00:00",
+    "req5d4c968836d9ef7617252155|Solicitud de actualización de Anexos de la CEM": "2026-06-23T01:26:23.550428+00:00"
+  }
+}
