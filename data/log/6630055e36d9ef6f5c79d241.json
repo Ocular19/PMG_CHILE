@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2026-06-24T21:25:33.289266+00:00",
+    "changes": [
+      "'Prot E': avanzó de etapa — ahora Esperando que Grenergy cargue un documento (fecha límite 25-06-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "Prot E",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "25-06-2026"
+      }
+    ]
+  }
+]
