@@ -12,5 +12,19 @@
         "fecha_limite": "08-07-2026"
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-26T02:50:57.795869+00:00",
+    "changes": [
+      "'Pruebas End to End': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 30-04-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "Pruebas End to End",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "30-04-2026"
+      }
+    ]
   }
 ]
