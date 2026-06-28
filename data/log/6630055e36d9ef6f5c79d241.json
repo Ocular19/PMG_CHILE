@@ -26,5 +26,19 @@
         "fecha_limite": "10-07-2026"
       }
     ]
+  },
+  {
+    "timestamp": "2026-06-28T21:04:36.318929+00:00",
+    "changes": [
+      "'Carta SEC': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 01-07-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "Carta SEC",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "01-07-2026"
+      }
+    ]
   }
 ]

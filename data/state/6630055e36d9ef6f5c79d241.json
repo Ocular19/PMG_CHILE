@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-28T17:11:13.265889+00:00",
+  "fetched_at": "2026-06-28T21:04:36.317624+00:00",
   "name": "PMG Buenaventura",
   "correlativo": 650,
   "completition_status": 64,
@@ -380,7 +380,7 @@
       "casilla": "Carta SEC",
       "parent_group": "OTROS PES",
       "sub_panels": [
-        "Listado de Requerimientos\n0%\n'COMUNICACIÓN A LA SEC\nEncargado: Departamento Conexiones\nI.1\nCarta a la SEC\n¿Qué estoy viendo?\n\nDescripción\n\nComunicación a la SEC con 15 días de anticipación a la energización de instalaciones, según se indica en el Artículo 72°17 de la LGSE\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n12-05-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n0%\n'COMUNICACIÓN A LA SEC\nEncargado: DAOP\nI.1\nCarta a la SEC\n¿Qué estoy viendo?\n\nDescripción\n\nObservaciones a los protocolos de prueba de inyección secundaria de los nuevos relés.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n10 días hábiles\n\nFecha límite\n\n01-07-2026\n\nDepende de\n\nSolicitud de revisión de Protocolos de Protecciones\nHistorial de movimientos"
       ]
     },
     "req6047918036d9ef2de309723d": {
@@ -400,7 +400,7 @@
     "req5d4da05136d9ef7615c4d9bd|Observaciones a los protocolos SAT de Equipos Primarios.": "2026-06-25T18:10:51.769636+00:00",
     "req665604b236d9ef441648202b|La Empresa solicitante debe hacer envío del plan de Energización de acuerdo al AT.": "2026-06-23T01:26:16.893002+00:00",
     "req5d4da2bc36d9ef761836f1eb|La Empresa Solicitante envía un Programa de Pruebas para revisión": "2026-06-23T01:26:16.893012+00:00",
-    "req5d4d9fe036d9ef7615c4a7d9|Comunicación a la SEC con 15 días de anticipación a la energización de instalaciones, según se indica en el Artículo 72°17 de la LGSE": "2026-06-23T01:26:16.893029+00:00",
+    "req5d4d9fe036d9ef7615c4a7d9|Observaciones a los protocolos de prueba de inyección secundaria de los nuevos relés.": "2026-06-28T21:04:36.318064+00:00",
     "req6047918036d9ef2de309723d|Recepción de Formulario para creación de la Central en la Plataforma Opreal": "2026-06-23T01:26:16.893040+00:00"
   }
 }
