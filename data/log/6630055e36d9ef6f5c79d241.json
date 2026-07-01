@@ -54,5 +54,49 @@
         "fecha_limite": "12-05-2026"
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-01T14:44:53.798096+00:00",
+    "changes": [
+      "Casilla 'Prot P' cambió de estado: en_curso -> completado",
+      "Casilla 'PO N' cambió de estado: en_curso -> completado",
+      "Casilla 'IT PES (inv)' cambió de estado: pendiente -> en_curso",
+      "Casilla 'IT PES' cambió de estado: pendiente -> en_curso",
+      "'IT PES': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 02-07-2026).",
+      "Avance general del proyecto: 64% → 67%.",
+      "Avance de requisitos para inicio de PES: 79% → 82%."
+    ],
+    "alerts": [
+      {
+        "casilla": "Prot P",
+        "evento": "Cambió de estado (en_curso → completado)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "PO N",
+        "evento": "Cambió de estado (en_curso → completado)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "IT PES (inv)",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "IT PES",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "02-07-2026"
+      },
+      {
+        "casilla": "IT PES",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "02-07-2026"
+      }
+    ]
   }
 ]
