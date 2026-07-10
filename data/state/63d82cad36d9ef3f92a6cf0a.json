@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-07-10T14:36:16.167208+00:00",
+  "fetched_at": "2026-07-10T17:48:10.304518+00:00",
   "name": "PMG Calderaza ",
   "correlativo": 2310,
-  "completition_status": 75,
+  "completition_status": 76,
   "completition_pes": 91,
   "service_estimate_date": "2025-12-30T00:00:00",
   "operative_estimate_date": "2026-03-30T00:00:00",
@@ -35,7 +35,7 @@
     },
     "req60ad0d0d36d9ef44f12350ef": {
       "text": "Cronograma",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req60ca060536d9ef1ee6b43b49": {
@@ -280,13 +280,6 @@
     }
   },
   "active_tasks": {
-    "req60ad0d0d36d9ef44f12350ef": {
-      "casilla": "Cronograma",
-      "parent_group": null,
-      "sub_panels": [
-        "Listado de Requerimientos\n87%\n'ACTUALIZACIÓN DE CRONOGRAMA\nEncargado: Departamento Conexiones\nI.8\nActualización de Cronograma\n¿Qué estoy viendo?\n\nDescripción\n\nDe acuerdo con el Artículo 5 letra c) del Anexo Técnico: Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI, las empresas solicitantes deben mantener actualizado el cronograma del proyecto.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nMSS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n12-12-2025\n\nHistorial de movimientos"
-      ]
-    },
     "req606a6bc436d9ef1a2254fc9b": {
       "casilla": "Fecha Pruebas",
       "parent_group": "SITR",
@@ -324,7 +317,6 @@
     }
   },
   "first_seen": {
-    "req60ad0d0d36d9ef44f12350ef|De acuerdo con el Artículo 5 letra c) del Anexo Técnico: Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI, las empresas solicitantes deben mantener actualizado el cronograma del proyecto.": "2026-06-23T01:26:32.102065+00:00",
     "req606a6bc436d9ef1a2254fc9b|La Empresa Solicitante debe proponer una fecha para la realización de pruebas punto a punto, al menos 7 días hábiles antes de las pruebas. Los formatos de solicitud se pueden encontrar en material de ayuda de la PGP o en el sitio web http://www.coordinador.cl/conexion.proyectos.": "2026-06-23T01:26:32.102082+00:00",
     "req6076676d36d9ef7d11ba2199|Definición y Pruebas del enlace de comunicaciones para los medidores del proyecto.": "2026-06-23T01:26:32.102095+00:00",
     "req665604b236d9ef441648202b|La Empresa solicitante debe hacer envío del plan de Energización de acuerdo al AT.": "2026-06-23T01:26:32.102104+00:00",

@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "timestamp": "2026-07-10T17:47:21.401709+00:00",
+    "changes": [
+      "Casilla 'REUC' cambió de estado: pendiente -> completado",
+      "Casilla 'IT PES' cambió de estado: pendiente -> en_curso",
+      "Casilla 'PO E' cambió de estado: pendiente -> en_curso",
+      "Casilla 'Pruebas End to End' cambió de estado: pendiente -> en_curso",
+      "Casilla 'CVNC' cambió de estado: pendiente -> en_curso",
+      "Casilla 'VMD' cambió de estado: pendiente -> en_curso",
+      "Casilla 'PMax' cambió de estado: pendiente -> en_curso",
+      "Casilla 'PPyD' cambió de estado: pendiente -> en_curso",
+      "Casilla 'MT' cambió de estado: pendiente -> en_curso",
+      "'IT PES': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 13-07-2026).",
+      "'PO E': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 13-07-2026).",
+      "'Pruebas End to End': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 13-07-2026).",
+      "'CVNC': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 13-07-2026).",
+      "'VMD': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 13-07-2026).",
+      "'PMax': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 13-07-2026).",
+      "'PPyD': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 13-07-2026).",
+      "'MT': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 13-07-2026).",
+      "'Modelos EMT': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 13-07-2026).",
+      "Avance general del proyecto: 82% → 81%."
+    ]
+  }
+]
