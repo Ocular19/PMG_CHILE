@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-10T10:55:58.876950+00:00",
+  "fetched_at": "2026-07-10T14:35:56.975708+00:00",
   "name": "PMG Buenaventura",
   "correlativo": 650,
-  "completition_status": 67,
-  "completition_pes": 82,
+  "completition_status": 69,
+  "completition_pes": 86,
   "service_estimate_date": "2026-05-01T00:00:00",
   "operative_estimate_date": "2026-07-01T00:00:00",
   "reception_date": "2024-04-26T00:00:00",
@@ -180,7 +180,7 @@
     },
     "req5d4da05136d9ef7615c4d9bd": {
       "text": "Prot E",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req665604b236d9ef441648202b": {
@@ -341,13 +341,6 @@
         "Listado de Requerimientos\n0%\n'PRUEBAS DEL ENLACE DE COMUNICACIONES EME\nEncargado: Departamento Conexiones\nI.1\nDefinición y Prueba del Enlace\n¿Qué estoy viendo?\n\nDescripción\n\nDefinición y Pruebas del enlace de comunicaciones para los medidores del proyecto.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n5 días hábiles\n\nFecha límite\n\n18-05-2026\n\nHistorial de movimientos"
       ]
     },
-    "req5d4da05136d9ef7615c4d9bd": {
-      "casilla": "Prot E",
-      "parent_group": "OTROS PES",
-      "sub_panels": [
-        "Listado de Requerimientos\n75%\n'PROTOCOLOS SAT EQUIPOS PRIMARIOS\nEncargado: DAOP\nI.2\nSolicitud de revisión de Protocolos SAT\nI.2\nRevisión de Protocolos SAT\n¿Qué estoy viendo?\n\nDescripción\n\nObservaciones a los protocolos SAT de Equipos Primarios.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n10 días hábiles\n\nFecha límite\n\n10-07-2026\n\nDepende de\n\nSolicitud de revisión de Protocolos SAT\nHistorial de movimientos"
-      ]
-    },
     "req665604b236d9ef441648202b": {
       "casilla": "Plan Ener Gx",
       "parent_group": "OTROS PES",
@@ -395,7 +388,6 @@
     "req60ad0d0d36d9ef44f12350ef|De acuerdo con el Artículo 5 letra c) del Anexo Técnico: Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI, las empresas solicitantes deben mantener actualizado el cronograma del proyecto.": "2026-06-23T01:26:16.892920+00:00",
     "req606a6bc436d9ef1a2254fc9b|La Empresa Solicitante debe proponer una fecha para la realización de pruebas punto a punto, al menos 7 días hábiles antes de las pruebas. Los formatos de solicitud se pueden encontrar en material de ayuda de la PGP o en el sitio web http://www.coordinador.cl/conexion.proyectos.": "2026-06-23T01:26:16.892941+00:00",
     "req6076676d36d9ef7d11ba2199|Definición y Pruebas del enlace de comunicaciones para los medidores del proyecto.": "2026-06-23T01:26:16.892955+00:00",
-    "req5d4da05136d9ef7615c4d9bd|Observaciones a los protocolos SAT de Equipos Primarios.": "2026-06-25T18:10:51.769636+00:00",
     "req665604b236d9ef441648202b|La Empresa solicitante debe hacer envío del plan de Energización de acuerdo al AT.": "2026-06-23T01:26:16.893002+00:00",
     "req5d4da2bc36d9ef761836f1eb|La Empresa Solicitante envía un Programa de Pruebas para revisión": "2026-06-23T01:26:16.893012+00:00",
     "req5d4d9fe036d9ef7615c4a7d9|Comunicación a la SEC con 15 días de anticipación a la energización de instalaciones, según se indica en el Artículo 72°17 de la LGSE": "2026-06-29T02:57:28.512236+00:00",
