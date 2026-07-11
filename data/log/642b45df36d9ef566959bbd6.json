@@ -1,0 +1,31 @@
+[
+  {
+    "timestamp": "2026-07-11T02:08:35.266923+00:00",
+    "changes": [
+      "'RI': cambió la fecha límite o el responsable — ahora Esperando que Grenergy cargue un documento (fecha límite 13-07-2026).",
+      "'Cronograma': cambió la fecha límite o el responsable — ahora Esperando que Grenergy cargue un documento (fecha límite 13-07-2026).",
+      "'Act. CEM Def': cambió la fecha límite o el responsable — ahora Esperando que Grenergy cargue un documento (fecha límite 13-07-2026).",
+      "Avance general del proyecto: 12% → 11%."
+    ],
+    "alerts": [
+      {
+        "casilla": "RI",
+        "evento": "Cambió fecha límite o responsable",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "13-07-2026"
+      },
+      {
+        "casilla": "Cronograma",
+        "evento": "Cambió fecha límite o responsable",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "13-07-2026"
+      },
+      {
+        "casilla": "Act. CEM Def",
+        "evento": "Cambió fecha límite o responsable",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "13-07-2026"
+      }
+    ]
+  }
+]

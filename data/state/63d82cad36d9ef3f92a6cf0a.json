@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-07-10T21:08:40.949511+00:00",
+  "fetched_at": "2026-07-11T02:08:49.635553+00:00",
   "name": "PMG Calderaza ",
   "correlativo": 2310,
-  "completition_status": 76,
+  "completition_status": 75,
   "completition_pes": 91,
   "service_estimate_date": "2025-12-30T00:00:00",
   "operative_estimate_date": "2026-03-30T00:00:00",
@@ -273,6 +273,16 @@
       "state": "pendiente",
       "is_container": false
     },
+    "req6a173dcf36d9ef4dfd2e68fc": {
+      "text": "REQUERIMIENTOS DE CONVERTIDORES",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req6a15c8b636d9ef7d59878e93": {
+      "text": "Modelos EMT",
+      "state": "pendiente",
+      "is_container": false
+    },
     "req5d4dab3f36d9ef7615c59207": {
       "text": "SEO",
       "state": "pendiente",
@@ -284,35 +294,35 @@
       "casilla": "Fecha Pruebas",
       "parent_group": "SITR",
       "sub_panels": [
-        "Listado de Requerimientos\n0%\n'COORDINACIÓN FECHA PRUEBAS SITR\nEncargado: SCADA\nI.1\nSolicitud de fecha de pruebas SITR\nI.1\nConfirmación de fecha de pruebas SITR\nI.1\nResultados de pruebas internas SITR\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe proponer una fecha para la realización de pruebas punto a punto, al menos 7 días hábiles antes de las pruebas. Los formatos de solicitud se pueden encontrar en material de ayuda de la PGP o en el sitio web http://www.coordinador.cl/conexion.proyectos.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nMSS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n02-10-2025\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n0%\n'COORDINACIÓN FECHA PRUEBAS SITR\nEncargado: SCADA\nI.1\nSolicitud de fecha de pruebas SITR\nI.1\nConfirmación de fecha de pruebas SITR\nI.1\nResultados de pruebas internas SITR\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe proponer una fecha para la realización de pruebas punto a punto, al menos 7 días hábiles antes de las pruebas. Los formatos de solicitud se pueden encontrar en material de ayuda de la PGP o en el sitio web http://www.coordinador.cl/conexion.proyectos.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nMSS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n13-07-2026\n\nHistorial de movimientos"
       ]
     },
     "req6076676d36d9ef7d11ba2199": {
       "casilla": "Enlace",
       "parent_group": "EME",
       "sub_panels": [
-        "Listado de Requerimientos\n0%\n'PRUEBAS DEL ENLACE DE COMUNICACIONES EME\nEncargado: Departamento Conexiones\nI.1\nDefinición y Prueba del Enlace\n¿Qué estoy viendo?\n\nDescripción\n\nDefinición y Pruebas del enlace de comunicaciones para los medidores del proyecto.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n19-03-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n0%\n'PRUEBAS DEL ENLACE DE COMUNICACIONES EME\nEncargado: Departamento Conexiones\nI.1\nDefinición y Prueba del Enlace\n¿Qué estoy viendo?\n\nDescripción\n\nDefinición y Pruebas del enlace de comunicaciones para los medidores del proyecto.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n03-08-2026\n\nHistorial de movimientos"
       ]
     },
     "req665604b236d9ef441648202b": {
       "casilla": "Plan Ener Gx",
       "parent_group": "OTROS PES",
       "sub_panels": [
-        "Listado de Requerimientos\n0%\nPLAN DE ENERGIZACIÓN GENERACIÓN\nEncargado: Departamento Conexiones\nI.1\nRecepción plan de energización Generación\nI.1\nRevisión Plan de Energización Generación\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa solicitante debe hacer envío del plan de Energización de acuerdo al AT.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nMSS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n02-10-2025\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n0%\nPLAN DE ENERGIZACIÓN GENERACIÓN\nEncargado: Departamento Conexiones\nI.1\nRecepción plan de energización Generación\nI.1\nRevisión Plan de Energización Generación\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa solicitante debe hacer envío del plan de Energización de acuerdo al AT.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nMSS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n13-07-2026\n\nHistorial de movimientos"
       ]
     },
     "req5d4d9fe036d9ef7615c4a7d9": {
       "casilla": "Carta SEC",
       "parent_group": "OTROS PES",
       "sub_panels": [
-        "Listado de Requerimientos\n0%\n'COMUNICACIÓN A LA SEC\nEncargado: Departamento Conexiones\nI.1\nCarta a la SEC\n¿Qué estoy viendo?\n\nDescripción\n\nComunicación a la SEC con 15 días de anticipación a la energización de instalaciones, según se indica en el Artículo 72°17 de la LGSE\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nMSS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n02-10-2025\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n0%\n'COMUNICACIÓN A LA SEC\nEncargado: Departamento Conexiones\nI.1\nCarta a la SEC\n¿Qué estoy viendo?\n\nDescripción\n\nComunicación a la SEC con 15 días de anticipación a la energización de instalaciones, según se indica en el Artículo 72°17 de la LGSE\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nMSS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n13-07-2026\n\nHistorial de movimientos"
       ]
     },
     "req604791af36d9ef530b47bbd7": {
       "casilla": "Pronósticos",
       "parent_group": "PLATAFORMAS PES",
       "sub_panels": [
-        "Listado de Requerimientos\n0%\n'PRONÓSTICOS\nEncargado: Departamento Conexiones\nI.1\nConfirmación de Pronósticos\n¿Qué estoy viendo?\n\nDescripción\n\nConfirmación del correcto envío de Pronósticos a través de la Plataforma Opreal\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n5 días hábiles\n\nFecha límite\n\n08-10-2025\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n0%\n'PRONÓSTICOS\nEncargado: Departamento Conexiones\nI.1\nConfirmación de Pronósticos\n¿Qué estoy viendo?\n\nDescripción\n\nConfirmación del correcto envío de Pronósticos a través de la Plataforma Opreal\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n5 días hábiles\n\nFecha límite\n\n20-07-2026\n\nHistorial de movimientos"
       ]
     }
   },

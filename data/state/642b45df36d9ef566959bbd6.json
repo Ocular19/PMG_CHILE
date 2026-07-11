@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-07-10T21:08:30.622038+00:00",
+  "fetched_at": "2026-07-11T02:08:35.265890+00:00",
   "name": "NI PMG Zaturno ",
   "correlativo": 1697,
-  "completition_status": 12,
+  "completition_status": 11,
   "completition_pes": 14,
   "service_estimate_date": "2026-03-30T00:00:00",
   "operative_estimate_date": "2026-06-22T00:00:00",
@@ -278,6 +278,16 @@
       "state": "pendiente",
       "is_container": false
     },
+    "req6a173dcf36d9ef4dfd2e68fc": {
+      "text": "REQUERIMIENTOS DE CONVERTIDORES",
+      "state": "pendiente",
+      "is_container": false
+    },
+    "req6a15c8b636d9ef7d59878e93": {
+      "text": "Modelos EMT",
+      "state": "pendiente",
+      "is_container": false
+    },
     "req5d4dab3f36d9ef7615c59207": {
       "text": "SEO",
       "state": "pendiente",
@@ -289,21 +299,21 @@
       "casilla": "RI",
       "parent_group": "ANIT y PLANOS",
       "sub_panels": [
-        "Listado de Requerimientos\n66%\n'REVISIÓN INGENIERÍA DE DISEÑO\nEncargado: Dpto. Estándares y Normativa\nI.3\nSolicitud de Revisión de la Ingeniería de Diseño\nI.3\nRevisión de Ingeniería de Diseño\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante envía a revisión los respaldos de la Ingeniería de Diseño solicitada\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGMMS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n23-12-2025\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n66%\n'REVISIÓN INGENIERÍA DE DISEÑO\nEncargado: Dpto. Estándares y Normativa\nI.3\nSolicitud de Revisión de la Ingeniería de Diseño\nI.3\nRevisión de Ingeniería de Diseño\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante envía a revisión los respaldos de la Ingeniería de Diseño solicitada\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGMMS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n13-07-2026\n\nHistorial de movimientos"
       ]
     },
     "req60ad0d0d36d9ef44f12350ef": {
       "casilla": "Cronograma",
       "parent_group": null,
       "sub_panels": [
-        "Listado de Requerimientos\n87%\n'ACTUALIZACIÓN DE CRONOGRAMA\nEncargado: Departamento Conexiones\nI.8\nActualización de Cronograma\n¿Qué estoy viendo?\n\nDescripción\n\nDe acuerdo con el Artículo 5 letra c) del Anexo Técnico: Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI, las empresas solicitantes deben mantener actualizado el cronograma del proyecto.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGMMS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n03-06-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n87%\n'ACTUALIZACIÓN DE CRONOGRAMA\nEncargado: Departamento Conexiones\nI.8\nActualización de Cronograma\n¿Qué estoy viendo?\n\nDescripción\n\nDe acuerdo con el Artículo 5 letra c) del Anexo Técnico: Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI, las empresas solicitantes deben mantener actualizado el cronograma del proyecto.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGMMS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n13-07-2026\n\nHistorial de movimientos"
       ]
     },
     "req5d4c968836d9ef7617252155": {
       "casilla": "Act. CEM Def",
       "parent_group": null,
       "sub_panels": [
-        "Listado de Requerimientos\n50%\n'ACTUALIZACIÓN DE ANEXOS DE CEM DEFINITIVA\nEncargado: Departamento Conexiones\nI.2\nSolicitud de actualización de Anexos CEM\nI.2\nActualización de Anexos de la CEM\n¿Qué estoy viendo?\n\nDescripción\n\nSolicitud de actualización de Anexos de la CEM\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGMMS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n03-06-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n50%\n'ACTUALIZACIÓN DE ANEXOS DE CEM DEFINITIVA\nEncargado: Departamento Conexiones\nI.2\nSolicitud de actualización de Anexos CEM\nI.2\nActualización de Anexos de la CEM\n¿Qué estoy viendo?\n\nDescripción\n\nSolicitud de actualización de Anexos de la CEM\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGMMS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n13-07-2026\n\nHistorial de movimientos"
       ]
     }
   },
