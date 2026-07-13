@@ -146,5 +146,82 @@
         "fecha_limite": "13-07-2026"
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-13T14:42:40.303841+00:00",
+    "changes": [
+      "Casilla 'IT PES' cambió de estado: en_curso -> pendiente",
+      "Casilla 'PO E' cambió de estado: en_curso -> pendiente",
+      "Casilla 'Pruebas End to End' cambió de estado: en_curso -> pendiente",
+      "Casilla 'CVNC' cambió de estado: en_curso -> pendiente",
+      "Casilla 'VMD' cambió de estado: en_curso -> pendiente",
+      "Casilla 'PMax' cambió de estado: en_curso -> pendiente",
+      "Casilla 'PPyD' cambió de estado: en_curso -> pendiente",
+      "Casilla 'MT' cambió de estado: en_curso -> pendiente",
+      "Casilla 'REQUERIMIENTOS DE CONVERTIDORES' cambió de estado: en_curso -> pendiente",
+      "Casilla 'Modelos EMT' cambió de estado: en_curso -> pendiente"
+    ],
+    "alerts": [
+      {
+        "casilla": "IT PES",
+        "evento": "Cambió de estado (en_curso → pendiente)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "PO E",
+        "evento": "Cambió de estado (en_curso → pendiente)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "Pruebas End to End",
+        "evento": "Cambió de estado (en_curso → pendiente)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "CVNC",
+        "evento": "Cambió de estado (en_curso → pendiente)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "VMD",
+        "evento": "Cambió de estado (en_curso → pendiente)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "PMax",
+        "evento": "Cambió de estado (en_curso → pendiente)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "PPyD",
+        "evento": "Cambió de estado (en_curso → pendiente)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "MT",
+        "evento": "Cambió de estado (en_curso → pendiente)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "REQUERIMIENTOS DE CONVERTIDORES",
+        "evento": "Cambió de estado (en_curso → pendiente)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "Modelos EMT",
+        "evento": "Cambió de estado (en_curso → pendiente)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      }
+    ]
   }
 ]
