@@ -185,5 +185,40 @@
         "fecha_limite": "14-07-2026"
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-13T17:54:41.763603+00:00",
+    "changes": [
+      "Casilla 'Carta SEC' cambió de estado: pendiente -> en_curso",
+      "Casilla 'Opreal' cambió de estado: pendiente -> en_curso",
+      "'Carta SEC': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 14-07-2026).",
+      "'Opreal': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 14-07-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "Carta SEC",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "14-07-2026"
+      },
+      {
+        "casilla": "Opreal",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "14-07-2026"
+      },
+      {
+        "casilla": "Carta SEC",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "14-07-2026"
+      },
+      {
+        "casilla": "Opreal",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "14-07-2026"
+      }
+    ]
   }
 ]

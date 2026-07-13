@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-13T14:43:21.307793+00:00",
+  "fetched_at": "2026-07-13T17:54:41.761841+00:00",
   "name": "PMG Buenaventura",
   "correlativo": 650,
   "completition_status": 70,
@@ -200,17 +200,17 @@
     },
     "req5d4d9fe036d9ef7615c4a7d9": {
       "text": "Carta SEC",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": false
     },
     "req604792ec36d9ef3b4fd75707": {
       "text": "PLATAFORMAS PES",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": true
     },
     "req6047918036d9ef2de309723d": {
       "text": "Opreal",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": false
     },
     "req604791af36d9ef530b47bbd7": {
@@ -344,6 +344,20 @@
       "sub_panels": [
         "Listado de Requerimientos\n0%\n'PROGRAMA DE PRUEBAS\nEncargado: Programacion\nI.1\nRecepción del Programa de Pruebas\nI.1\nRevisión del Programa de Pruebas\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante envía un Programa de Pruebas para revisión\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
       ]
+    },
+    "req5d4d9fe036d9ef7615c4a7d9": {
+      "casilla": "Carta SEC",
+      "parent_group": "OTROS PES",
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\n'COMUNICACIÓN A LA SEC\nEncargado: Departamento Conexiones\nI.1\nCarta a la SEC\n¿Qué estoy viendo?\n\nDescripción\n\nComunicación a la SEC con 15 días de anticipación a la energización de instalaciones, según se indica en el Artículo 72°17 de la LGSE\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
+      ]
+    },
+    "req6047918036d9ef2de309723d": {
+      "casilla": "Opreal",
+      "parent_group": "PLATAFORMAS PES",
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\n'OPERACIÓN REAL\nEncargado: OpReal\nI.1\nRecepción Antecedentes Opreal\nI.1\nCreación Usuario Opreal\n¿Qué estoy viendo?\n\nDescripción\n\nRecepción de Formulario para creación de la Central en la Plataforma Opreal\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
+      ]
     }
   },
   "first_seen": {
@@ -351,6 +365,8 @@
     "req606a6bc436d9ef1a2254fc9b|La Empresa Solicitante debe proponer una fecha para la realización de pruebas punto a punto, al menos 7 días hábiles antes de las pruebas. Los formatos de solicitud se pueden encontrar en material de ayuda de la PGP o en el sitio web http://www.coordinador.cl/conexion.proyectos.": "2026-06-23T01:26:16.892941+00:00",
     "req6076676d36d9ef7d11ba2199|Definición y Pruebas del enlace de comunicaciones para los medidores del proyecto.": "2026-06-23T01:26:16.892955+00:00",
     "req665604b236d9ef441648202b|La Empresa solicitante debe hacer envío del plan de Energización de acuerdo al AT.": "2026-06-23T01:26:16.893002+00:00",
-    "req5d4da2bc36d9ef761836f1eb|La Empresa Solicitante envía un Programa de Pruebas para revisión": "2026-06-23T01:26:16.893012+00:00"
+    "req5d4da2bc36d9ef761836f1eb|La Empresa Solicitante envía un Programa de Pruebas para revisión": "2026-06-23T01:26:16.893012+00:00",
+    "req5d4d9fe036d9ef7615c4a7d9|Comunicación a la SEC con 15 días de anticipación a la energización de instalaciones, según se indica en el Artículo 72°17 de la LGSE": "2026-07-13T17:54:41.762227+00:00",
+    "req6047918036d9ef2de309723d|Recepción de Formulario para creación de la Central en la Plataforma Opreal": "2026-07-13T17:54:41.762241+00:00"
   }
 }

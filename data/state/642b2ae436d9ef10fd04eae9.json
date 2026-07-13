@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-13T14:42:40.302780+00:00",
+  "fetched_at": "2026-07-13T17:54:09.857279+00:00",
   "name": "NI PMG Toledo (Ex Travesía)",
   "correlativo": 1721,
   "completition_status": 81,
-  "completition_pes": 99,
+  "completition_pes": 98,
   "service_estimate_date": "2026-04-27T00:00:00",
   "operative_estimate_date": "2026-07-28T00:00:00",
   "reception_date": "2023-03-31T00:00:00",
@@ -35,7 +35,7 @@
     },
     "req60ad0d0d36d9ef44f12350ef": {
       "text": "Cronograma",
-      "state": "completado",
+      "state": "en_curso",
       "is_container": false
     },
     "req60ca060536d9ef1ee6b43b49": {
@@ -210,7 +210,7 @@
     },
     "req60ca07ce36d9ef38d7c4e6bc": {
       "text": "PLATAFORMAS EO",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": true
     },
     "req60612d9936d9ef0e9752226b": {
@@ -225,62 +225,62 @@
     },
     "req60478dea36d9ef42935ee7d1": {
       "text": "OTROS EO",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": true
     },
     "req5d4c9a3d36d9ef7615c07cfb": {
       "text": "IT PES",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": false
     },
     "req5d4da16b36d9ef76172b5bc4": {
       "text": "PO E",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": false
     },
     "req64e3afeb36d9ef23190ab0a4": {
       "text": "Pruebas End to End",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": false
     },
     "req5d4da9c336d9ef761837419c": {
       "text": "CVNC",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": false
     },
     "req5d4da87e36d9ef76183739c3": {
       "text": "VMD",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": false
     },
     "req600f044436d9ef327f0765cb": {
       "text": "PARÁMETROS DE GENERACIÓN",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": true
     },
     "req5d4da5d136d9ef761837315b": {
       "text": "PMax",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": false
     },
     "req5d4da62e36d9ef76172b6c08": {
       "text": "PPyD",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": false
     },
     "req5d4da56936d9ef7615c580e4": {
       "text": "MT",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": false
     },
     "req6a173dcf36d9ef4dfd2e68fc": {
       "text": "REQUERIMIENTOS DE CONVERTIDORES",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": false
     },
     "req6a15c8b636d9ef7d59878e93": {
       "text": "Modelos EMT",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": false
     },
     "req5d4dab3f36d9ef7615c59207": {
@@ -290,15 +290,102 @@
     }
   },
   "active_tasks": {
+    "req60ad0d0d36d9ef44f12350ef": {
+      "casilla": "Cronograma",
+      "parent_group": null,
+      "sub_panels": [
+        "Listado de Requerimientos\n87%\n'ACTUALIZACIÓN DE CRONOGRAMA\nEncargado: Departamento Conexiones\nI.8\nActualización de Cronograma\n¿Qué estoy viendo?\n\nDescripción\n\nDe acuerdo con el Artículo 5 letra c) del Anexo Técnico: Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI, las empresas solicitantes deben mantener actualizado el cronograma del proyecto.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGNS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
+      ]
+    },
     "req665604b236d9ef441648202b": {
       "casilla": "Plan Ener Gx",
       "parent_group": "OTROS PES",
       "sub_panels": [
         "Listado de Requerimientos\n87%\nPLAN DE ENERGIZACIÓN GENERACIÓN\nEncargado: Departamento Conexiones\nI.4\nRecepción plan de energización Generación\nI.4\nRevisión Plan de Energización Generación\n¿Qué estoy viendo?\n\nDescripción\n\nEl coordinador emitirá su aprobación u observaciones al documento\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n10 días hábiles\n\nFecha límite\n\n08-07-2026\n\nDepende de\n\nRecepción plan de energización Generación\nHistorial de movimientos"
       ]
+    },
+    "req5d4c9a3d36d9ef7615c07cfb": {
+      "casilla": "IT PES",
+      "parent_group": "OTROS EO",
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\n'INFOTÉCNICA PARA PES\nEncargado: DAIT\nI.1\nSolicitud de revisión de información técnica\nI.1\nRevisión de Información Técnica\n¿Qué estoy viendo?\n\nDescripción\n\nPara solicitar revisión de Información Tecnica se debe cumplir con los porcentajes de Completitud minimos solicitados en el ANIT. Una vez revisada la información se procedera de acuerdo a lo informado en los documentos de revisión de la Información Técnica. Para solicitar una nueva revisión, se debe incluir una Minuta de Respuestas a las Observaciones emitidas por el Coordinador.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGNS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
+      ]
+    },
+    "req5d4da16b36d9ef76172b5bc4": {
+      "casilla": "PO E",
+      "parent_group": "OTROS EO",
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\n'PRINT OUT DE RELÉS EXISTENTES\nEncargado: DAOP\nI.1\nSolicitud de Revisión de Print Out existentes\nI.1\nRevisión de Print Out existente\n¿Qué estoy viendo?\n\nDescripción\n\nSolicitud de revisión de Print Out de Relés existentes modificados.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGNS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
+      ]
+    },
+    "req64e3afeb36d9ef23190ab0a4": {
+      "casilla": "Pruebas End to End",
+      "parent_group": "OTROS EO",
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\nPRUEBAS END TO END\nEncargado: DAOP\nI.1\nSolicitud de Revisión de Pruebas End to End\nI.1\nRevisión de Pruebas End to End\n¿Qué estoy viendo?\n\nDescripción\n\nSolicitud de Revisión de Pruebas End to End\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGNS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
+      ]
+    },
+    "req5d4da9c336d9ef761837419c": {
+      "casilla": "CVNC",
+      "parent_group": "OTROS EO",
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\n'DECLARACIÓN DE CVC-CVNC\nEncargado: Departamento Conexiones\nI.1\nRecepción de antecedentes para la declaración de CVC-CVNC\nI.1\nRevisión de antecedentes para la declaración de CVC-CVNC\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe enviar antecedentes para la declaración de Costos Variables Combustibles y No Combustibles\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGNS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
+      ]
+    },
+    "req5d4da87e36d9ef76183739c3": {
+      "casilla": "VMD",
+      "parent_group": "OTROS EO",
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\n'VALIDACIÓN DE MODELO DINÁMICO\nEncargado: Departamento de Modelación y Aplicaciones EMS\nI.1\nRecepción de informe VMD\nI.1\nRevisión de VMD\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGNS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
+      ]
+    },
+    "req5d4da5d136d9ef761837315b": {
+      "casilla": "PMax",
+      "parent_group": "PARÁMETROS DE GENERACIÓN",
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\n'INFORME DE POTENCIA MÁXIMA EN UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.1\nCarta del envío al Coordinador de informe\nI.1\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGNS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
+      ]
+    },
+    "req5d4da62e36d9ef76172b6c08": {
+      "casilla": "PPyD",
+      "parent_group": "PARÁMETROS DE GENERACIÓN",
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\n'INFORME DE PARÁMETROS PROCESOS DE PARTIDA Y DETENCIÓN DE UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.1\nCarta del envío al Coordinador de informe\nI.1\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGNS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
+      ]
+    },
+    "req5d4da56936d9ef7615c580e4": {
+      "casilla": "MT",
+      "parent_group": "PARÁMETROS DE GENERACIÓN",
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\n'INFORME DE DETERMINACIÓN DE MÍNIMOS TÉCNICOS EN UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.1\nCarta del envío al Coordinador de informe\nI.1\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGNS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
+      ]
+    },
+    "req6a173dcf36d9ef4dfd2e68fc": {
+      "casilla": "REQUERIMIENTOS DE CONVERTIDORES",
+      "parent_group": null,
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\n*REQUERIMIENTOS DE CONVERTIDORES\nEncargado: Departamento Conexiones\nI.1\nGrupo de Requerimientos\n¿Qué estoy viendo?\n\nDescripción\n\nGrupo de Requerimientos\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n150 días hábiles\n\nFecha límite\n\n15-02-2027\n\nHistorial de movimientos"
+      ]
+    },
+    "req6a15c8b636d9ef7d59878e93": {
+      "casilla": "Modelos EMT",
+      "parent_group": null,
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\nMODELOS EMT (TRANSITORIOS ELECTROMAGNÉTICOS)\nEncargado: Departamento Conexiones\nI.1\nSolicitud de Revisión de Modelos EMT\nI.1\nResultado de Revisión de Modelos EMT\n¿Qué estoy viendo?\n\nDescripción\n\nCarga de carta de solicitud de revisión de Modelo OEM en EMTP (software de simulación de referencia utilizado por el Coordinador), enviado previamente por sistema de correspondencia (Macro materia: Estudios e Informes / Micro materia: Modelos EMTP) con carácter confidencial. Información de referencia: Título 5 AT-IBR 2026; Procedimiento Interno de Modelación y Homologación de Instalaciones del SEN; Guía Técnica de Aplicación Modelo EMT\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGNS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
+      ]
     }
   },
   "first_seen": {
-    "req665604b236d9ef441648202b|El coordinador emitirá su aprobación u observaciones al documento": "2026-06-23T21:44:30.507771+00:00"
+    "req60ad0d0d36d9ef44f12350ef|De acuerdo con el Artículo 5 letra c) del Anexo Técnico: Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI, las empresas solicitantes deben mantener actualizado el cronograma del proyecto.": "2026-07-13T17:54:09.857677+00:00",
+    "req665604b236d9ef441648202b|El coordinador emitirá su aprobación u observaciones al documento": "2026-06-23T21:44:30.507771+00:00",
+    "req5d4c9a3d36d9ef7615c07cfb|Para solicitar revisión de Información Tecnica se debe cumplir con los porcentajes de Completitud minimos solicitados en el ANIT. Una vez revisada la información se procedera de acuerdo a lo informado en los documentos de revisión de la Información Técnica. Para solicitar una nueva revisión, se debe incluir una Minuta de Respuestas a las Observaciones emitidas por el Coordinador.": "2026-07-13T17:54:09.857703+00:00",
+    "req5d4da16b36d9ef76172b5bc4|Solicitud de revisión de Print Out de Relés existentes modificados.": "2026-07-13T17:54:09.857712+00:00",
+    "req64e3afeb36d9ef23190ab0a4|Solicitud de Revisión de Pruebas End to End": "2026-07-13T17:54:09.857722+00:00",
+    "req5d4da9c336d9ef761837419c|La Empresa Solicitante debe enviar antecedentes para la declaración de Costos Variables Combustibles y No Combustibles": "2026-07-13T17:54:09.857730+00:00",
+    "req5d4da87e36d9ef76183739c3|La Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico": "2026-07-13T17:54:09.857739+00:00",
+    "req5d4da5d136d9ef761837315b|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-07-13T17:54:09.857747+00:00",
+    "req5d4da62e36d9ef76172b6c08|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-07-13T17:54:09.857755+00:00",
+    "req5d4da56936d9ef7615c580e4|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-07-13T17:54:09.857762+00:00",
+    "req6a15c8b636d9ef7d59878e93|Carga de carta de solicitud de revisión de Modelo OEM en EMTP (software de simulación de referencia utilizado por el Coordinador), enviado previamente por sistema de correspondencia (Macro materia: Estudios e Informes / Micro materia: Modelos EMTP) con carácter confidencial. Información de referencia: Título 5 AT-IBR 2026; Procedimiento Interno de Modelación y Homologación de Instalaciones del SEN; Guía Técnica de Aplicación Modelo EMT": "2026-07-13T17:54:09.857780+00:00"
   }
 }

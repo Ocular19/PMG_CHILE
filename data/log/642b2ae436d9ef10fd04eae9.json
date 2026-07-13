@@ -223,5 +223,160 @@
         "fecha_limite": "-"
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-13T17:54:09.859337+00:00",
+    "changes": [
+      "Casilla 'Cronograma' cambió de estado: completado -> en_curso",
+      "Casilla 'IT PES' cambió de estado: pendiente -> en_curso",
+      "Casilla 'PO E' cambió de estado: pendiente -> en_curso",
+      "Casilla 'Pruebas End to End' cambió de estado: pendiente -> en_curso",
+      "Casilla 'CVNC' cambió de estado: pendiente -> en_curso",
+      "Casilla 'VMD' cambió de estado: pendiente -> en_curso",
+      "Casilla 'PMax' cambió de estado: pendiente -> en_curso",
+      "Casilla 'PPyD' cambió de estado: pendiente -> en_curso",
+      "Casilla 'MT' cambió de estado: pendiente -> en_curso",
+      "Casilla 'REQUERIMIENTOS DE CONVERTIDORES' cambió de estado: pendiente -> en_curso",
+      "Casilla 'Modelos EMT' cambió de estado: pendiente -> en_curso",
+      "'Cronograma': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 14-07-2026).",
+      "'IT PES': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 14-07-2026).",
+      "'PO E': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 14-07-2026).",
+      "'Pruebas End to End': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 14-07-2026).",
+      "'CVNC': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 14-07-2026).",
+      "'VMD': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 14-07-2026).",
+      "'PMax': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 14-07-2026).",
+      "'PPyD': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 14-07-2026).",
+      "'MT': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 14-07-2026).",
+      "'Modelos EMT': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 14-07-2026).",
+      "Avance de requisitos para inicio de PES: 99% → 98%."
+    ],
+    "alerts": [
+      {
+        "casilla": "Cronograma",
+        "evento": "Cambió de estado (completado → en_curso)",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "14-07-2026"
+      },
+      {
+        "casilla": "IT PES",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "14-07-2026"
+      },
+      {
+        "casilla": "PO E",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "14-07-2026"
+      },
+      {
+        "casilla": "Pruebas End to End",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "14-07-2026"
+      },
+      {
+        "casilla": "CVNC",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "14-07-2026"
+      },
+      {
+        "casilla": "VMD",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "14-07-2026"
+      },
+      {
+        "casilla": "PMax",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "14-07-2026"
+      },
+      {
+        "casilla": "PPyD",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "14-07-2026"
+      },
+      {
+        "casilla": "MT",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "14-07-2026"
+      },
+      {
+        "casilla": "REQUERIMIENTOS DE CONVERTIDORES",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "Modelos EMT",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "14-07-2026"
+      },
+      {
+        "casilla": "Cronograma",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "14-07-2026"
+      },
+      {
+        "casilla": "IT PES",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "14-07-2026"
+      },
+      {
+        "casilla": "PO E",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "14-07-2026"
+      },
+      {
+        "casilla": "Pruebas End to End",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "14-07-2026"
+      },
+      {
+        "casilla": "CVNC",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "14-07-2026"
+      },
+      {
+        "casilla": "VMD",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "14-07-2026"
+      },
+      {
+        "casilla": "PMax",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "14-07-2026"
+      },
+      {
+        "casilla": "PPyD",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "14-07-2026"
+      },
+      {
+        "casilla": "MT",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "14-07-2026"
+      },
+      {
+        "casilla": "Modelos EMT",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "14-07-2026"
+      }
+    ]
   }
 ]

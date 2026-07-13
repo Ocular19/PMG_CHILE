@@ -1,16 +1,15 @@
 [
   {
-    "timestamp": "2026-07-10T17:47:37.132718+00:00",
+    "timestamp": "2026-07-13T17:54:29.553176+00:00",
     "changes": [
-      "Casilla 'REUC' cambió de estado: pendiente -> completado",
-      "'IT PES': cambió la fecha límite o el responsable — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 13-07-2026).",
-      "'Pruebas End to End': cambió la fecha límite o el responsable — ahora Esperando que Grenergy cargue un documento (fecha límite 13-07-2026).",
-      "'CVNC': cambió la fecha límite o el responsable — ahora Esperando que Grenergy cargue un documento (fecha límite 13-07-2026).",
-      "'VMD': cambió la fecha límite o el responsable — ahora Esperando que Grenergy cargue un documento (fecha límite 13-07-2026).",
-      "'PMax': cambió la fecha límite o el responsable — ahora Esperando que Grenergy cargue un documento (fecha límite 13-07-2026).",
-      "'PPyD': cambió la fecha límite o el responsable — ahora Esperando que Grenergy cargue un documento (fecha límite 13-07-2026).",
-      "'MT': cambió la fecha límite o el responsable — ahora Esperando que Grenergy cargue un documento (fecha límite 13-07-2026).",
-      "'Modelos EMT': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 13-07-2026)."
+      "'IT PES': cambió la fecha límite o el responsable — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 14-07-2026).",
+      "'Pruebas End to End': cambió la fecha límite o el responsable — ahora Esperando que Grenergy cargue un documento (fecha límite 14-07-2026).",
+      "'CVNC': cambió la fecha límite o el responsable — ahora Esperando que Grenergy cargue un documento (fecha límite 14-07-2026).",
+      "'VMD': cambió la fecha límite o el responsable — ahora Esperando que Grenergy cargue un documento (fecha límite 14-07-2026).",
+      "'PMax': cambió la fecha límite o el responsable — ahora Esperando que Grenergy cargue un documento (fecha límite 14-07-2026).",
+      "'PPyD': cambió la fecha límite o el responsable — ahora Esperando que Grenergy cargue un documento (fecha límite 14-07-2026).",
+      "'MT': cambió la fecha límite o el responsable — ahora Esperando que Grenergy cargue un documento (fecha límite 14-07-2026).",
+      "'Modelos EMT': cambió la fecha límite o el responsable — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 14-07-2026)."
     ]
   }
 ]
