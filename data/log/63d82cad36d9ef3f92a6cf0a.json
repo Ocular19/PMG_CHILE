@@ -56,5 +56,40 @@
         "fecha_limite": "20-07-2026"
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-13T21:00:31.497120+00:00",
+    "changes": [
+      "Casilla 'Pronósticos' cambió de estado: en_curso -> pendiente",
+      "'Fecha Pruebas': cambió la fecha límite o el responsable — ahora Esperando que Grenergy cargue un documento (fecha límite 14-07-2026).",
+      "'Enlace': cambió la fecha límite o el responsable — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 04-08-2026).",
+      "'Carta SEC': cambió la fecha límite o el responsable — ahora Esperando que Grenergy cargue un documento (fecha límite 14-07-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "Pronósticos",
+        "evento": "Cambió de estado (en_curso → pendiente)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "Fecha Pruebas",
+        "evento": "Cambió fecha límite o responsable",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "14-07-2026"
+      },
+      {
+        "casilla": "Enlace",
+        "evento": "Cambió fecha límite o responsable",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "04-08-2026"
+      },
+      {
+        "casilla": "Carta SEC",
+        "evento": "Cambió fecha límite o responsable",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "14-07-2026"
+      }
+    ]
   }
 ]

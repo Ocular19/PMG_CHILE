@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-13T17:54:50.060958+00:00",
+  "fetched_at": "2026-07-13T20:59:43.592548+00:00",
   "name": "NI PMG Zaturno ",
   "correlativo": 1697,
   "completition_status": 11,
@@ -105,7 +105,7 @@
     },
     "req5d4d8b9e36d9ef76163cb2cf": {
       "text": "SITR",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": true
     },
     "req607664e136d9ef3500287df3": {
@@ -130,7 +130,7 @@
     },
     "req5d4d8acf36d9ef761835aef5": {
       "text": "EME",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": true
     },
     "req6076676d36d9ef7d11ba2199": {
@@ -299,21 +299,21 @@
       "casilla": "RI",
       "parent_group": "ANIT y PLANOS",
       "sub_panels": [
-        "Listado de Requerimientos\n66%\n'REVISIÓN INGENIERÍA DE DISEÑO\nEncargado: Dpto. Estándares y Normativa\nI.3\nSolicitud de Revisión de la Ingeniería de Diseño\nI.3\nRevisión de Ingeniería de Diseño\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante envía a revisión los respaldos de la Ingeniería de Diseño solicitada\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGMMS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n13-07-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n66%\n'REVISIÓN INGENIERÍA DE DISEÑO\nEncargado: Dpto. Estándares y Normativa\nI.3\nSolicitud de Revisión de la Ingeniería de Diseño\nI.3\nRevisión de Ingeniería de Diseño\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante envía a revisión los respaldos de la Ingeniería de Diseño solicitada\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGMMS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
       ]
     },
     "req60ad0d0d36d9ef44f12350ef": {
       "casilla": "Cronograma",
       "parent_group": null,
       "sub_panels": [
-        "Listado de Requerimientos\n87%\n'ACTUALIZACIÓN DE CRONOGRAMA\nEncargado: Departamento Conexiones\nI.8\nActualización de Cronograma\n¿Qué estoy viendo?\n\nDescripción\n\nDe acuerdo con el Artículo 5 letra c) del Anexo Técnico: Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI, las empresas solicitantes deben mantener actualizado el cronograma del proyecto.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGMMS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n13-07-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n87%\n'ACTUALIZACIÓN DE CRONOGRAMA\nEncargado: Departamento Conexiones\nI.8\nActualización de Cronograma\n¿Qué estoy viendo?\n\nDescripción\n\nDe acuerdo con el Artículo 5 letra c) del Anexo Técnico: Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI, las empresas solicitantes deben mantener actualizado el cronograma del proyecto.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGMMS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
       ]
     },
     "req5d4c968836d9ef7617252155": {
       "casilla": "Act. CEM Def",
       "parent_group": null,
       "sub_panels": [
-        "Listado de Requerimientos\n50%\n'ACTUALIZACIÓN DE ANEXOS DE CEM DEFINITIVA\nEncargado: Departamento Conexiones\nI.2\nSolicitud de actualización de Anexos CEM\nI.2\nActualización de Anexos de la CEM\n¿Qué estoy viendo?\n\nDescripción\n\nSolicitud de actualización de Anexos de la CEM\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGMMS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n13-07-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n50%\n'ACTUALIZACIÓN DE ANEXOS DE CEM DEFINITIVA\nEncargado: Departamento Conexiones\nI.2\nSolicitud de actualización de Anexos CEM\nI.2\nActualización de Anexos de la CEM\n¿Qué estoy viendo?\n\nDescripción\n\nSolicitud de actualización de Anexos de la CEM\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGMMS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
       ]
     }
   },
