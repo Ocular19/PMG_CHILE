@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-14T13:53:34.132471+00:00",
+  "fetched_at": "2026-07-14T17:14:47.555716+00:00",
   "name": "PMG Calderaza ",
   "correlativo": 2310,
   "completition_status": 75,
@@ -324,5 +324,6 @@
     "req6076676d36d9ef7d11ba2199|Definición y Pruebas del enlace de comunicaciones para los medidores del proyecto.": "2026-06-23T01:26:32.102095+00:00",
     "req665604b236d9ef441648202b|La Empresa solicitante debe hacer envío del plan de Energización de acuerdo al AT.": "2026-06-23T01:26:32.102104+00:00",
     "req5d4d9fe036d9ef7615c4a7d9|Comunicación a la SEC con 15 días de anticipación a la energización de instalaciones, según se indica en el Artículo 72°17 de la LGSE": "2026-06-23T01:26:32.102116+00:00"
-  }
+  },
+  "avance_prev": {}
 }

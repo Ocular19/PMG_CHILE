@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-14T13:53:15.761101+00:00",
+  "fetched_at": "2026-07-14T17:14:35.678178+00:00",
   "name": "NI PMG Zaturno ",
   "correlativo": 1697,
   "completition_status": 11,
@@ -321,5 +321,6 @@
     "req5d4d5ffe36d9ef7615c24383|La Empresa Solicitante envía a revisión los respaldos de la Ingeniería de Diseño solicitada": "2026-06-23T01:26:23.550396+00:00",
     "req60ad0d0d36d9ef44f12350ef|De acuerdo con el Artículo 5 letra c) del Anexo Técnico: Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI, las empresas solicitantes deben mantener actualizado el cronograma del proyecto.": "2026-06-23T01:26:23.550417+00:00",
     "req5d4c968836d9ef7617252155|Solicitud de actualización de Anexos de la CEM": "2026-06-23T01:26:23.550428+00:00"
-  }
+  },
+  "avance_prev": {}
 }
