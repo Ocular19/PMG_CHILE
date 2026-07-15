@@ -220,5 +220,49 @@
         "fecha_limite": "14-07-2026"
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-15T17:17:08.931181+00:00",
+    "changes": [
+      "Casilla 'Cronograma' cambió de estado: en_curso -> completado",
+      "Casilla 'Enlace' cambió de estado: en_curso -> completado",
+      "Casilla 'Fecha Pruebas' cambió de estado: pendiente -> completado",
+      "Casilla 'Pruebas' cambió de estado: pendiente -> en_curso",
+      "'Pruebas': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 30-07-2026).",
+      "Avance general del proyecto: 70% → 72%.",
+      "Avance de requisitos para inicio de PES: 86% → 88%."
+    ],
+    "alerts": [
+      {
+        "casilla": "Cronograma",
+        "evento": "Cambió de estado (en_curso → completado)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "Enlace",
+        "evento": "Cambió de estado (en_curso → completado)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "Fecha Pruebas",
+        "evento": "Cambió de estado (pendiente → completado)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "Pruebas",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "30-07-2026"
+      },
+      {
+        "casilla": "Pruebas",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "30-07-2026"
+      }
+    ]
   }
 ]
