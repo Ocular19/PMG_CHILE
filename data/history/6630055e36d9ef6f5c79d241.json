@@ -1,14 +1,5 @@
 [
   {
-    "timestamp": "2026-07-13T17:54:41.763306+00:00",
-    "changes": [
-      "Casilla 'Carta SEC' cambió de estado: pendiente -> en_curso",
-      "Casilla 'Opreal' cambió de estado: pendiente -> en_curso",
-      "'Carta SEC': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 14-07-2026).",
-      "'Opreal': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 14-07-2026)."
-    ]
-  },
-  {
     "timestamp": "2026-07-15T17:17:08.930901+00:00",
     "changes": [
       "Casilla 'Cronograma' cambió de estado: en_curso -> completado",
