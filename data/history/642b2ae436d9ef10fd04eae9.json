@@ -1,20 +1,5 @@
 [
   {
-    "timestamp": "2026-07-13T14:42:40.303537+00:00",
-    "changes": [
-      "Casilla 'IT PES' cambió de estado: en_curso -> pendiente",
-      "Casilla 'PO E' cambió de estado: en_curso -> pendiente",
-      "Casilla 'Pruebas End to End' cambió de estado: en_curso -> pendiente",
-      "Casilla 'CVNC' cambió de estado: en_curso -> pendiente",
-      "Casilla 'VMD' cambió de estado: en_curso -> pendiente",
-      "Casilla 'PMax' cambió de estado: en_curso -> pendiente",
-      "Casilla 'PPyD' cambió de estado: en_curso -> pendiente",
-      "Casilla 'MT' cambió de estado: en_curso -> pendiente",
-      "Casilla 'REQUERIMIENTOS DE CONVERTIDORES' cambió de estado: en_curso -> pendiente",
-      "Casilla 'Modelos EMT' cambió de estado: en_curso -> pendiente"
-    ]
-  },
-  {
     "timestamp": "2026-07-13T17:54:09.859095+00:00",
     "changes": [
       "Casilla 'Cronograma' cambió de estado: completado -> en_curso",
