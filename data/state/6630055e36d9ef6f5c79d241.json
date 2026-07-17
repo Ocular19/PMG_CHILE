@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-17T17:11:16.360617+00:00",
+  "fetched_at": "2026-07-17T20:58:22.816535+00:00",
   "name": "PMG Buenaventura",
   "correlativo": 650,
   "completition_status": 72,
@@ -349,7 +349,7 @@
       "casilla": "Opreal",
       "parent_group": "PLATAFORMAS PES",
       "sub_panels": [
-        "Listado de Requerimientos\n0%\n'OPERACIÓN REAL\nEncargado: OpReal\nI.1\nRecepción Antecedentes Opreal\nI.1\nCreación Usuario Opreal\n¿Qué estoy viendo?\n\nDescripción\n\nRecepción de Formulario para creación de la Central en la Plataforma Opreal\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n50%\n'OPERACIÓN REAL\nEncargado: OpReal\nI.1\nRecepción Antecedentes Opreal\nI.1\nCreación Usuario Opreal\n¿Qué estoy viendo?\n\nDescripción\n\nConfirmación de la creación de la central a la Plataforma Opreal\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n07-08-2026\n\nDepende de\n\nRecepción Antecedentes Opreal\nHistorial de movimientos"
       ]
     }
   },
@@ -359,7 +359,7 @@
     "req665604b236d9ef441648202b|La Empresa solicitante debe hacer envío del plan de Energización de acuerdo al AT.": "2026-06-23T01:26:16.893002+00:00",
     "req5d4da2bc36d9ef761836f1eb|La Empresa Solicitante envía un Programa de Pruebas para revisión": "2026-06-23T01:26:16.893012+00:00",
     "req5d4d9fe036d9ef7615c4a7d9|Comunicación a la SEC con 15 días de anticipación a la energización de instalaciones, según se indica en el Artículo 72°17 de la LGSE": "2026-07-13T17:54:41.762227+00:00",
-    "req6047918036d9ef2de309723d|Recepción de Formulario para creación de la Central en la Plataforma Opreal": "2026-07-13T17:54:41.762241+00:00"
+    "req6047918036d9ef2de309723d|Confirmación de la creación de la central a la Plataforma Opreal": "2026-07-17T20:58:22.816791+00:00"
   },
   "avance_prev": {
     "completition_status": {
