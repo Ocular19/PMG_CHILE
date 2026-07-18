@@ -1,17 +1,5 @@
 [
   {
-    "timestamp": "2026-07-15T17:17:08.930901+00:00",
-    "changes": [
-      "Casilla 'Cronograma' cambió de estado: en_curso -> completado",
-      "Casilla 'Enlace' cambió de estado: en_curso -> completado",
-      "Casilla 'Fecha Pruebas' cambió de estado: pendiente -> completado",
-      "Casilla 'Pruebas' cambió de estado: pendiente -> en_curso",
-      "'Pruebas': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 30-07-2026).",
-      "Avance general del proyecto: 70% → 72%.",
-      "Avance de requisitos para inicio de PES: 86% → 88%."
-    ]
-  },
-  {
     "timestamp": "2026-07-17T20:58:22.817416+00:00",
     "changes": [
       "'Opreal': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 07-08-2026)."
