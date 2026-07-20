@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-07-20T06:37:38.971932+00:00",
+  "fetched_at": "2026-07-20T10:53:56.292909+00:00",
   "name": "PFV Conguillio (Ex PMG Mirador)",
   "correlativo": 1741,
-  "completition_status": 82,
+  "completition_status": 84,
   "completition_pes": 99,
   "service_estimate_date": "2026-04-27T00:00:00",
   "operative_estimate_date": "2026-07-26T00:00:00",
@@ -240,7 +240,7 @@
     },
     "req5d4da16b36d9ef76172b5bc4": {
       "text": "PO E",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req5d4da9c336d9ef761837419c": {
@@ -311,13 +311,6 @@
         "Listado de Requerimientos\n0%\nPRUEBAS END TO END\nEncargado: DAOP\nI.1\nSolicitud de Revisión de Pruebas End to End\nI.1\nRevisión de Pruebas End to End\n¿Qué estoy viendo?\n\nDescripción\n\nSolicitud de Revisión de Pruebas End to End\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGCS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
       ]
     },
-    "req5d4da16b36d9ef76172b5bc4": {
-      "casilla": "PO E",
-      "parent_group": "OTROS EO",
-      "sub_panels": [
-        "Listado de Requerimientos\n50%\n'PRINT OUT DE RELÉS EXISTENTES\nEncargado: DAOP\nI.1\nSolicitud de Revisión de Print Out existentes\nI.1\nRevisión de Print Out existente\n¿Qué estoy viendo?\n\nDescripción\n\nObservaciones a los Print Out de Relés existentes modificados.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n10 días hábiles\n\nFecha límite\n\n14-07-2026\n\nDepende de\n\nSolicitud de Revisión de Print Out existentes\nHistorial de movimientos"
-      ]
-    },
     "req5d4da9c336d9ef761837419c": {
       "casilla": "CVNC",
       "parent_group": "OTROS EO",
@@ -372,7 +365,6 @@
     "req665604b236d9ef441648202b|El coordinador emitirá su aprobación u observaciones al documento": "2026-06-23T21:45:10.150181+00:00",
     "req5d4c9a3d36d9ef7615c07cfb|Para solicitar revisión de Información Tecnica se debe cumplir con los porcentajes de Completitud minimos solicitados en el ANIT. Una vez revisada la información se procedera de acuerdo a lo informado en los documentos de revisión de la Información Técnica. Para solicitar una nueva revisión, se debe incluir una Minuta de Respuestas a las Observaciones emitidas por el Coordinador.": "2026-06-23T01:26:05.334941+00:00",
     "req64e3afeb36d9ef23190ab0a4|Solicitud de Revisión de Pruebas End to End": "2026-06-26T02:50:57.794957+00:00",
-    "req5d4da16b36d9ef76172b5bc4|Observaciones a los Print Out de Relés existentes modificados.": "2026-07-01T02:56:11.009925+00:00",
     "req5d4da9c336d9ef761837419c|La Empresa Solicitante debe enviar antecedentes para la declaración de Costos Variables Combustibles y No Combustibles": "2026-06-23T01:26:05.334980+00:00",
     "req5d4da87e36d9ef76183739c3|La Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico": "2026-06-23T01:26:05.334989+00:00",
     "req5d4da5d136d9ef761837315b|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-06-23T01:26:05.334999+00:00",
@@ -380,5 +372,10 @@
     "req5d4da56936d9ef7615c580e4|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-06-23T01:26:05.335017+00:00",
     "req6a15c8b636d9ef7d59878e93|Carga de carta de solicitud de revisión de Modelo OEM en EMTP (software de simulación de referencia utilizado por el Coordinador), enviado previamente por sistema de correspondencia (Macro materia: Estudios e Informes / Micro materia: Modelos EMTP) con carácter confidencial. Información de referencia: Título 5 AT-IBR 2026; Procedimiento Interno de Modelación y Homologación de Instalaciones del SEN; Guía Técnica de Aplicación Modelo EMT": "2026-07-10T17:47:37.131730+00:00"
   },
-  "avance_prev": {}
+  "avance_prev": {
+    "completition_status": {
+      "antes": 82,
+      "changed_at": "2026-07-20T10:53:56.293408+00:00"
+    }
+  }
 }
