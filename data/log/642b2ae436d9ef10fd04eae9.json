@@ -378,5 +378,19 @@
         "fecha_limite": "14-07-2026"
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-21T02:08:42.998002+00:00",
+    "changes": [
+      "'PO E': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 03-08-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "PO E",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "03-08-2026"
+      }
+    ]
   }
 ]

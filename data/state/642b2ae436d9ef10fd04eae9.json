@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-20T21:13:49.214707+00:00",
+  "fetched_at": "2026-07-21T02:08:42.996574+00:00",
   "name": "NI PMG Toledo (Ex Travesía)",
   "correlativo": 1721,
   "completition_status": 81,
@@ -315,7 +315,7 @@
       "casilla": "PO E",
       "parent_group": "OTROS EO",
       "sub_panels": [
-        "Listado de Requerimientos\n0%\n'PRINT OUT DE RELÉS EXISTENTES\nEncargado: DAOP\nI.1\nSolicitud de Revisión de Print Out existentes\nI.1\nRevisión de Print Out existente\n¿Qué estoy viendo?\n\nDescripción\n\nSolicitud de revisión de Print Out de Relés existentes modificados.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGNS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n50%\n'PRINT OUT DE RELÉS EXISTENTES\nEncargado: DAOP\nI.1\nSolicitud de Revisión de Print Out existentes\nI.1\nRevisión de Print Out existente\n¿Qué estoy viendo?\n\nDescripción\n\nObservaciones a los Print Out de Relés existentes modificados.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n10 días hábiles\n\nFecha límite\n\n03-08-2026\n\nDepende de\n\nSolicitud de Revisión de Print Out existentes\nHistorial de movimientos"
       ]
     },
     "req64e3afeb36d9ef23190ab0a4": {
@@ -379,7 +379,7 @@
     "req60ad0d0d36d9ef44f12350ef|De acuerdo con el Artículo 5 letra c) del Anexo Técnico: Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI, las empresas solicitantes deben mantener actualizado el cronograma del proyecto.": "2026-07-13T17:54:09.857677+00:00",
     "req665604b236d9ef441648202b|El coordinador emitirá su aprobación u observaciones al documento": "2026-06-23T21:44:30.507771+00:00",
     "req5d4c9a3d36d9ef7615c07cfb|Para solicitar revisión de Información Tecnica se debe cumplir con los porcentajes de Completitud minimos solicitados en el ANIT. Una vez revisada la información se procedera de acuerdo a lo informado en los documentos de revisión de la Información Técnica. Para solicitar una nueva revisión, se debe incluir una Minuta de Respuestas a las Observaciones emitidas por el Coordinador.": "2026-07-13T17:54:09.857703+00:00",
-    "req5d4da16b36d9ef76172b5bc4|Solicitud de revisión de Print Out de Relés existentes modificados.": "2026-07-13T17:54:09.857712+00:00",
+    "req5d4da16b36d9ef76172b5bc4|Observaciones a los Print Out de Relés existentes modificados.": "2026-07-21T02:08:42.997085+00:00",
     "req64e3afeb36d9ef23190ab0a4|Solicitud de Revisión de Pruebas End to End": "2026-07-13T17:54:09.857722+00:00",
     "req5d4da9c336d9ef761837419c|La Empresa Solicitante debe enviar antecedentes para la declaración de Costos Variables Combustibles y No Combustibles": "2026-07-13T17:54:09.857730+00:00",
     "req5d4da87e36d9ef76183739c3|La Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico": "2026-07-13T17:54:09.857739+00:00",

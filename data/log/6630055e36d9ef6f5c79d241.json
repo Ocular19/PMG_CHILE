@@ -299,5 +299,19 @@
         "fecha_limite": "21-07-2026"
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-21T02:09:10.303158+00:00",
+    "changes": [
+      "'Opreal': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 10-08-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "Opreal",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "10-08-2026"
+      }
+    ]
   }
 ]
