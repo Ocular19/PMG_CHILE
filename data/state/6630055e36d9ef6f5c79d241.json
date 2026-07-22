@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-22T14:04:14.737957+00:00",
+  "fetched_at": "2026-07-22T17:18:29.369069+00:00",
   "name": "PMG Buenaventura",
   "correlativo": 650,
   "completition_status": 72,
@@ -35,7 +35,7 @@
     },
     "req60ad0d0d36d9ef44f12350ef": {
       "text": "Cronograma",
-      "state": "completado",
+      "state": "en_curso",
       "is_container": false
     },
     "req5d4c968836d9ef7617252155": {
@@ -310,6 +310,13 @@
     }
   },
   "active_tasks": {
+    "req60ad0d0d36d9ef44f12350ef": {
+      "casilla": "Cronograma",
+      "parent_group": null,
+      "sub_panels": [
+        "Listado de Requerimientos\n87%\n'ACTUALIZACIÓN DE CRONOGRAMA\nEncargado: Departamento Conexiones\nI.8\nActualización de Cronograma\n¿Qué estoy viendo?\n\nDescripción\n\nDe acuerdo con el Artículo 5 letra c) del Anexo Técnico: Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI, las empresas solicitantes deben mantener actualizado el cronograma del proyecto.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n23-07-2026\n\nHistorial de movimientos"
+      ]
+    },
     "req606a6bc436d9ef1a2254fc9b": {
       "casilla": "Fecha Pruebas",
       "parent_group": "SITR",
@@ -354,6 +361,7 @@
     }
   },
   "first_seen": {
+    "req60ad0d0d36d9ef44f12350ef|De acuerdo con el Artículo 5 letra c) del Anexo Técnico: Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI, las empresas solicitantes deben mantener actualizado el cronograma del proyecto.": "2026-07-22T17:18:29.369299+00:00",
     "req606a6bc436d9ef1a2254fc9b|La Empresa Solicitante debe proponer una fecha para la realización de pruebas punto a punto, al menos 7 días hábiles antes de las pruebas. Los formatos de solicitud se pueden encontrar en material de ayuda de la PGP o en el sitio web http://www.coordinador.cl/conexion.proyectos.": "2026-06-23T01:26:16.892941+00:00",
     "req5e4d4b5a36d9ef2cd9aa1241|El Coordinador entrega resultados de las pruebas PRMTE.": "2026-07-15T17:17:08.930165+00:00",
     "req665604b236d9ef441648202b|La Empresa solicitante debe hacer envío del plan de Energización de acuerdo al AT.": "2026-06-23T01:26:16.893002+00:00",

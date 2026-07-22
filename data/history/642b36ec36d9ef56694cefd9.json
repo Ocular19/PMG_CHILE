@@ -5,5 +5,12 @@
       "Casilla 'PO E' cambió de estado: en_curso -> completado",
       "Avance general del proyecto: 82% → 84%."
     ]
+  },
+  {
+    "timestamp": "2026-07-22T17:18:16.631779+00:00",
+    "changes": [
+      "Casilla 'P. Pagos' cambió de estado: pendiente -> completado",
+      "Avance general del proyecto: 84% → 85%."
+    ]
   }
 ]

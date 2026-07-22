@@ -23,5 +23,12 @@
     "changes": [
       "'Opreal': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 11-08-2026)."
     ]
+  },
+  {
+    "timestamp": "2026-07-22T17:18:29.370005+00:00",
+    "changes": [
+      "Casilla 'Cronograma' cambió de estado: completado -> en_curso",
+      "'Cronograma': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 23-07-2026)."
+    ]
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-07-22T14:04:02.081096+00:00",
+  "fetched_at": "2026-07-22T17:18:16.630744+00:00",
   "name": "PFV Conguillio (Ex PMG Mirador)",
   "correlativo": 1741,
-  "completition_status": 84,
+  "completition_status": 85,
   "completition_pes": 99,
   "service_estimate_date": "2026-04-27T00:00:00",
   "operative_estimate_date": "2026-07-26T00:00:00",
@@ -210,7 +210,7 @@
     },
     "req60ca07ce36d9ef38d7c4e6bc": {
       "text": "PLATAFORMAS EO",
-      "state": "pendiente",
+      "state": "completado",
       "is_container": true
     },
     "req60612d9936d9ef0e9752226b": {
@@ -220,7 +220,7 @@
     },
     "req60612e0736d9ef1fc3814808": {
       "text": "P. Pagos",
-      "state": "pendiente",
+      "state": "completado",
       "is_container": false
     },
     "req60478dea36d9ef42935ee7d1": {
@@ -375,7 +375,7 @@
   "avance_prev": {
     "completition_status": {
       "antes": 82,
-      "changed_at": "2026-07-20T10:53:56.293408+00:00"
+      "changed_at": "2026-07-22T17:18:16.631128+00:00"
     }
   }
 }

@@ -10,5 +10,12 @@
     "changes": [
       "'IT PES': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 11-08-2026)."
     ]
+  },
+  {
+    "timestamp": "2026-07-22T17:18:02.221624+00:00",
+    "changes": [
+      "Casilla 'P. Pagos' cambió de estado: pendiente -> completado",
+      "Avance general del proyecto: 81% → 82%."
+    ]
   }
 ]
