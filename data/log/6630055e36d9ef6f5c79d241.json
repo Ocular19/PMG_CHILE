@@ -376,5 +376,49 @@
         "fecha_limite": "-"
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-23T21:07:14.518256+00:00",
+    "changes": [
+      "Casilla 'Cronograma' cambió de estado: en_curso -> completado",
+      "Casilla 'Opreal' cambió de estado: en_curso -> completado",
+      "Casilla 'Pronósticos' cambió de estado: pendiente -> en_curso",
+      "'Fecha Pruebas': avanzó de etapa — ahora Esperando que Grenergy cargue un documento (fecha límite 28-07-2026).",
+      "'Pronósticos': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 30-07-2026).",
+      "Avance general del proyecto: 72% → 74%.",
+      "Avance de requisitos para inicio de PES: 88% → 90%."
+    ],
+    "alerts": [
+      {
+        "casilla": "Cronograma",
+        "evento": "Cambió de estado (en_curso → completado)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "Opreal",
+        "evento": "Cambió de estado (en_curso → completado)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "Pronósticos",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "30-07-2026"
+      },
+      {
+        "casilla": "Fecha Pruebas",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "28-07-2026"
+      },
+      {
+        "casilla": "Pronósticos",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "30-07-2026"
+      }
+    ]
   }
 ]
