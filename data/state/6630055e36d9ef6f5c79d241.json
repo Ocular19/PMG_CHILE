@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-23T21:07:14.516941+00:00",
+  "fetched_at": "2026-07-24T02:10:02.612851+00:00",
   "name": "PMG Buenaventura",
   "correlativo": 650,
   "completition_status": 74,
@@ -328,7 +328,7 @@
       "casilla": "Plan Ener Gx",
       "parent_group": "OTROS PES",
       "sub_panels": [
-        "Listado de Requerimientos\n0%\nPLAN DE ENERGIZACIÓN GENERACIÓN\nEncargado: Departamento Conexiones\nI.1\nRecepción plan de energización Generación\nI.1\nRevisión Plan de Energización Generación\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa solicitante debe hacer envío del plan de Energización de acuerdo al AT.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n50%\nPLAN DE ENERGIZACIÓN GENERACIÓN\nEncargado: Departamento Conexiones\nI.1\nRecepción plan de energización Generación\nI.1\nRevisión Plan de Energización Generación\n¿Qué estoy viendo?\n\nDescripción\n\nEl coordinador emitirá su aprobación u observaciones al documento\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n10 días hábiles\n\nFecha límite\n\n06-08-2026\n\nDepende de\n\nRecepción plan de energización Generación\nHistorial de movimientos"
       ]
     },
     "req5d4da2bc36d9ef761836f1eb": {
@@ -349,7 +349,7 @@
   "first_seen": {
     "req606a6bc436d9ef1a2254fc9b|El Coordinador debe confirmar la fecha propuesta por la Empresa Solicitante o proponer una nueva fecha para las pruebas punto a punto.": "2026-07-23T21:07:14.517147+00:00",
     "req5e4d4b5a36d9ef2cd9aa1241|El Coordinador entrega resultados de las pruebas PRMTE.": "2026-07-15T17:17:08.930165+00:00",
-    "req665604b236d9ef441648202b|La Empresa solicitante debe hacer envío del plan de Energización de acuerdo al AT.": "2026-06-23T01:26:16.893002+00:00",
+    "req665604b236d9ef441648202b|El coordinador emitirá su aprobación u observaciones al documento": "2026-07-24T02:10:02.613067+00:00",
     "req5d4da2bc36d9ef761836f1eb|El Coordinador revisa el Programa de Pruebas": "2026-07-20T21:14:19.010101+00:00",
     "req604791af36d9ef530b47bbd7|Confirmación del correcto envío de Pronósticos a través de la Plataforma Opreal": "2026-07-23T21:07:14.517190+00:00"
   },

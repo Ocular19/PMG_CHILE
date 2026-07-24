@@ -1,18 +1,5 @@
 [
   {
-    "timestamp": "2026-07-20T21:14:19.010751+00:00",
-    "changes": [
-      "'Prog P': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 10-08-2026).",
-      "'Opreal': avanzó de etapa — ahora Esperando que Grenergy cargue un documento (fecha límite 21-07-2026)."
-    ]
-  },
-  {
-    "timestamp": "2026-07-21T02:09:10.302815+00:00",
-    "changes": [
-      "'Opreal': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 10-08-2026)."
-    ]
-  },
-  {
     "timestamp": "2026-07-21T21:12:45.120473+00:00",
     "changes": [
       "'Opreal': avanzó de etapa — ahora Esperando que Grenergy cargue un documento (fecha límite 22-07-2026)."
@@ -47,6 +34,12 @@
       "'Pronósticos': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 30-07-2026).",
       "Avance general del proyecto: 72% → 74%.",
       "Avance de requisitos para inicio de PES: 88% → 90%."
+    ]
+  },
+  {
+    "timestamp": "2026-07-24T02:10:02.613737+00:00",
+    "changes": [
+      "'Plan Ener Gx': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 06-08-2026)."
     ]
   }
 ]
