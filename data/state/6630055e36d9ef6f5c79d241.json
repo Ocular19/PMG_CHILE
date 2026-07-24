@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-24T13:52:08.882600+00:00",
+  "fetched_at": "2026-07-24T17:37:35.599279+00:00",
   "name": "PMG Buenaventura",
   "correlativo": 650,
   "completition_status": 75,
@@ -314,7 +314,7 @@
       "casilla": "Fecha Pruebas",
       "parent_group": "SITR",
       "sub_panels": [
-        "Listado de Requerimientos\n33%\n'COORDINACIÓN FECHA PRUEBAS SITR\nEncargado: SCADA\nI.1\nSolicitud de fecha de pruebas SITR\nI.1\nConfirmación de fecha de pruebas SITR\nI.1\nResultados de pruebas internas SITR\n¿Qué estoy viendo?\n\nDescripción\n\nEl Coordinador debe confirmar la fecha propuesta por la Empresa Solicitante o proponer una nueva fecha para las pruebas punto a punto.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n3 días hábiles\n\nFecha límite\n\n28-07-2026\n\nDepende de\n\nSolicitud de fecha de pruebas SITR\nHistorial de movimientos"
+        "Listado de Requerimientos\n66%\n'COORDINACIÓN FECHA PRUEBAS SITR\nEncargado: SCADA\nI.1\nSolicitud de fecha de pruebas SITR\nI.1\nConfirmación de fecha de pruebas SITR\nI.1\nResultados de pruebas internas SITR\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe indicar en el listado de señales SITR los resultados de las pruebas internas y debe enviar un documento firmado por el responsable de la Puesta en Servicio que las pruebas fueron satisfactorias. Debe enviarlo al menos 2 días hábiles antes de las pruebas punto a punto.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGPS\n\nPlazo\n\n2 días hábiles\n\nFecha límite\n\n28-07-2026\n\nDepende de\n\nConfirmación de fecha de pruebas SITR\nHistorial de movimientos"
       ]
     },
     "req5e4d4b5a36d9ef2cd9aa1241": {
@@ -347,7 +347,7 @@
     }
   },
   "first_seen": {
-    "req606a6bc436d9ef1a2254fc9b|El Coordinador debe confirmar la fecha propuesta por la Empresa Solicitante o proponer una nueva fecha para las pruebas punto a punto.": "2026-07-23T21:07:14.517147+00:00",
+    "req606a6bc436d9ef1a2254fc9b|La Empresa Solicitante debe indicar en el listado de señales SITR los resultados de las pruebas internas y debe enviar un documento firmado por el responsable de la Puesta en Servicio que las pruebas fueron satisfactorias. Debe enviarlo al menos 2 días hábiles antes de las pruebas punto a punto.": "2026-07-24T17:37:35.599478+00:00",
     "req5e4d4b5a36d9ef2cd9aa1241|El Coordinador entrega resultados de las pruebas PRMTE.": "2026-07-15T17:17:08.930165+00:00",
     "req665604b236d9ef441648202b|El coordinador emitirá su aprobación u observaciones al documento": "2026-07-24T02:10:02.613067+00:00",
     "req5d4da2bc36d9ef761836f1eb|El Coordinador revisa el Programa de Pruebas": "2026-07-20T21:14:19.010101+00:00",

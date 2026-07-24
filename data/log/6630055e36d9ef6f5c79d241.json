@@ -442,5 +442,19 @@
       "Avance de requisitos para inicio de PES: 90% → 92%."
     ],
     "alerts": []
+  },
+  {
+    "timestamp": "2026-07-24T17:37:35.600529+00:00",
+    "changes": [
+      "'Fecha Pruebas': avanzó de etapa — ahora Esperando que Grenergy cargue un documento (fecha límite 28-07-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "Fecha Pruebas",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "28-07-2026"
+      }
+    ]
   }
 ]
