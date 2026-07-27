@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-27T14:44:50.205661+00:00",
+  "fetched_at": "2026-07-27T17:42:31.540091+00:00",
   "name": "PMG Buenaventura",
   "correlativo": 650,
   "completition_status": 75,
@@ -160,7 +160,7 @@
     },
     "req5e4d4b5a36d9ef2cd9aa1241": {
       "text": "Pruebas",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req5d4d985736d9ef76163d61b6": {
@@ -317,13 +317,6 @@
         "Listado de Requerimientos\n66%\n'COORDINACIÓN FECHA PRUEBAS SITR\nEncargado: SCADA\nI.1\nSolicitud de fecha de pruebas SITR\nI.1\nConfirmación de fecha de pruebas SITR\nI.1\nResultados de pruebas internas SITR\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe indicar en el listado de señales SITR los resultados de las pruebas internas y debe enviar un documento firmado por el responsable de la Puesta en Servicio que las pruebas fueron satisfactorias. Debe enviarlo al menos 2 días hábiles antes de las pruebas punto a punto.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGPS\n\nPlazo\n\n2 días hábiles\n\nFecha límite\n\n28-07-2026\n\nDepende de\n\nConfirmación de fecha de pruebas SITR\nHistorial de movimientos"
       ]
     },
-    "req5e4d4b5a36d9ef2cd9aa1241": {
-      "casilla": "Pruebas",
-      "parent_group": "EME",
-      "sub_panels": [
-        "Listado de Requerimientos\n0%\n'PRUEBAS PRMTE\nEncargado: EME\nI.1\nResultado de Pruebas PRMTE\n¿Qué estoy viendo?\n\nDescripción\n\nEl Coordinador entrega resultados de las pruebas PRMTE.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n10 días hábiles\n\nFecha límite\n\n30-07-2026\n\nHistorial de movimientos"
-      ]
-    },
     "req665604b236d9ef441648202b": {
       "casilla": "Plan Ener Gx",
       "parent_group": "OTROS PES",
@@ -348,7 +341,6 @@
   },
   "first_seen": {
     "req606a6bc436d9ef1a2254fc9b|La Empresa Solicitante debe indicar en el listado de señales SITR los resultados de las pruebas internas y debe enviar un documento firmado por el responsable de la Puesta en Servicio que las pruebas fueron satisfactorias. Debe enviarlo al menos 2 días hábiles antes de las pruebas punto a punto.": "2026-07-24T17:37:35.599478+00:00",
-    "req5e4d4b5a36d9ef2cd9aa1241|El Coordinador entrega resultados de las pruebas PRMTE.": "2026-07-15T17:17:08.930165+00:00",
     "req665604b236d9ef441648202b|El coordinador emitirá su aprobación u observaciones al documento": "2026-07-24T02:10:02.613067+00:00",
     "req5d4da2bc36d9ef761836f1eb|El Coordinador revisa el Programa de Pruebas": "2026-07-20T21:14:19.010101+00:00",
     "req604791af36d9ef530b47bbd7|Confirmación del correcto envío de Pronósticos a través de la Plataforma Opreal": "2026-07-23T21:07:14.517190+00:00"
