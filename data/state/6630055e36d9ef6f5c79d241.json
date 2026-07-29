@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-29T17:13:56.695336+00:00",
+  "fetched_at": "2026-07-29T20:58:31.366283+00:00",
   "name": "PMG Buenaventura",
   "correlativo": 650,
   "completition_status": 77,
@@ -314,7 +314,7 @@
       "casilla": "Pruebas",
       "parent_group": "SITR",
       "sub_panels": [
-        "Listado de Requerimientos\n0%\n'PRUEBAS PUNTO A PUNTO DE SEÑALES SITR\nEncargado: SCADA\nI.1\nSolicitud de resultados de pruebas SITR\nI.1\nResultados de las pruebas SITR\n¿Qué estoy viendo?\n\nDescripción\n\nEl proyecto debe solicitar los resultados de las pruebas SITR realizadas. De acuerdo al Artículo 19, letra c) del A.T., la incorporación al SITR deberá estar habilitada, al menos, 5 días hábiles antes del inicio del período de Puesta en Servicio.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n29-07-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n50%\n'PRUEBAS PUNTO A PUNTO DE SEÑALES SITR\nEncargado: SCADA\nI.1\nSolicitud de resultados de pruebas SITR\nI.1\nResultados de las pruebas SITR\n¿Qué estoy viendo?\n\nDescripción\n\nEl Coordinador enviará los resultados de las pruebas SITR donde se verificará el correcto envío de la magnitud, estado, calidad y edad del dato de cada una de las variables a incluir en el SITR del Coordinador.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n2 días hábiles\n\nFecha límite\n\n31-07-2026\n\nDepende de\n\nSolicitud de resultados de pruebas SITR\nHistorial de movimientos"
       ]
     },
     "req665604b236d9ef441648202b": {
@@ -340,7 +340,7 @@
     }
   },
   "first_seen": {
-    "req5d4d8e6c36d9ef7615c3ecd3|El proyecto debe solicitar los resultados de las pruebas SITR realizadas. De acuerdo al Artículo 19, letra c) del A.T., la incorporación al SITR deberá estar habilitada, al menos, 5 días hábiles antes del inicio del período de Puesta en Servicio.": "2026-07-29T02:05:59.147556+00:00",
+    "req5d4d8e6c36d9ef7615c3ecd3|El Coordinador enviará los resultados de las pruebas SITR donde se verificará el correcto envío de la magnitud, estado, calidad y edad del dato de cada una de las variables a incluir en el SITR del Coordinador.": "2026-07-29T20:58:31.366439+00:00",
     "req665604b236d9ef441648202b|El coordinador emitirá su aprobación u observaciones al documento": "2026-07-24T02:10:02.613067+00:00",
     "req5d4da2bc36d9ef761836f1eb|El Coordinador revisa el Programa de Pruebas": "2026-07-20T21:14:19.010101+00:00",
     "req604791af36d9ef530b47bbd7|Confirmación del correcto envío de Pronósticos a través de la Plataforma Opreal": "2026-07-23T21:07:14.517190+00:00"

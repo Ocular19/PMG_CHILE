@@ -508,5 +508,19 @@
         "fecha_limite": "29-07-2026"
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-29T20:58:31.367996+00:00",
+    "changes": [
+      "'Pruebas': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 31-07-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "Pruebas",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "31-07-2026"
+      }
+    ]
   }
 ]
