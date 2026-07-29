@@ -11,5 +11,15 @@
       "Fecha estimada de Puesta en Servicio: 2026-05-01T00:00:00 → 2026-07-01T00:00:00.",
       "Fecha estimada de Entrada en Operación: 2026-07-01T00:00:00 → 2026-08-01T00:00:00."
     ]
+  },
+  {
+    "timestamp": "2026-07-29T02:05:59.148240+00:00",
+    "changes": [
+      "Casilla 'Fecha Pruebas' cambió de estado: en_curso -> completado",
+      "Casilla 'Pruebas' cambió de estado: pendiente -> en_curso",
+      "'Pruebas': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 29-07-2026).",
+      "Avance general del proyecto: 75% → 77%.",
+      "Avance de requisitos para inicio de PES: 92% → 94%."
+    ]
   }
 ]
