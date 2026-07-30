@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-07-27T17:42:31.540951+00:00",
-    "changes": [
-      "Casilla 'Pruebas' cambió de estado: en_curso -> completado"
-    ]
-  },
-  {
     "timestamp": "2026-07-28T17:26:23.935631+00:00",
     "changes": [
       "Fecha estimada de Puesta en Servicio: 2026-05-01T00:00:00 → 2026-07-01T00:00:00.",
