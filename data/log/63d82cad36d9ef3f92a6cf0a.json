@@ -91,5 +91,19 @@
         "fecha_limite": "14-07-2026"
       }
     ]
+  },
+  {
+    "timestamp": "2026-07-31T14:16:12.317558+00:00",
+    "changes": [
+      "'Plan Ener Gx': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 04-08-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "Plan Ener Gx",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "04-08-2026"
+      }
+    ]
   }
 ]
