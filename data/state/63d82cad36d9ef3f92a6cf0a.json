@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-04T14:24:07.974985+00:00",
+  "fetched_at": "2026-08-04T17:48:44.128917+00:00",
   "name": "PMG Calderaza ",
   "correlativo": 2310,
   "completition_status": 75,
   "completition_pes": 91,
-  "service_estimate_date": "2025-12-30T00:00:00",
-  "operative_estimate_date": "2026-03-30T00:00:00",
+  "service_estimate_date": "2026-11-30T00:00:00",
+  "operative_estimate_date": "2027-03-30T00:00:00",
   "reception_date": "2023-01-27T00:00:00",
   "boxes": {
     "req5a5ebdc901447e4bfc0aa6e3": {
