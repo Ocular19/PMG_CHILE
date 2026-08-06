@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "timestamp": "2026-08-06T14:20:42.039819+00:00",
+    "changes": [
+      "Casilla 'Cronograma' cambió de estado: completado -> en_curso",
+      "'Cronograma': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 07-08-2026).",
+      "Avance general del proyecto: 78% → 77%.",
+      "Avance de requisitos para inicio de PES: 95% → 94%."
+    ]
+  }
+]
