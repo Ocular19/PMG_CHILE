@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-09T12:57:34.787667+00:00",
+  "fetched_at": "2026-08-09T16:34:04.376329+00:00",
   "name": "PMG Buenaventura",
   "correlativo": 650,
   "completition_status": 77,
@@ -345,14 +345,5 @@
     "req5d4da2bc36d9ef761836f1eb|El Coordinador revisa el Programa de Pruebas": "2026-07-20T21:14:19.010101+00:00",
     "req604791af36d9ef530b47bbd7|Confirmación del correcto envío de Pronósticos a través de la Plataforma Opreal": "2026-07-23T21:07:14.517190+00:00"
   },
-  "avance_prev": {
-    "completition_status": {
-      "antes": 78,
-      "changed_at": "2026-08-06T14:20:42.039190+00:00"
-    },
-    "completition_pes": {
-      "antes": 95,
-      "changed_at": "2026-08-06T14:20:42.039195+00:00"
-    }
-  }
+  "avance_prev": {}
 }
