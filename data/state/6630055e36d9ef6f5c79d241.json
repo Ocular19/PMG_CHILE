@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-10T16:53:26.784334+00:00",
+  "fetched_at": "2026-08-10T20:44:16.245356+00:00",
   "name": "PMG Buenaventura",
   "correlativo": 650,
   "completition_status": 77,
@@ -328,7 +328,7 @@
       "casilla": "Prog P",
       "parent_group": "OTROS PES",
       "sub_panels": [
-        "Listado de Requerimientos\n50%\n'PROGRAMA DE PRUEBAS\nEncargado: Programacion\nI.1\nRecepción del Programa de Pruebas\nI.1\nRevisión del Programa de Pruebas\n¿Qué estoy viendo?\n\nDescripción\n\nEl Coordinador revisa el Programa de Pruebas\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n10-08-2026\n\nDepende de\n\nRecepción del Programa de Pruebas\nHistorial de movimientos"
+        "Listado de Requerimientos\n75%\n'PROGRAMA DE PRUEBAS\nEncargado: Programacion\nI.2\nRecepción del Programa de Pruebas\nI.2\nRevisión del Programa de Pruebas\n¿Qué estoy viendo?\n\nDescripción\n\nEl Coordinador revisa el Programa de Pruebas\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n31-08-2026\n\nDepende de\n\nRecepción del Programa de Pruebas\nHistorial de movimientos"
       ]
     },
     "req604791af36d9ef530b47bbd7": {
