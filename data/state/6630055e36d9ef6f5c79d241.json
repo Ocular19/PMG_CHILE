@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-12T13:17:20.907411+00:00",
+  "fetched_at": "2026-08-12T16:56:16.299017+00:00",
   "name": "PMG Buenaventura",
   "correlativo": 650,
-  "completition_status": 77,
-  "completition_pes": 94,
+  "completition_status": 79,
+  "completition_pes": 97,
   "service_estimate_date": "2026-07-01T00:00:00",
   "operative_estimate_date": "2026-08-01T00:00:00",
   "reception_date": "2024-04-26T00:00:00",
@@ -195,7 +195,7 @@
     },
     "req5d4da2bc36d9ef761836f1eb": {
       "text": "Prog P",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req5d4d9fe036d9ef7615c4a7d9": {
@@ -324,13 +324,6 @@
         "Listado de Requerimientos\n50%\nPLAN DE ENERGIZACIÓN GENERACIÓN\nEncargado: Departamento Conexiones\nI.1\nRecepción plan de energización Generación\nI.1\nRevisión Plan de Energización Generación\n¿Qué estoy viendo?\n\nDescripción\n\nEl coordinador emitirá su aprobación u observaciones al documento\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n10 días hábiles\n\nFecha límite\n\n06-08-2026\n\nDepende de\n\nRecepción plan de energización Generación\nHistorial de movimientos"
       ]
     },
-    "req5d4da2bc36d9ef761836f1eb": {
-      "casilla": "Prog P",
-      "parent_group": "OTROS PES",
-      "sub_panels": [
-        "Listado de Requerimientos\n75%\n'PROGRAMA DE PRUEBAS\nEncargado: Programacion\nI.2\nRecepción del Programa de Pruebas\nI.2\nRevisión del Programa de Pruebas\n¿Qué estoy viendo?\n\nDescripción\n\nEl Coordinador revisa el Programa de Pruebas\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n31-08-2026\n\nDepende de\n\nRecepción del Programa de Pruebas\nHistorial de movimientos"
-      ]
-    },
     "req604791af36d9ef530b47bbd7": {
       "casilla": "Pronósticos",
       "parent_group": "PLATAFORMAS PES",
@@ -342,8 +335,16 @@
   "first_seen": {
     "req60ad0d0d36d9ef44f12350ef|De acuerdo con el Artículo 5 letra c) del Anexo Técnico: Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI, las empresas solicitantes deben mantener actualizado el cronograma del proyecto.": "2026-08-06T14:20:42.039151+00:00",
     "req665604b236d9ef441648202b|El coordinador emitirá su aprobación u observaciones al documento": "2026-07-24T02:10:02.613067+00:00",
-    "req5d4da2bc36d9ef761836f1eb|El Coordinador revisa el Programa de Pruebas": "2026-07-20T21:14:19.010101+00:00",
     "req604791af36d9ef530b47bbd7|Confirmación del correcto envío de Pronósticos a través de la Plataforma Opreal": "2026-07-23T21:07:14.517190+00:00"
   },
-  "avance_prev": {}
+  "avance_prev": {
+    "completition_status": {
+      "antes": 77,
+      "changed_at": "2026-08-12T16:56:16.299207+00:00"
+    },
+    "completition_pes": {
+      "antes": 94,
+      "changed_at": "2026-08-12T16:56:16.299212+00:00"
+    }
+  }
 }
