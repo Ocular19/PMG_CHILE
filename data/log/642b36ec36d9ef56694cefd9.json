@@ -1,47 +1,5 @@
 [
   {
-    "timestamp": "2026-06-23T21:45:10.151289+00:00",
-    "changes": [
-      "'Plan Ener Gx': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 08-07-2026)."
-    ],
-    "alerts": [
-      {
-        "casilla": "Plan Ener Gx",
-        "evento": "Avanzó de etapa",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "08-07-2026"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-06-26T02:50:57.795869+00:00",
-    "changes": [
-      "'Pruebas End to End': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 30-04-2026)."
-    ],
-    "alerts": [
-      {
-        "casilla": "Pruebas End to End",
-        "evento": "Nuevo pendiente",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "30-04-2026"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-01T02:56:11.011654+00:00",
-    "changes": [
-      "'PO E': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 14-07-2026)."
-    ],
-    "alerts": [
-      {
-        "casilla": "PO E",
-        "evento": "Avanzó de etapa",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "14-07-2026"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-07-10T17:47:37.132974+00:00",
     "changes": [
       "Casilla 'REUC' cambió de estado: pendiente -> completado",
@@ -201,6 +159,28 @@
         "evento": "Cambió de estado (pendiente → completado)",
         "quien": "Sin acción pendiente (completada)",
         "fecha_limite": "-"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-08-12T20:48:14.594089+00:00",
+    "changes": [
+      "Casilla 'Cronograma' cambió de estado: completado -> en_curso",
+      "'Cronograma': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 13-08-2026).",
+      "Avance de requisitos para inicio de PES: 99% → 98%."
+    ],
+    "alerts": [
+      {
+        "casilla": "Cronograma",
+        "evento": "Cambió de estado (completado → en_curso)",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "13-08-2026"
+      },
+      {
+        "casilla": "Cronograma",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "13-08-2026"
       }
     ]
   }
