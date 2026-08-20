@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T12:55:23.654673+00:00",
+  "fetched_at": "2026-08-20T16:33:59.481313+00:00",
   "name": "PMG Buenaventura",
   "correlativo": 650,
   "completition_status": 80,
@@ -321,14 +321,5 @@
   "first_seen": {
     "req665604b236d9ef441648202b|La Empresa solicitante debe hacer envío del plan de Energización de acuerdo al AT.": "2026-08-17T16:26:10.939565+00:00"
   },
-  "avance_prev": {
-    "completition_status": {
-      "antes": 79,
-      "changed_at": "2026-08-17T16:26:10.939578+00:00"
-    },
-    "completition_pes": {
-      "antes": 97,
-      "changed_at": "2026-08-17T16:26:10.939583+00:00"
-    }
-  }
+  "avance_prev": {}
 }
