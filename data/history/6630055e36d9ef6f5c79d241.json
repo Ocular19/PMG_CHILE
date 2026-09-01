@@ -1,1 +1,31 @@
-[]
+[
+  {
+    "timestamp": "2026-09-01T08:58:16.888618+00:00",
+    "changes": [
+      "Casilla 'REUC' cambió de estado: pendiente -> en_curso",
+      "Casilla 'P. Pagos' cambió de estado: pendiente -> en_curso",
+      "Casilla 'Pruebas End to End' cambió de estado: pendiente -> en_curso",
+      "Casilla 'PO E' cambió de estado: pendiente -> en_curso",
+      "Casilla 'IT PES (inv)' cambió de estado: pendiente -> en_curso",
+      "Casilla 'IT PES' cambió de estado: pendiente -> en_curso",
+      "Casilla 'CVNC' cambió de estado: pendiente -> en_curso",
+      "Casilla 'VMD' cambió de estado: pendiente -> en_curso",
+      "Casilla 'PMax' cambió de estado: pendiente -> en_curso",
+      "Casilla 'PPyD' cambió de estado: pendiente -> en_curso",
+      "Casilla 'MT' cambió de estado: pendiente -> en_curso",
+      "Casilla 'REQUERIMIENTOS DE CONVERTIDORES' cambió de estado: pendiente -> en_curso",
+      "Casilla 'Modelos EMT' cambió de estado: pendiente -> en_curso",
+      "'REUC': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 07-09-2026).",
+      "'P. Pagos': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 22-09-2026).",
+      "'Pruebas End to End': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 01-09-2026).",
+      "'PO E': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 01-09-2026).",
+      "'IT PES': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 01-09-2026).",
+      "'CVNC': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 01-09-2026).",
+      "'VMD': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 01-09-2026).",
+      "'PMax': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 01-09-2026).",
+      "'PPyD': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 01-09-2026).",
+      "'MT': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 01-09-2026).",
+      "'Modelos EMT': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 01-09-2026)."
+    ]
+  }
+]
