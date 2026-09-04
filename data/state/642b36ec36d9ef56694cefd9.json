@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T02:32:20.213098+00:00",
+  "fetched_at": "2026-09-04T08:17:28.466230+00:00",
   "name": "PFV Conguillio (Ex PMG Mirador)",
   "correlativo": 1741,
   "completition_status": 86,
@@ -372,14 +372,5 @@
     "req5d4da56936d9ef7615c580e4|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-08-19T12:54:28.499896+00:00",
     "req6a15c8b636d9ef7d59878e93|Carga de carta de solicitud de revisión de Modelo OEM en EMTP (software de simulación de referencia utilizado por el Coordinador), enviado previamente por sistema de correspondencia (Macro materia: Estudios e Informes / Micro materia: Modelos EMTP) con carácter confidencial. Información de referencia: Título 5 AT-IBR 2026; Procedimiento Interno de Modelación y Homologación de Instalaciones del SEN; Guía Técnica de Aplicación Modelo EMT": "2026-07-10T17:47:37.131730+00:00"
   },
-  "avance_prev": {
-    "completition_status": {
-      "antes": 85,
-      "changed_at": "2026-09-01T03:09:52.331845+00:00"
-    },
-    "completition_pes": {
-      "antes": 98,
-      "changed_at": "2026-09-01T03:09:52.331848+00:00"
-    }
-  }
+  "avance_prev": {}
 }
