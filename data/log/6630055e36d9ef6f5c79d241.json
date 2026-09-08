@@ -1,73 +1,5 @@
 [
   {
-    "timestamp": "2026-07-28T17:26:23.936078+00:00",
-    "changes": [
-      "Fecha estimada de Puesta en Servicio: 2026-05-01T00:00:00 → 2026-07-01T00:00:00.",
-      "Fecha estimada de Entrada en Operación: 2026-07-01T00:00:00 → 2026-08-01T00:00:00."
-    ],
-    "alerts": []
-  },
-  {
-    "timestamp": "2026-07-29T02:05:59.148792+00:00",
-    "changes": [
-      "Casilla 'Fecha Pruebas' cambió de estado: en_curso -> completado",
-      "Casilla 'Pruebas' cambió de estado: pendiente -> en_curso",
-      "'Pruebas': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 29-07-2026).",
-      "Avance general del proyecto: 75% → 77%.",
-      "Avance de requisitos para inicio de PES: 92% → 94%."
-    ],
-    "alerts": [
-      {
-        "casilla": "Fecha Pruebas",
-        "evento": "Cambió de estado (en_curso → completado)",
-        "quien": "Sin acción pendiente (completada)",
-        "fecha_limite": "-"
-      },
-      {
-        "casilla": "Pruebas",
-        "evento": "Cambió de estado (pendiente → en_curso)",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "29-07-2026"
-      },
-      {
-        "casilla": "Pruebas",
-        "evento": "Nuevo pendiente",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "29-07-2026"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-29T20:58:31.367996+00:00",
-    "changes": [
-      "'Pruebas': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 31-07-2026)."
-    ],
-    "alerts": [
-      {
-        "casilla": "Pruebas",
-        "evento": "Avanzó de etapa",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "31-07-2026"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-07-30T14:10:05.811672+00:00",
-    "changes": [
-      "Casilla 'Pruebas' cambió de estado: en_curso -> completado",
-      "Avance general del proyecto: 77% → 78%.",
-      "Avance de requisitos para inicio de PES: 94% → 95%."
-    ],
-    "alerts": [
-      {
-        "casilla": "Pruebas",
-        "evento": "Cambió de estado (en_curso → completado)",
-        "quien": "Sin acción pendiente (completada)",
-        "fecha_limite": "-"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-06T14:20:42.040353+00:00",
     "changes": [
       "Casilla 'Cronograma' cambió de estado: completado -> en_curso",
@@ -308,6 +240,20 @@
         "evento": "Nuevo pendiente",
         "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
         "fecha_limite": "01-09-2026"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-08T16:18:48.763531+00:00",
+    "changes": [
+      "'IT PES': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 30-09-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "IT PES",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "30-09-2026"
       }
     ]
   }

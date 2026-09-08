@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T12:41:30.835936+00:00",
+  "fetched_at": "2026-09-08T16:18:48.762091+00:00",
   "name": "PMG Buenaventura",
   "correlativo": 650,
   "completition_status": 80,
@@ -356,7 +356,7 @@
       "casilla": "IT PES",
       "parent_group": "OTROS EO",
       "sub_panels": [
-        "Listado de Requerimientos\n0%\n'INFOTÉCNICA PARA PES\nEncargado: DAIT\nI.1\nSolicitud de revisión de información técnica\nI.1\nRevisión de Información Técnica\n¿Qué estoy viendo?\n\nDescripción\n\nPara solicitar revisión de Información Tecnica se debe cumplir con los porcentajes de Completitud minimos solicitados en el ANIT. Una vez revisada la información se procedera de acuerdo a lo informado en los documentos de revisión de la Información Técnica. Para solicitar una nueva revisión, se debe incluir una Minuta de Respuestas a las Observaciones emitidas por el Coordinador.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n01-09-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n50%\n'INFOTÉCNICA PARA PES\nEncargado: DAIT\nI.1\nSolicitud de revisión de información técnica\nI.1\nRevisión de Información Técnica\n¿Qué estoy viendo?\n\nDescripción\n\nRevisión de información técnica cargada en la plataforma de IT\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n30-09-2026\n\nDepende de\n\nSolicitud de revisión de información técnica\nHistorial de movimientos"
       ]
     },
     "req5d4da9c336d9ef761837419c": {
@@ -415,7 +415,7 @@
     "req60612e0736d9ef1fc3814808|Incorporación de la Empresa a la Plataforma Portal de Pagos (Solo si no es Coordinada)": "2026-09-01T08:58:16.887824+00:00",
     "req64e3afeb36d9ef23190ab0a4|Solicitud de Revisión de Pruebas End to End": "2026-09-01T08:58:16.887834+00:00",
     "req5d4da16b36d9ef76172b5bc4|Solicitud de revisión de Print Out de Relés existentes modificados.": "2026-09-01T08:58:16.887843+00:00",
-    "req5d4c9a3d36d9ef7615c07cfb|Para solicitar revisión de Información Tecnica se debe cumplir con los porcentajes de Completitud minimos solicitados en el ANIT. Una vez revisada la información se procedera de acuerdo a lo informado en los documentos de revisión de la Información Técnica. Para solicitar una nueva revisión, se debe incluir una Minuta de Respuestas a las Observaciones emitidas por el Coordinador.": "2026-09-01T08:58:16.887861+00:00",
+    "req5d4c9a3d36d9ef7615c07cfb|Revisión de información técnica cargada en la plataforma de IT": "2026-09-08T16:18:48.762495+00:00",
     "req5d4da9c336d9ef761837419c|La Empresa Solicitante debe enviar antecedentes para la declaración de Costos Variables Combustibles y No Combustibles": "2026-09-01T08:58:16.887870+00:00",
     "req5d4da87e36d9ef76183739c3|La Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico": "2026-09-01T08:58:16.887877+00:00",
     "req5d4da5d136d9ef761837315b|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-09-01T08:58:16.887885+00:00",
