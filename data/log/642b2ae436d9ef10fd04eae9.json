@@ -1,19 +1,5 @@
 [
   {
-    "timestamp": "2026-08-11T01:15:59.574915+00:00",
-    "changes": [
-      "'IT PES': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 17-08-2026)."
-    ],
-    "alerts": [
-      {
-        "casilla": "IT PES",
-        "evento": "Avanzó de etapa",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "17-08-2026"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-08-18T00:55:13.031915+00:00",
     "changes": [
       "Casilla 'IT PES' cambió de estado: en_curso -> completado",
@@ -83,6 +69,34 @@
         "evento": "Avanzó de etapa",
         "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
         "fecha_limite": "05-10-2026"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-09-15T19:32:20.854708+00:00",
+    "changes": [
+      "'PMax': avanzó de etapa — ahora Esperando que Grenergy cargue un documento (fecha límite 16-09-2026).",
+      "'PPyD': avanzó de etapa — ahora Esperando que Grenergy cargue un documento (fecha límite 16-09-2026).",
+      "'MT': avanzó de etapa — ahora Esperando que Grenergy cargue un documento (fecha límite 16-09-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "PMax",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "16-09-2026"
+      },
+      {
+        "casilla": "PPyD",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "16-09-2026"
+      },
+      {
+        "casilla": "MT",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "16-09-2026"
       }
     ]
   }
