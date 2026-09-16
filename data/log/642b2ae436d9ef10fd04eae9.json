@@ -99,5 +99,19 @@
         "fecha_limite": "16-09-2026"
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-16T08:53:50.240800+00:00",
+    "changes": [
+      "'REQUERIMIENTOS DE CONVERTIDORES': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 14-07-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "REQUERIMIENTOS DE CONVERTIDORES",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "14-07-2026"
+      }
+    ]
   }
 ]
