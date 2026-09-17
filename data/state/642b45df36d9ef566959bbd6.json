@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T19:35:26.118750+00:00",
+  "fetched_at": "2026-09-17T22:44:12.244002+00:00",
   "name": "NI PMG Zaturno ",
   "correlativo": 1697,
   "completition_status": 12,
@@ -314,14 +314,5 @@
     "req5d4d5ffe36d9ef7615c24383|La Empresa Solicitante envía a revisión los respaldos de la Ingeniería de Diseño solicitada": "2026-06-23T01:26:23.550396+00:00",
     "req5d4c968836d9ef7617252155|Actualización de Anexos de la CEM": "2026-09-14T20:10:46.165978+00:00"
   },
-  "avance_prev": {
-    "completition_status": {
-      "antes": 11,
-      "changed_at": "2026-09-14T20:10:46.165991+00:00"
-    },
-    "completition_pes": {
-      "antes": 14,
-      "changed_at": "2026-09-14T20:10:46.165994+00:00"
-    }
-  }
+  "avance_prev": {}
 }
