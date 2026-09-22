@@ -72,5 +72,19 @@
         "fecha_limite": "22-09-2026"
       }
     ]
+  },
+  {
+    "timestamp": "2026-09-22T22:48:00.441652+00:00",
+    "changes": [
+      "'DUF': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 01-10-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "DUF",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "01-10-2026"
+      }
+    ]
   }
 ]
