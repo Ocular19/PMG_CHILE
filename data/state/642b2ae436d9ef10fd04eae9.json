@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-23T08:53:47.498412+00:00",
+  "fetched_at": "2026-09-23T13:25:40.421872+00:00",
   "name": "NI PMG Toledo (Ex Travesía)",
   "correlativo": 1721,
   "completition_status": 89,
@@ -315,7 +315,7 @@
       "casilla": "VMD",
       "parent_group": "OTROS EO",
       "sub_panels": [
-        "Listado de Requerimientos\n0%\n'VALIDACIÓN DE MODELO DINÁMICO\nEncargado: Departamento de Modelación y Aplicaciones EMS\nI.1\nRecepción de informe VMD\nI.1\nRevisión de VMD\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGNS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n50%\n'VALIDACIÓN DE MODELO DINÁMICO\nEncargado: Departamento de Modelación y Aplicaciones EMS\nI.1\nRecepción de informe VMD\nI.1\nRevisión de VMD\n¿Qué estoy viendo?\n\nDescripción\n\nEl Coordinador envía la revisión al informe de VMD\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n20 días hábiles\n\nFecha límite\n\n22-10-2026\n\nDepende de\n\nRecepción de informe VMD\nHistorial de movimientos"
       ]
     },
     "req5d4da5d136d9ef761837315b": {
@@ -358,7 +358,7 @@
     "req60ad0d0d36d9ef44f12350ef|De acuerdo con el Artículo 5 letra c) del Anexo Técnico: Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI, las empresas solicitantes deben mantener actualizado el cronograma del proyecto.": "2026-07-13T17:54:09.857677+00:00",
     "req64e3afeb36d9ef23190ab0a4|Solicitud de Revisión de Pruebas End to End": "2026-07-13T17:54:09.857722+00:00",
     "req5d4da9c336d9ef761837419c|La Empresa Solicitante debe enviar antecedentes para la declaración de Costos Variables Combustibles y No Combustibles": "2026-07-13T17:54:09.857730+00:00",
-    "req5d4da87e36d9ef76183739c3|La Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico": "2026-07-13T17:54:09.857739+00:00",
+    "req5d4da87e36d9ef76183739c3|El Coordinador envía la revisión al informe de VMD": "2026-09-23T13:25:40.422211+00:00",
     "req5d4da5d136d9ef761837315b|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-09-15T19:32:20.853707+00:00",
     "req5d4da62e36d9ef76172b6c08|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-09-15T19:32:20.853717+00:00",
     "req5d4da56936d9ef7615c580e4|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-09-15T19:32:20.853734+00:00",

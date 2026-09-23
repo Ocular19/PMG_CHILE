@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-23T08:54:41.959727+00:00",
+  "fetched_at": "2026-09-23T13:28:38.447461+00:00",
   "name": "PMG Buenaventura",
   "correlativo": 650,
   "completition_status": 80,
@@ -363,7 +363,7 @@
       "casilla": "CVNC",
       "parent_group": "OTROS EO",
       "sub_panels": [
-        "Listado de Requerimientos\n0%\n'DECLARACIÓN DE CVC-CVNC\nEncargado: Por definir\nI.1\nRecepción de antecedentes para la declaración de CVC-CVNC\nI.1\nRevisión de antecedentes para la declaración de CVC-CVNC\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe enviar antecedentes para la declaración de Costos Variables Combustibles y No Combustibles\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n01-09-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n50%\n'DECLARACIÓN DE CVC-CVNC\nEncargado: Por definir\nI.1\nRecepción de antecedentes para la declaración de CVC-CVNC\nI.1\nRevisión de antecedentes para la declaración de CVC-CVNC\n¿Qué estoy viendo?\n\nDescripción\n\nEl Coordinador envía su revisión a la declaración de Costos Variables Combustibles y No Combustibles\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n15-10-2026\n\nDepende de\n\nRecepción de antecedentes para la declaración de CVC-CVNC\nHistorial de movimientos"
       ]
     },
     "req5d4da87e36d9ef76183739c3": {
@@ -416,7 +416,7 @@
     "req64e3afeb36d9ef23190ab0a4|Solicitud de Revisión de Pruebas End to End": "2026-09-01T08:58:16.887834+00:00",
     "req5d4da16b36d9ef76172b5bc4|Solicitud de revisión de Print Out de Relés existentes modificados.": "2026-09-01T08:58:16.887843+00:00",
     "req5d4c9a3d36d9ef7615c07cfb|Revisión de información técnica cargada en la plataforma de IT": "2026-09-08T16:18:48.762495+00:00",
-    "req5d4da9c336d9ef761837419c|La Empresa Solicitante debe enviar antecedentes para la declaración de Costos Variables Combustibles y No Combustibles": "2026-09-01T08:58:16.887870+00:00",
+    "req5d4da9c336d9ef761837419c|El Coordinador envía su revisión a la declaración de Costos Variables Combustibles y No Combustibles": "2026-09-23T13:28:38.447774+00:00",
     "req5d4da87e36d9ef76183739c3|La Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico": "2026-09-01T08:58:16.887877+00:00",
     "req5d4da5d136d9ef761837315b|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-09-01T08:58:16.887885+00:00",
     "req5d4da62e36d9ef76172b6c08|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-09-01T08:58:16.887892+00:00",
