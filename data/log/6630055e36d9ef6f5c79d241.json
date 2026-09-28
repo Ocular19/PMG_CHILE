@@ -209,5 +209,19 @@
       "Fecha estimada de Entrada en Operación: 2026-08-01T00:00:00 → 2026-10-31T00:00:00."
     ],
     "alerts": []
+  },
+  {
+    "timestamp": "2026-09-28T16:31:39.062079+00:00",
+    "changes": [
+      "'Modelos EMT': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 27-10-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "Modelos EMT",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "27-10-2026"
+      }
+    ]
   }
 ]
