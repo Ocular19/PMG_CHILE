@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-09-29T14:41:00.967376+00:00",
+  "fetched_at": "2026-09-29T17:52:54.934891+00:00",
   "name": "PMG Buenaventura",
   "correlativo": 650,
-  "completition_status": 83,
+  "completition_status": 86,
   "completition_pes": 98,
   "service_estimate_date": "2026-07-01T00:00:00",
   "operative_estimate_date": "2026-10-31T00:00:00",
@@ -245,7 +245,7 @@
     },
     "req5d4c9a3d36d9ef7615c07cfb": {
       "text": "IT PES",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req5d4da9c336d9ef761837419c": {
@@ -316,13 +316,6 @@
         "Listado de Requerimientos\n0%\n'PORTAL DE PAGOS\nEncargado: Por definir\nI.1\nIncorporación a la Plataforma Portal de Pagos\n¿Qué estoy viendo?\n\nDescripción\n\nIncorporación de la Empresa a la Plataforma Portal de Pagos (Solo si no es Coordinada)\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n16-10-2026\n\nHistorial de movimientos"
       ]
     },
-    "req5d4c9a3d36d9ef7615c07cfb": {
-      "casilla": "IT PES",
-      "parent_group": "OTROS EO",
-      "sub_panels": [
-        "Listado de Requerimientos\n50%\n'INFOTÉCNICA PARA PES\nEncargado: DAIT\nI.1\nSolicitud de revisión de información técnica\nI.1\nRevisión de Información Técnica\n¿Qué estoy viendo?\n\nDescripción\n\nRevisión de información técnica cargada en la plataforma de IT\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n30-09-2026\n\nDepende de\n\nSolicitud de revisión de información técnica\nHistorial de movimientos"
-      ]
-    },
     "req5d4da9c336d9ef761837419c": {
       "casilla": "CVNC",
       "parent_group": "OTROS EO",
@@ -377,7 +370,6 @@
     "req665604b236d9ef441648202b|La Empresa solicitante debe hacer envío del plan de Energización de acuerdo al AT.": "2026-08-17T16:26:10.939565+00:00",
     "req60612d9936d9ef0e9752226b|Incorporación de la Empresa a la Plataforma REUC (Solo si no es Coordinada)": "2026-09-01T08:58:16.887814+00:00",
     "req60612e0736d9ef1fc3814808|Incorporación de la Empresa a la Plataforma Portal de Pagos (Solo si no es Coordinada)": "2026-09-01T08:58:16.887824+00:00",
-    "req5d4c9a3d36d9ef7615c07cfb|Revisión de información técnica cargada en la plataforma de IT": "2026-09-08T16:18:48.762495+00:00",
     "req5d4da9c336d9ef761837419c|El Coordinador envía su revisión a la declaración de Costos Variables Combustibles y No Combustibles": "2026-09-23T13:28:38.447774+00:00",
     "req5d4da87e36d9ef76183739c3|La Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico": "2026-09-01T08:58:16.887877+00:00",
     "req5d4da5d136d9ef761837315b|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-09-01T08:58:16.887885+00:00",
@@ -385,5 +377,10 @@
     "req5d4da56936d9ef7615c580e4|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-09-01T08:58:16.887900+00:00",
     "req6a15c8b636d9ef7d59878e93|Resultado de revisión del modelo EMT.": "2026-09-28T16:31:39.060841+00:00"
   },
-  "avance_prev": {}
+  "avance_prev": {
+    "completition_status": {
+      "antes": 83,
+      "changed_at": "2026-09-29T17:52:54.935244+00:00"
+    }
+  }
 }

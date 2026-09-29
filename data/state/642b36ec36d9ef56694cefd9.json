@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-29T14:40:44.987546+00:00",
+  "fetched_at": "2026-09-29T17:52:39.815635+00:00",
   "name": "PFV Conguillio (Ex PMG Mirador)",
   "correlativo": 1741,
   "completition_status": 86,
@@ -230,7 +230,7 @@
     },
     "req5d4c9a3d36d9ef7615c07cfb": {
       "text": "IT PES",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": false
     },
     "req64e3afeb36d9ef23190ab0a4": {
@@ -297,6 +297,13 @@
         "Listado de Requerimientos\n88%\n'ACTUALIZACIÓN DE CRONOGRAMA\nEncargado: Departamento Conexiones\nI.9\nActualización de Cronograma\n¿Qué estoy viendo?\n\nDescripción\n\nDe acuerdo con el Artículo 5 letra c) del Anexo Técnico: Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI, las empresas solicitantes deben mantener actualizado el cronograma del proyecto.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGCS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n13-08-2026\n\nHistorial de movimientos"
       ]
     },
+    "req5d4c9a3d36d9ef7615c07cfb": {
+      "casilla": "IT PES",
+      "parent_group": "OTROS EO",
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\n'INFOTÉCNICA PARA PES\nEncargado: DAIT\nI.1\nSolicitud de revisión de información técnica\nI.1\nRevisión de Información Técnica\n¿Qué estoy viendo?\n\nDescripción\n\nPara solicitar revisión de Información Tecnica se debe cumplir con los porcentajes de Completitud minimos solicitados en el ANIT. Una vez revisada la información se procedera de acuerdo a lo informado en los documentos de revisión de la Información Técnica. Para solicitar una nueva revisión, se debe incluir una Minuta de Respuestas a las Observaciones emitidas por el Coordinador.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGCS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n30-09-2026\n\nHistorial de movimientos"
+      ]
+    },
     "req64e3afeb36d9ef23190ab0a4": {
       "casilla": "Pruebas End to End",
       "parent_group": "OTROS EO",
@@ -356,6 +363,7 @@
   },
   "first_seen": {
     "req60ad0d0d36d9ef44f12350ef|De acuerdo con el Artículo 5 letra c) del Anexo Técnico: Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI, las empresas solicitantes deben mantener actualizado el cronograma del proyecto.": "2026-08-12T20:48:14.592981+00:00",
+    "req5d4c9a3d36d9ef7615c07cfb|Para solicitar revisión de Información Tecnica se debe cumplir con los porcentajes de Completitud minimos solicitados en el ANIT. Una vez revisada la información se procedera de acuerdo a lo informado en los documentos de revisión de la Información Técnica. Para solicitar una nueva revisión, se debe incluir una Minuta de Respuestas a las Observaciones emitidas por el Coordinador.": "2026-09-29T17:52:39.816191+00:00",
     "req64e3afeb36d9ef23190ab0a4|Solicitud de Revisión de Pruebas End to End": "2026-06-26T02:50:57.794957+00:00",
     "req5d4da9c336d9ef761837419c|La Empresa Solicitante debe enviar antecedentes para la declaración de Costos Variables Combustibles y No Combustibles": "2026-06-23T01:26:05.334980+00:00",
     "req5d4da87e36d9ef76183739c3|La Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico": "2026-06-23T01:26:05.334989+00:00",
