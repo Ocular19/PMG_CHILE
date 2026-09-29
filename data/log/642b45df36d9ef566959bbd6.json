@@ -29,5 +29,26 @@
       "Fecha estimada de Entrada en Operación: 2026-06-22T00:00:00 → 2027-05-20T00:00:00."
     ],
     "alerts": []
+  },
+  {
+    "timestamp": "2026-09-29T14:41:09.359141+00:00",
+    "changes": [
+      "Casilla 'Act. CEM Def' cambió de estado: en_curso -> completado",
+      "Casilla 'INFORMACIÓN TÉCNICA' cambió de estado: pendiente -> en_curso"
+    ],
+    "alerts": [
+      {
+        "casilla": "Act. CEM Def",
+        "evento": "Cambió de estado (en_curso → completado)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "INFORMACIÓN TÉCNICA",
+        "evento": "Cambió de estado (pendiente → en_curso)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      }
+    ]
   }
 ]

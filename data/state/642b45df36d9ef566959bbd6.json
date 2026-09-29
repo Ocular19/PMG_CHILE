@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-29T10:12:25.274501+00:00",
+  "fetched_at": "2026-09-29T14:41:09.357529+00:00",
   "name": "NI PMG Zaturno ",
   "correlativo": 1697,
   "completition_status": 12,
@@ -40,12 +40,12 @@
     },
     "req5d4c968836d9ef7617252155": {
       "text": "Act. CEM Def",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req60ca060536d9ef1ee6b43b49": {
       "text": "INFORMACIÓN TÉCNICA",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": false
     },
     "req60ca075236d9ef2b9316e203": {
@@ -78,8 +78,8 @@
       "state": "pendiente",
       "is_container": false
     },
-    "req5d4d815e36d9ef7615c337b6": {
-      "text": "ECB",
+    "req5d4d80b036d9ef7615c333ec": {
+      "text": "EFP",
       "state": "pendiente",
       "is_container": false
     },
@@ -88,13 +88,18 @@
       "state": "pendiente",
       "is_container": false
     },
+    "req5d4d821236d9ef7615c3554c": {
+      "text": "EMT",
+      "state": "pendiente",
+      "is_container": false
+    },
     "req5d4d828736d9ef7615c3571d": {
       "text": "ECA",
       "state": "pendiente",
       "is_container": false
     },
-    "req5d4d821236d9ef7615c3554c": {
-      "text": "EMT",
+    "req5d4d815e36d9ef7615c337b6": {
+      "text": "ECB",
       "state": "pendiente",
       "is_container": false
     },
@@ -299,20 +304,19 @@
       "casilla": "RI",
       "parent_group": "ANIT y PLANOS",
       "sub_panels": [
-        "Listado de Requerimientos\n66%\n'REVISIÓN INGENIERÍA DE DISEÑO\nEncargado: Dpto. Estándares y Normativa\nI.3\nSolicitud de Revisión de la Ingeniería de Diseño\nI.3\nRevisión de Ingeniería de Diseño\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante envía a revisión los respaldos de la Ingeniería de Diseño solicitada\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGMMS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n66%\n'REVISIÓN INGENIERÍA DE DISEÑO\nEncargado: Dpto. Estándares y Normativa\nI.3\nSolicitud de Revisión de la Ingeniería de Diseño\nI.3\nRevisión de Ingeniería de Diseño\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante envía a revisión los respaldos de la Ingeniería de Diseño solicitada\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGMMS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n30-09-2026\n\nHistorial de movimientos"
       ]
     },
-    "req5d4c968836d9ef7617252155": {
-      "casilla": "Act. CEM Def",
+    "req60ca060536d9ef1ee6b43b49": {
+      "casilla": "INFORMACIÓN TÉCNICA",
       "parent_group": null,
       "sub_panels": [
-        "Listado de Requerimientos\n75%\n'ACTUALIZACIÓN DE ANEXOS DE CEM DEFINITIVA\nEncargado: Departamento Conexiones\nI.2\nSolicitud de actualización de Anexos CEM\nI.2\nActualización de Anexos de la CEM\n¿Qué estoy viendo?\n\nDescripción\n\nActualización de Anexos de la CEM\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n10 días hábiles\n\nFecha límite\n\n29-09-2026\n\nDepende de\n\nSolicitud de actualización de Anexos CEM\nHistorial de movimientos"
+        "Listado de Requerimientos\n0%\n*INFORMACIÓN TÉCNICA\nEncargado: Departamento Conexiones\nI.1\nGrupo de Requerimientos\n¿Qué estoy viendo?\n\nDescripción\n\nGrupo de Requerimientos\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n150 días hábiles\n\nFecha límite\n\n04-05-2027\n\nHistorial de movimientos"
       ]
     }
   },
   "first_seen": {
-    "req5d4d5ffe36d9ef7615c24383|La Empresa Solicitante envía a revisión los respaldos de la Ingeniería de Diseño solicitada": "2026-06-23T01:26:23.550396+00:00",
-    "req5d4c968836d9ef7617252155|Actualización de Anexos de la CEM": "2026-09-14T20:10:46.165978+00:00"
+    "req5d4d5ffe36d9ef7615c24383|La Empresa Solicitante envía a revisión los respaldos de la Ingeniería de Diseño solicitada": "2026-06-23T01:26:23.550396+00:00"
   },
   "avance_prev": {}
 }
