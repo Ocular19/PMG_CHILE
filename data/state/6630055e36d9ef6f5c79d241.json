@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-02T14:31:20.574992+00:00",
+  "fetched_at": "2026-10-02T17:39:50.167154+00:00",
   "name": "PMG Buenaventura",
   "correlativo": 650,
-  "completition_status": 86,
+  "completition_status": 87,
   "completition_pes": 98,
   "service_estimate_date": "2026-07-01T00:00:00",
   "operative_estimate_date": "2026-10-31T00:00:00",
@@ -280,12 +280,12 @@
     },
     "req6a173dcf36d9ef4dfd2e68fc": {
       "text": "REQUERIMIENTOS DE CONVERTIDORES",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req6a15c8b636d9ef7d59878e93": {
       "text": "Modelos EMT",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req5d4dab3f36d9ef7615c59207": {
@@ -350,20 +350,6 @@
       "sub_panels": [
         "Listado de Requerimientos\n0%\n'INFORME DE DETERMINACIÓN DE MÍNIMOS TÉCNICOS EN UNIDADES GENERADORAS\nEncargado: Por definir\nI.1\nCarta del envío al Coordinador de informe\nI.1\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n25-09-2026\n\nHistorial de movimientos"
       ]
-    },
-    "req6a173dcf36d9ef4dfd2e68fc": {
-      "casilla": "REQUERIMIENTOS DE CONVERTIDORES",
-      "parent_group": null,
-      "sub_panels": [
-        "Listado de Requerimientos\n0%\n*REQUERIMIENTOS DE CONVERTIDORES\nEncargado: Departamento Conexiones\nI.1\nGrupo de Requerimientos\n¿Qué estoy viendo?\n\nDescripción\n\nGrupo de Requerimientos\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n150 días hábiles\n\nFecha límite\n\n29-04-2027\n\nHistorial de movimientos"
-      ]
-    },
-    "req6a15c8b636d9ef7d59878e93": {
-      "casilla": "Modelos EMT",
-      "parent_group": null,
-      "sub_panels": [
-        "Listado de Requerimientos\n50%\nMODELOS EMT (TRANSITORIOS ELECTROMAGNÉTICOS)\nEncargado: Departamento Conexiones\nI.1\nSolicitud de Revisión de Modelos EMT\nI.1\nResultado de Revisión de Modelos EMT\n¿Qué estoy viendo?\n\nDescripción\n\nResultado de revisión del modelo EMT.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n20 días hábiles\n\nFecha límite\n\n27-10-2026\n\nDepende de\n\nSolicitud de Revisión de Modelos EMT\nHistorial de movimientos"
-      ]
     }
   },
   "first_seen": {
@@ -374,13 +360,12 @@
     "req5d4da87e36d9ef76183739c3|La Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico": "2026-09-01T08:58:16.887877+00:00",
     "req5d4da5d136d9ef761837315b|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-09-01T08:58:16.887885+00:00",
     "req5d4da62e36d9ef76172b6c08|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-09-01T08:58:16.887892+00:00",
-    "req5d4da56936d9ef7615c580e4|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-09-01T08:58:16.887900+00:00",
-    "req6a15c8b636d9ef7d59878e93|Resultado de revisión del modelo EMT.": "2026-09-28T16:31:39.060841+00:00"
+    "req5d4da56936d9ef7615c580e4|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-09-01T08:58:16.887900+00:00"
   },
   "avance_prev": {
     "completition_status": {
       "antes": 83,
-      "changed_at": "2026-09-29T17:52:54.935244+00:00"
+      "changed_at": "2026-10-02T17:39:50.167464+00:00"
     }
   }
 }
