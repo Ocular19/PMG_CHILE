@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-05T16:52:45.130941+00:00",
+  "fetched_at": "2026-10-05T20:23:56.773210+00:00",
   "name": "PMG Buenaventura",
   "correlativo": 650,
   "completition_status": 87,
@@ -362,10 +362,5 @@
     "req5d4da62e36d9ef76172b6c08|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-09-01T08:58:16.887892+00:00",
     "req5d4da56936d9ef7615c580e4|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-09-01T08:58:16.887900+00:00"
   },
-  "avance_prev": {
-    "completition_status": {
-      "antes": 83,
-      "changed_at": "2026-10-02T17:39:50.167464+00:00"
-    }
-  }
+  "avance_prev": {}
 }
