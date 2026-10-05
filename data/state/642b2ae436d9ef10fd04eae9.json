@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-05T10:56:02.000152+00:00",
+  "fetched_at": "2026-10-05T16:52:10.022903+00:00",
   "name": "NI PMG Toledo (Ex Travesía)",
   "correlativo": 1721,
   "completition_status": 89,
-  "completition_pes": 99,
+  "completition_pes": 100,
   "service_estimate_date": "2026-04-27T00:00:00",
   "operative_estimate_date": "2026-07-28T00:00:00",
   "reception_date": "2023-03-31T00:00:00",
@@ -35,7 +35,7 @@
     },
     "req60ad0d0d36d9ef44f12350ef": {
       "text": "Cronograma",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req60ca060536d9ef1ee6b43b49": {
@@ -290,13 +290,6 @@
     }
   },
   "active_tasks": {
-    "req60ad0d0d36d9ef44f12350ef": {
-      "casilla": "Cronograma",
-      "parent_group": null,
-      "sub_panels": [
-        "Listado de Requerimientos\n87%\n'ACTUALIZACIÓN DE CRONOGRAMA\nEncargado: Departamento Conexiones\nI.8\nActualización de Cronograma\n¿Qué estoy viendo?\n\nDescripción\n\nDe acuerdo con el Artículo 5 letra c) del Anexo Técnico: Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI, las empresas solicitantes deben mantener actualizado el cronograma del proyecto.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGNS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
-      ]
-    },
     "req64e3afeb36d9ef23190ab0a4": {
       "casilla": "Pruebas End to End",
       "parent_group": "OTROS EO",
@@ -322,21 +315,21 @@
       "casilla": "PMax",
       "parent_group": "PARÁMETROS DE GENERACIÓN",
       "sub_panels": [
-        "Listado de Requerimientos\n50%\n'INFORME DE POTENCIA MÁXIMA EN UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.2\nCarta del envío al Coordinador de informe\nI.2\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGNS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n16-09-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n75%\n'INFORME DE POTENCIA MÁXIMA EN UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.2\nCarta del envío al Coordinador de informe\nI.2\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nCarta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n27-10-2026\n\nDepende de\n\nCarta del envío al Coordinador de informe\nHistorial de movimientos"
       ]
     },
     "req5d4da62e36d9ef76172b6c08": {
       "casilla": "PPyD",
       "parent_group": "PARÁMETROS DE GENERACIÓN",
       "sub_panels": [
-        "Listado de Requerimientos\n50%\n'INFORME DE PARÁMETROS PROCESOS DE PARTIDA Y DETENCIÓN DE UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.2\nCarta del envío al Coordinador de informe\nI.2\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGNS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n16-09-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n75%\n'INFORME DE PARÁMETROS PROCESOS DE PARTIDA Y DETENCIÓN DE UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.2\nCarta del envío al Coordinador de informe\nI.2\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nCarta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n27-10-2026\n\nDepende de\n\nCarta del envío al Coordinador de informe\nHistorial de movimientos"
       ]
     },
     "req5d4da56936d9ef7615c580e4": {
       "casilla": "MT",
       "parent_group": "PARÁMETROS DE GENERACIÓN",
       "sub_panels": [
-        "Listado de Requerimientos\n50%\n'INFORME DE DETERMINACIÓN DE MÍNIMOS TÉCNICOS EN UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.2\nCarta del envío al Coordinador de informe\nI.2\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGNS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n16-09-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n75%\n'INFORME DE DETERMINACIÓN DE MÍNIMOS TÉCNICOS EN UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.2\nCarta del envío al Coordinador de informe\nI.2\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nCarta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n27-10-2026\n\nDepende de\n\nCarta del envío al Coordinador de informe\nHistorial de movimientos"
       ]
     },
     "req6a173dcf36d9ef4dfd2e68fc": {
@@ -350,19 +343,23 @@
       "casilla": "Modelos EMT",
       "parent_group": null,
       "sub_panels": [
-        "Listado de Requerimientos\n0%\nMODELOS EMT (TRANSITORIOS ELECTROMAGNÉTICOS)\nEncargado: Departamento Conexiones\nI.1\nSolicitud de Revisión de Modelos EMT\nI.1\nResultado de Revisión de Modelos EMT\n¿Qué estoy viendo?\n\nDescripción\n\nCarga de carta de solicitud de revisión de Modelo OEM en EMTP (software de simulación de referencia utilizado por el Coordinador), enviado previamente por sistema de correspondencia (Macro materia: Estudios e Informes / Micro materia: Modelos EMTP) con carácter confidencial. Información de referencia: Título 5 AT-IBR 2026; Procedimiento Interno de Modelación y Homologación de Instalaciones del SEN; Guía Técnica de Aplicación Modelo EMT\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGNS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n50%\nMODELOS EMT (TRANSITORIOS ELECTROMAGNÉTICOS)\nEncargado: Departamento Conexiones\nI.1\nSolicitud de Revisión de Modelos EMT\nI.1\nResultado de Revisión de Modelos EMT\n¿Qué estoy viendo?\n\nDescripción\n\nResultado de revisión del modelo EMT.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n20 días hábiles\n\nFecha límite\n\n03-11-2026\n\nDepende de\n\nSolicitud de Revisión de Modelos EMT\nHistorial de movimientos"
       ]
     }
   },
   "first_seen": {
-    "req60ad0d0d36d9ef44f12350ef|De acuerdo con el Artículo 5 letra c) del Anexo Técnico: Requisitos Técnicos Mínimos de Instalaciones que se Interconectan al SI, las empresas solicitantes deben mantener actualizado el cronograma del proyecto.": "2026-07-13T17:54:09.857677+00:00",
     "req64e3afeb36d9ef23190ab0a4|Solicitud de Revisión de Pruebas End to End": "2026-07-13T17:54:09.857722+00:00",
     "req5d4da9c336d9ef761837419c|La Empresa Solicitante debe enviar antecedentes para la declaración de Costos Variables Combustibles y No Combustibles": "2026-07-13T17:54:09.857730+00:00",
     "req5d4da87e36d9ef76183739c3|El Coordinador envía la revisión al informe de VMD": "2026-09-23T13:25:40.422211+00:00",
-    "req5d4da5d136d9ef761837315b|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-09-15T19:32:20.853707+00:00",
-    "req5d4da62e36d9ef76172b6c08|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-09-15T19:32:20.853717+00:00",
-    "req5d4da56936d9ef7615c580e4|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-09-15T19:32:20.853734+00:00",
-    "req6a15c8b636d9ef7d59878e93|Carga de carta de solicitud de revisión de Modelo OEM en EMTP (software de simulación de referencia utilizado por el Coordinador), enviado previamente por sistema de correspondencia (Macro materia: Estudios e Informes / Micro materia: Modelos EMTP) con carácter confidencial. Información de referencia: Título 5 AT-IBR 2026; Procedimiento Interno de Modelación y Homologación de Instalaciones del SEN; Guía Técnica de Aplicación Modelo EMT": "2026-07-13T17:54:09.857780+00:00"
+    "req5d4da5d136d9ef761837315b|Carta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.": "2026-10-05T16:52:10.023213+00:00",
+    "req5d4da62e36d9ef76172b6c08|Carta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.": "2026-10-05T16:52:10.023225+00:00",
+    "req5d4da56936d9ef7615c580e4|Carta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.": "2026-10-05T16:52:10.023235+00:00",
+    "req6a15c8b636d9ef7d59878e93|Resultado de revisión del modelo EMT.": "2026-10-05T16:52:10.023253+00:00"
   },
-  "avance_prev": {}
+  "avance_prev": {
+    "completition_pes": {
+      "antes": 99,
+      "changed_at": "2026-10-05T16:52:10.023264+00:00"
+    }
+  }
 }

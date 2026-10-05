@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "timestamp": "2026-10-05T16:52:10.023979+00:00",
+    "changes": [
+      "Casilla 'Cronograma' cambió de estado: en_curso -> completado",
+      "'PMax': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 27-10-2026).",
+      "'PPyD': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 27-10-2026).",
+      "'MT': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 27-10-2026).",
+      "'Modelos EMT': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 03-11-2026).",
+      "Avance de requisitos para inicio de PES: 99% → 100%."
+    ]
+  }
+]

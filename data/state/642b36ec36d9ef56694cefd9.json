@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-05T10:56:20.600931+00:00",
+  "fetched_at": "2026-10-05T16:52:28.381023+00:00",
   "name": "PFV Conguillio (Ex PMG Mirador)",
   "correlativo": 1741,
   "completition_status": 86,
@@ -357,7 +357,7 @@
       "casilla": "Modelos EMT",
       "parent_group": null,
       "sub_panels": [
-        "Listado de Requerimientos\n0%\nMODELOS EMT (TRANSITORIOS ELECTROMAGNÉTICOS)\nEncargado: Departamento Conexiones\nI.1\nSolicitud de Revisión de Modelos EMT\nI.1\nResultado de Revisión de Modelos EMT\n¿Qué estoy viendo?\n\nDescripción\n\nCarga de carta de solicitud de revisión de Modelo OEM en EMTP (software de simulación de referencia utilizado por el Coordinador), enviado previamente por sistema de correspondencia (Macro materia: Estudios e Informes / Micro materia: Modelos EMTP) con carácter confidencial. Información de referencia: Título 5 AT-IBR 2026; Procedimiento Interno de Modelación y Homologación de Instalaciones del SEN; Guía Técnica de Aplicación Modelo EMT\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGCS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n50%\nMODELOS EMT (TRANSITORIOS ELECTROMAGNÉTICOS)\nEncargado: Departamento Conexiones\nI.1\nSolicitud de Revisión de Modelos EMT\nI.1\nResultado de Revisión de Modelos EMT\n¿Qué estoy viendo?\n\nDescripción\n\nResultado de revisión del modelo EMT.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n20 días hábiles\n\nFecha límite\n\n03-11-2026\n\nDepende de\n\nSolicitud de Revisión de Modelos EMT\nHistorial de movimientos"
       ]
     }
   },
@@ -370,7 +370,7 @@
     "req5d4da5d136d9ef761837315b|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-06-23T01:26:05.334999+00:00",
     "req5d4da62e36d9ef76172b6c08|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-06-23T01:26:05.335008+00:00",
     "req5d4da56936d9ef7615c580e4|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-08-19T12:54:28.499896+00:00",
-    "req6a15c8b636d9ef7d59878e93|Carga de carta de solicitud de revisión de Modelo OEM en EMTP (software de simulación de referencia utilizado por el Coordinador), enviado previamente por sistema de correspondencia (Macro materia: Estudios e Informes / Micro materia: Modelos EMTP) con carácter confidencial. Información de referencia: Título 5 AT-IBR 2026; Procedimiento Interno de Modelación y Homologación de Instalaciones del SEN; Guía Técnica de Aplicación Modelo EMT": "2026-07-10T17:47:37.131730+00:00"
+    "req6a15c8b636d9ef7d59878e93|Resultado de revisión del modelo EMT.": "2026-10-05T16:52:28.381430+00:00"
   },
   "avance_prev": {}
 }

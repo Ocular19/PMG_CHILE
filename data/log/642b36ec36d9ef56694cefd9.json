@@ -95,5 +95,19 @@
         "fecha_limite": "30-09-2026"
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-05T16:52:28.382913+00:00",
+    "changes": [
+      "'Modelos EMT': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 03-11-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "Modelos EMT",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "03-11-2026"
+      }
+    ]
   }
 ]
