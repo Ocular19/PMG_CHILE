@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-08T15:16:35.909401+00:00",
+  "fetched_at": "2026-10-08T18:38:10.026275+00:00",
   "name": "NI PMG Toledo (Ex Travesía)",
   "correlativo": 1721,
   "completition_status": 89,
@@ -356,10 +356,5 @@
     "req5d4da56936d9ef7615c580e4|Carta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.": "2026-10-05T16:52:10.023235+00:00",
     "req6a15c8b636d9ef7d59878e93|Resultado de revisión del modelo EMT.": "2026-10-05T16:52:10.023253+00:00"
   },
-  "avance_prev": {
-    "completition_pes": {
-      "antes": 99,
-      "changed_at": "2026-10-05T16:52:10.023264+00:00"
-    }
-  }
+  "avance_prev": {}
 }
