@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-09T10:58:50.764716+00:00",
+  "fetched_at": "2026-10-09T15:02:20.307992+00:00",
   "name": "PFV Conguillio (Ex PMG Mirador)",
   "correlativo": 1741,
   "completition_status": 86,
@@ -329,21 +329,21 @@
       "casilla": "PMax",
       "parent_group": "PARÁMETROS DE GENERACIÓN",
       "sub_panels": [
-        "Listado de Requerimientos\n0%\n'INFORME DE POTENCIA MÁXIMA EN UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.1\nCarta del envío al Coordinador de informe\nI.1\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGCS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n75%\n'INFORME DE POTENCIA MÁXIMA EN UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.2\nCarta del envío al Coordinador de informe\nI.2\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nCarta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n02-11-2026\n\nDepende de\n\nCarta del envío al Coordinador de informe\nHistorial de movimientos"
       ]
     },
     "req5d4da62e36d9ef76172b6c08": {
       "casilla": "PPyD",
       "parent_group": "PARÁMETROS DE GENERACIÓN",
       "sub_panels": [
-        "Listado de Requerimientos\n0%\n'INFORME DE PARÁMETROS PROCESOS DE PARTIDA Y DETENCIÓN DE UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.1\nCarta del envío al Coordinador de informe\nI.1\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGCS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n50%\n'INFORME DE PARÁMETROS PROCESOS DE PARTIDA Y DETENCIÓN DE UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.1\nCarta del envío al Coordinador de informe\nI.1\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nCarta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n02-11-2026\n\nDepende de\n\nCarta del envío al Coordinador de informe\nHistorial de movimientos"
       ]
     },
     "req5d4da56936d9ef7615c580e4": {
       "casilla": "MT",
       "parent_group": "PARÁMETROS DE GENERACIÓN",
       "sub_panels": [
-        "Listado de Requerimientos\n0%\n'INFORME DE DETERMINACIÓN DE MÍNIMOS TÉCNICOS EN UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.1\nCarta del envío al Coordinador de informe\nI.1\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGCS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n50%\n'INFORME DE DETERMINACIÓN DE MÍNIMOS TÉCNICOS EN UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.1\nCarta del envío al Coordinador de informe\nI.1\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nCarta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n02-11-2026\n\nDepende de\n\nCarta del envío al Coordinador de informe\nHistorial de movimientos"
       ]
     },
     "req6a173dcf36d9ef4dfd2e68fc": {
@@ -367,9 +367,9 @@
     "req64e3afeb36d9ef23190ab0a4|Solicitud de Revisión de Pruebas End to End": "2026-06-26T02:50:57.794957+00:00",
     "req5d4da9c336d9ef761837419c|La Empresa Solicitante debe enviar antecedentes para la declaración de Costos Variables Combustibles y No Combustibles": "2026-06-23T01:26:05.334980+00:00",
     "req5d4da87e36d9ef76183739c3|La Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico": "2026-06-23T01:26:05.334989+00:00",
-    "req5d4da5d136d9ef761837315b|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-06-23T01:26:05.334999+00:00",
-    "req5d4da62e36d9ef76172b6c08|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-06-23T01:26:05.335008+00:00",
-    "req5d4da56936d9ef7615c580e4|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-08-19T12:54:28.499896+00:00",
+    "req5d4da5d136d9ef761837315b|Carta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.": "2026-10-09T15:02:20.308589+00:00",
+    "req5d4da62e36d9ef76172b6c08|Carta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.": "2026-10-09T15:02:20.308610+00:00",
+    "req5d4da56936d9ef7615c580e4|Carta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.": "2026-10-09T15:02:20.308627+00:00",
     "req6a15c8b636d9ef7d59878e93|Resultado de revisión del modelo EMT.": "2026-10-05T16:52:28.381430+00:00"
   },
   "avance_prev": {}

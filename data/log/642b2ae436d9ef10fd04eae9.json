@@ -1,21 +1,5 @@
 [
   {
-    "timestamp": "2026-09-01T03:09:32.522979+00:00",
-    "changes": [
-      "Casilla 'Plan Ener Gx' cambió de estado: en_curso -> completado",
-      "Avance general del proyecto: 87% → 89%.",
-      "Avance de requisitos para inicio de PES: 98% → 99%."
-    ],
-    "alerts": [
-      {
-        "casilla": "Plan Ener Gx",
-        "evento": "Cambió de estado (en_curso → completado)",
-        "quien": "Sin acción pendiente (completada)",
-        "fecha_limite": "-"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-07T14:02:23.770746+00:00",
     "changes": [
       "'REQUERIMIENTOS DE CONVERTIDORES': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 14-07-2026)."
@@ -162,5 +146,19 @@
       "Fecha estimada de Entrada en Operación: 2026-07-28T00:00:00 → 2027-01-17T00:00:00."
     ],
     "alerts": []
+  },
+  {
+    "timestamp": "2026-10-09T15:01:55.553586+00:00",
+    "changes": [
+      "'CVNC': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 02-11-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "CVNC",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "02-11-2026"
+      }
+    ]
   }
 ]

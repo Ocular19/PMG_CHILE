@@ -1,21 +1,5 @@
 [
   {
-    "timestamp": "2026-09-01T03:09:52.332749+00:00",
-    "changes": [
-      "Casilla 'Plan Ener Gx' cambió de estado: en_curso -> completado",
-      "Avance general del proyecto: 85% → 86%.",
-      "Avance de requisitos para inicio de PES: 98% → 99%."
-    ],
-    "alerts": [
-      {
-        "casilla": "Plan Ener Gx",
-        "evento": "Cambió de estado (en_curso → completado)",
-        "quien": "Sin acción pendiente (completada)",
-        "fecha_limite": "-"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-21T14:54:45.878155+00:00",
     "changes": [
       "Casilla 'DUF' cambió de estado: completado -> en_curso",
@@ -107,6 +91,34 @@
         "evento": "Avanzó de etapa",
         "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
         "fecha_limite": "03-11-2026"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-09T15:02:20.309693+00:00",
+    "changes": [
+      "'PMax': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 02-11-2026).",
+      "'PPyD': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 02-11-2026).",
+      "'MT': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 02-11-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "PMax",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "02-11-2026"
+      },
+      {
+        "casilla": "PPyD",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "02-11-2026"
+      },
+      {
+        "casilla": "MT",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "02-11-2026"
       }
     ]
   }
