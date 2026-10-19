@@ -150,5 +150,12 @@
         "fecha_limite": "-"
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-19T15:20:23.873973+00:00",
+    "changes": [
+      "Fecha estimada de Entrada en Operación: 2026-07-26T00:00:00 → 2027-01-17T00:00:00."
+    ],
+    "alerts": []
   }
 ]
