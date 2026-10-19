@@ -1,12 +1,5 @@
 [
   {
-    "timestamp": "2026-10-16T16:19:40.348528+00:00",
-    "changes": [
-      "Casilla 'Cronograma' cambió de estado: en_curso -> completado",
-      "Avance de requisitos para inicio de PES: 99% → 100%."
-    ]
-  },
-  {
     "timestamp": "2026-10-19T15:20:23.873671+00:00",
     "changes": [
       "Fecha estimada de Entrada en Operación: 2026-07-26T00:00:00 → 2027-01-17T00:00:00."

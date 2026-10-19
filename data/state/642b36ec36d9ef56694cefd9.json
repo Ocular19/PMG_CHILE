@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-19T15:20:23.872632+00:00",
+  "fetched_at": "2026-10-19T18:31:47.029520+00:00",
   "name": "PFV Conguillio (Ex PMG Mirador)",
   "correlativo": 1741,
   "completition_status": 86,
@@ -364,10 +364,5 @@
     "req5d4da56936d9ef7615c580e4|Carta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.": "2026-10-09T15:02:20.308627+00:00",
     "req6a15c8b636d9ef7d59878e93|Resultado de revisión del modelo EMT.": "2026-10-05T16:52:28.381430+00:00"
   },
-  "avance_prev": {
-    "completition_pes": {
-      "antes": 99,
-      "changed_at": "2026-10-16T16:19:40.347696+00:00"
-    }
-  }
+  "avance_prev": {}
 }
