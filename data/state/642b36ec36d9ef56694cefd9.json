@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-20T19:50:28.495145+00:00",
+  "fetched_at": "2026-10-20T22:59:10.011099+00:00",
   "name": "PFV Conguillio (Ex PMG Mirador)",
   "correlativo": 1741,
-  "completition_status": 86,
+  "completition_status": 88,
   "completition_pes": 100,
   "service_estimate_date": "2026-04-27T00:00:00",
   "operative_estimate_date": "2027-01-17T00:00:00",
@@ -233,11 +233,6 @@
       "state": "en_curso",
       "is_container": false
     },
-    "req64e3afeb36d9ef23190ab0a4": {
-      "text": "Pruebas End to End",
-      "state": "en_curso",
-      "is_container": false
-    },
     "req5d4da16b36d9ef76172b5bc4": {
       "text": "PO E",
       "state": "completado",
@@ -275,12 +270,12 @@
     },
     "req6a173dcf36d9ef4dfd2e68fc": {
       "text": "REQUERIMIENTOS DE CONVERTIDORES",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req6a15c8b636d9ef7d59878e93": {
       "text": "Modelos EMT",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req6596ce4a36d9ef6d386a9702": {
@@ -295,13 +290,6 @@
       "parent_group": "OTROS EO",
       "sub_panels": [
         "Listado de Requerimientos\n50%\n'INFOTÉCNICA PARA PES\nEncargado: DAIT\nI.1\nSolicitud de revisión de información técnica\nI.1\nRevisión de Información Técnica\n¿Qué estoy viendo?\n\nDescripción\n\nRevisión de información técnica cargada en la plataforma de IT\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n05-11-2026\n\nDepende de\n\nSolicitud de revisión de información técnica\nHistorial de movimientos"
-      ]
-    },
-    "req64e3afeb36d9ef23190ab0a4": {
-      "casilla": "Pruebas End to End",
-      "parent_group": "OTROS EO",
-      "sub_panels": [
-        "Listado de Requerimientos\n0%\nPRUEBAS END TO END\nEncargado: DAOP\nI.1\nSolicitud de Revisión de Pruebas End to End\nI.1\nRevisión de Pruebas End to End\n¿Qué estoy viendo?\n\nDescripción\n\nSolicitud de Revisión de Pruebas End to End\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGCS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
       ]
     },
     "req5d4da9c336d9ef761837419c": {
@@ -338,31 +326,20 @@
       "sub_panels": [
         "Listado de Requerimientos\n50%\n'INFORME DE DETERMINACIÓN DE MÍNIMOS TÉCNICOS EN UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.1\nCarta del envío al Coordinador de informe\nI.1\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nCarta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n02-11-2026\n\nDepende de\n\nCarta del envío al Coordinador de informe\nHistorial de movimientos"
       ]
-    },
-    "req6a173dcf36d9ef4dfd2e68fc": {
-      "casilla": "REQUERIMIENTOS DE CONVERTIDORES",
-      "parent_group": null,
-      "sub_panels": [
-        "Listado de Requerimientos\n0%\n*REQUERIMIENTOS DE CONVERTIDORES\nEncargado: Departamento Conexiones\nI.1\nGrupo de Requerimientos\n¿Qué estoy viendo?\n\nDescripción\n\nGrupo de Requerimientos\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n150 días hábiles\n\nFecha límite\n\n15-02-2027\n\nHistorial de movimientos"
-      ]
-    },
-    "req6a15c8b636d9ef7d59878e93": {
-      "casilla": "Modelos EMT",
-      "parent_group": null,
-      "sub_panels": [
-        "Listado de Requerimientos\n50%\nMODELOS EMT (TRANSITORIOS ELECTROMAGNÉTICOS)\nEncargado: Departamento Conexiones\nI.1\nSolicitud de Revisión de Modelos EMT\nI.1\nResultado de Revisión de Modelos EMT\n¿Qué estoy viendo?\n\nDescripción\n\nResultado de revisión del modelo EMT.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n20 días hábiles\n\nFecha límite\n\n03-11-2026\n\nDepende de\n\nSolicitud de Revisión de Modelos EMT\nHistorial de movimientos"
-      ]
     }
   },
   "first_seen": {
     "req5d4c9a3d36d9ef7615c07cfb|Revisión de información técnica cargada en la plataforma de IT": "2026-10-15T19:42:32.681696+00:00",
-    "req64e3afeb36d9ef23190ab0a4|Solicitud de Revisión de Pruebas End to End": "2026-06-26T02:50:57.794957+00:00",
     "req5d4da9c336d9ef761837419c|El Coordinador envía su revisión a la declaración de Costos Variables Combustibles y No Combustibles": "2026-10-20T16:34:36.569570+00:00",
     "req5d4da87e36d9ef76183739c3|La Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico": "2026-06-23T01:26:05.334989+00:00",
     "req5d4da5d136d9ef761837315b|Carta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.": "2026-10-09T15:02:20.308589+00:00",
     "req5d4da62e36d9ef76172b6c08|Carta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.": "2026-10-09T15:02:20.308610+00:00",
-    "req5d4da56936d9ef7615c580e4|Carta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.": "2026-10-09T15:02:20.308627+00:00",
-    "req6a15c8b636d9ef7d59878e93|Resultado de revisión del modelo EMT.": "2026-10-05T16:52:28.381430+00:00"
+    "req5d4da56936d9ef7615c580e4|Carta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.": "2026-10-09T15:02:20.308627+00:00"
   },
-  "avance_prev": {}
+  "avance_prev": {
+    "completition_status": {
+      "antes": 86,
+      "changed_at": "2026-10-20T22:59:10.011535+00:00"
+    }
+  }
 }

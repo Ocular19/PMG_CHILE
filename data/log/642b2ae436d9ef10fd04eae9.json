@@ -1,75 +1,5 @@
 [
   {
-    "timestamp": "2026-09-07T14:02:23.770746+00:00",
-    "changes": [
-      "'REQUERIMIENTOS DE CONVERTIDORES': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 14-07-2026)."
-    ],
-    "alerts": [
-      {
-        "casilla": "REQUERIMIENTOS DE CONVERTIDORES",
-        "evento": "Nuevo pendiente",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "14-07-2026"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-11T18:59:16.787508+00:00",
-    "changes": [
-      "'PMax': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 05-10-2026).",
-      "'PPyD': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 05-10-2026).",
-      "'MT': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 05-10-2026)."
-    ],
-    "alerts": [
-      {
-        "casilla": "PMax",
-        "evento": "Avanzó de etapa",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "05-10-2026"
-      },
-      {
-        "casilla": "PPyD",
-        "evento": "Avanzó de etapa",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "05-10-2026"
-      },
-      {
-        "casilla": "MT",
-        "evento": "Avanzó de etapa",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "05-10-2026"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-15T19:32:20.854708+00:00",
-    "changes": [
-      "'PMax': avanzó de etapa — ahora Esperando que Grenergy cargue un documento (fecha límite 16-09-2026).",
-      "'PPyD': avanzó de etapa — ahora Esperando que Grenergy cargue un documento (fecha límite 16-09-2026).",
-      "'MT': avanzó de etapa — ahora Esperando que Grenergy cargue un documento (fecha límite 16-09-2026)."
-    ],
-    "alerts": [
-      {
-        "casilla": "PMax",
-        "evento": "Avanzó de etapa",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "16-09-2026"
-      },
-      {
-        "casilla": "PPyD",
-        "evento": "Avanzó de etapa",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "16-09-2026"
-      },
-      {
-        "casilla": "MT",
-        "evento": "Avanzó de etapa",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "16-09-2026"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-16T08:53:50.240800+00:00",
     "changes": [
       "'REQUERIMIENTOS DE CONVERTIDORES': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 14-07-2026)."
@@ -158,6 +88,49 @@
         "evento": "Avanzó de etapa",
         "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
         "fecha_limite": "02-11-2026"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-20T22:58:58.932476+00:00",
+    "changes": [
+      "Casilla 'PMax' cambió de estado: en_curso -> completado",
+      "Casilla 'PPyD' cambió de estado: en_curso -> completado",
+      "Casilla 'MT' cambió de estado: en_curso -> completado",
+      "Casilla 'REQUERIMIENTOS DE CONVERTIDORES' cambió de estado: en_curso -> completado",
+      "Casilla 'Modelos EMT' cambió de estado: en_curso -> completado",
+      "Avance general del proyecto: 89% → 95%."
+    ],
+    "alerts": [
+      {
+        "casilla": "PMax",
+        "evento": "Cambió de estado (en_curso → completado)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "PPyD",
+        "evento": "Cambió de estado (en_curso → completado)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "MT",
+        "evento": "Cambió de estado (en_curso → completado)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "REQUERIMIENTOS DE CONVERTIDORES",
+        "evento": "Cambió de estado (en_curso → completado)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "Modelos EMT",
+        "evento": "Cambió de estado (en_curso → completado)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
       }
     ]
   }

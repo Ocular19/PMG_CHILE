@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-20T19:50:05.831175+00:00",
+  "fetched_at": "2026-10-20T22:58:58.931412+00:00",
   "name": "NI PMG Toledo (Ex Travesía)",
   "correlativo": 1721,
-  "completition_status": 89,
+  "completition_status": 95,
   "completition_pes": 100,
   "service_estimate_date": "2026-04-27T00:00:00",
   "operative_estimate_date": "2027-01-17T00:00:00",
@@ -238,11 +238,6 @@
       "state": "completado",
       "is_container": false
     },
-    "req64e3afeb36d9ef23190ab0a4": {
-      "text": "Pruebas End to End",
-      "state": "en_curso",
-      "is_container": false
-    },
     "req5d4da9c336d9ef761837419c": {
       "text": "CVNC",
       "state": "en_curso",
@@ -255,32 +250,32 @@
     },
     "req600f044436d9ef327f0765cb": {
       "text": "PARÁMETROS DE GENERACIÓN",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": true
     },
     "req5d4da5d136d9ef761837315b": {
       "text": "PMax",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req5d4da62e36d9ef76172b6c08": {
       "text": "PPyD",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req5d4da56936d9ef7615c580e4": {
       "text": "MT",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req6a173dcf36d9ef4dfd2e68fc": {
       "text": "REQUERIMIENTOS DE CONVERTIDORES",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req6a15c8b636d9ef7d59878e93": {
       "text": "Modelos EMT",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req5d4dab3f36d9ef7615c59207": {
@@ -290,13 +285,6 @@
     }
   },
   "active_tasks": {
-    "req64e3afeb36d9ef23190ab0a4": {
-      "casilla": "Pruebas End to End",
-      "parent_group": "OTROS EO",
-      "sub_panels": [
-        "Listado de Requerimientos\n0%\nPRUEBAS END TO END\nEncargado: DAOP\nI.1\nSolicitud de Revisión de Pruebas End to End\nI.1\nRevisión de Pruebas End to End\n¿Qué estoy viendo?\n\nDescripción\n\nSolicitud de Revisión de Pruebas End to End\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGNS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
-      ]
-    },
     "req5d4da9c336d9ef761837419c": {
       "casilla": "CVNC",
       "parent_group": "OTROS EO",
@@ -310,51 +298,16 @@
       "sub_panels": [
         "Listado de Requerimientos\n50%\n'VALIDACIÓN DE MODELO DINÁMICO\nEncargado: Departamento de Modelación y Aplicaciones EMS\nI.1\nRecepción de informe VMD\nI.1\nRevisión de VMD\n¿Qué estoy viendo?\n\nDescripción\n\nEl Coordinador envía la revisión al informe de VMD\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n20 días hábiles\n\nFecha límite\n\n22-10-2026\n\nDepende de\n\nRecepción de informe VMD\nHistorial de movimientos"
       ]
-    },
-    "req5d4da5d136d9ef761837315b": {
-      "casilla": "PMax",
-      "parent_group": "PARÁMETROS DE GENERACIÓN",
-      "sub_panels": [
-        "Listado de Requerimientos\n75%\n'INFORME DE POTENCIA MÁXIMA EN UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.2\nCarta del envío al Coordinador de informe\nI.2\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nCarta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n27-10-2026\n\nDepende de\n\nCarta del envío al Coordinador de informe\nHistorial de movimientos"
-      ]
-    },
-    "req5d4da62e36d9ef76172b6c08": {
-      "casilla": "PPyD",
-      "parent_group": "PARÁMETROS DE GENERACIÓN",
-      "sub_panels": [
-        "Listado de Requerimientos\n75%\n'INFORME DE PARÁMETROS PROCESOS DE PARTIDA Y DETENCIÓN DE UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.2\nCarta del envío al Coordinador de informe\nI.2\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nCarta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n27-10-2026\n\nDepende de\n\nCarta del envío al Coordinador de informe\nHistorial de movimientos"
-      ]
-    },
-    "req5d4da56936d9ef7615c580e4": {
-      "casilla": "MT",
-      "parent_group": "PARÁMETROS DE GENERACIÓN",
-      "sub_panels": [
-        "Listado de Requerimientos\n75%\n'INFORME DE DETERMINACIÓN DE MÍNIMOS TÉCNICOS EN UNIDADES GENERADORAS\nEncargado: Departamento Conexiones\nI.2\nCarta del envío al Coordinador de informe\nI.2\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nCarta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n27-10-2026\n\nDepende de\n\nCarta del envío al Coordinador de informe\nHistorial de movimientos"
-      ]
-    },
-    "req6a173dcf36d9ef4dfd2e68fc": {
-      "casilla": "REQUERIMIENTOS DE CONVERTIDORES",
-      "parent_group": null,
-      "sub_panels": [
-        "Listado de Requerimientos\n0%\n*REQUERIMIENTOS DE CONVERTIDORES\nEncargado: Departamento Conexiones\nI.1\nGrupo de Requerimientos\n¿Qué estoy viendo?\n\nDescripción\n\nGrupo de Requerimientos\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n150 días hábiles\n\nFecha límite\n\n15-02-2027\n\nHistorial de movimientos"
-      ]
-    },
-    "req6a15c8b636d9ef7d59878e93": {
-      "casilla": "Modelos EMT",
-      "parent_group": null,
-      "sub_panels": [
-        "Listado de Requerimientos\n50%\nMODELOS EMT (TRANSITORIOS ELECTROMAGNÉTICOS)\nEncargado: Departamento Conexiones\nI.1\nSolicitud de Revisión de Modelos EMT\nI.1\nResultado de Revisión de Modelos EMT\n¿Qué estoy viendo?\n\nDescripción\n\nResultado de revisión del modelo EMT.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n20 días hábiles\n\nFecha límite\n\n03-11-2026\n\nDepende de\n\nSolicitud de Revisión de Modelos EMT\nHistorial de movimientos"
-      ]
     }
   },
   "first_seen": {
-    "req64e3afeb36d9ef23190ab0a4|Solicitud de Revisión de Pruebas End to End": "2026-07-13T17:54:09.857722+00:00",
     "req5d4da9c336d9ef761837419c|El Coordinador envía su revisión a la declaración de Costos Variables Combustibles y No Combustibles": "2026-10-09T15:01:55.550588+00:00",
-    "req5d4da87e36d9ef76183739c3|El Coordinador envía la revisión al informe de VMD": "2026-09-23T13:25:40.422211+00:00",
-    "req5d4da5d136d9ef761837315b|Carta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.": "2026-10-05T16:52:10.023213+00:00",
-    "req5d4da62e36d9ef76172b6c08|Carta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.": "2026-10-05T16:52:10.023225+00:00",
-    "req5d4da56936d9ef7615c580e4|Carta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.": "2026-10-05T16:52:10.023235+00:00",
-    "req6a15c8b636d9ef7d59878e93|Resultado de revisión del modelo EMT.": "2026-10-05T16:52:10.023253+00:00"
+    "req5d4da87e36d9ef76183739c3|El Coordinador envía la revisión al informe de VMD": "2026-09-23T13:25:40.422211+00:00"
   },
-  "avance_prev": {}
+  "avance_prev": {
+    "completition_status": {
+      "antes": 89,
+      "changed_at": "2026-10-20T22:58:58.931586+00:00"
+    }
+  }
 }
