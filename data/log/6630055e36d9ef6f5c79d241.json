@@ -1,194 +1,5 @@
 [
   {
-    "timestamp": "2026-09-01T08:58:16.888926+00:00",
-    "changes": [
-      "Casilla 'REUC' cambió de estado: pendiente -> en_curso",
-      "Casilla 'P. Pagos' cambió de estado: pendiente -> en_curso",
-      "Casilla 'Pruebas End to End' cambió de estado: pendiente -> en_curso",
-      "Casilla 'PO E' cambió de estado: pendiente -> en_curso",
-      "Casilla 'IT PES (inv)' cambió de estado: pendiente -> en_curso",
-      "Casilla 'IT PES' cambió de estado: pendiente -> en_curso",
-      "Casilla 'CVNC' cambió de estado: pendiente -> en_curso",
-      "Casilla 'VMD' cambió de estado: pendiente -> en_curso",
-      "Casilla 'PMax' cambió de estado: pendiente -> en_curso",
-      "Casilla 'PPyD' cambió de estado: pendiente -> en_curso",
-      "Casilla 'MT' cambió de estado: pendiente -> en_curso",
-      "Casilla 'REQUERIMIENTOS DE CONVERTIDORES' cambió de estado: pendiente -> en_curso",
-      "Casilla 'Modelos EMT' cambió de estado: pendiente -> en_curso",
-      "'REUC': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 07-09-2026).",
-      "'P. Pagos': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 22-09-2026).",
-      "'Pruebas End to End': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 01-09-2026).",
-      "'PO E': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 01-09-2026).",
-      "'IT PES': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 01-09-2026).",
-      "'CVNC': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 01-09-2026).",
-      "'VMD': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 01-09-2026).",
-      "'PMax': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 01-09-2026).",
-      "'PPyD': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 01-09-2026).",
-      "'MT': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 01-09-2026).",
-      "'Modelos EMT': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 01-09-2026)."
-    ],
-    "alerts": [
-      {
-        "casilla": "REUC",
-        "evento": "Cambió de estado (pendiente → en_curso)",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "07-09-2026"
-      },
-      {
-        "casilla": "P. Pagos",
-        "evento": "Cambió de estado (pendiente → en_curso)",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "22-09-2026"
-      },
-      {
-        "casilla": "Pruebas End to End",
-        "evento": "Cambió de estado (pendiente → en_curso)",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "01-09-2026"
-      },
-      {
-        "casilla": "PO E",
-        "evento": "Cambió de estado (pendiente → en_curso)",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "01-09-2026"
-      },
-      {
-        "casilla": "IT PES (inv)",
-        "evento": "Cambió de estado (pendiente → en_curso)",
-        "quien": "Sin acción pendiente (completada)",
-        "fecha_limite": "-"
-      },
-      {
-        "casilla": "IT PES",
-        "evento": "Cambió de estado (pendiente → en_curso)",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "01-09-2026"
-      },
-      {
-        "casilla": "CVNC",
-        "evento": "Cambió de estado (pendiente → en_curso)",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "01-09-2026"
-      },
-      {
-        "casilla": "VMD",
-        "evento": "Cambió de estado (pendiente → en_curso)",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "01-09-2026"
-      },
-      {
-        "casilla": "PMax",
-        "evento": "Cambió de estado (pendiente → en_curso)",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "01-09-2026"
-      },
-      {
-        "casilla": "PPyD",
-        "evento": "Cambió de estado (pendiente → en_curso)",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "01-09-2026"
-      },
-      {
-        "casilla": "MT",
-        "evento": "Cambió de estado (pendiente → en_curso)",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "01-09-2026"
-      },
-      {
-        "casilla": "REQUERIMIENTOS DE CONVERTIDORES",
-        "evento": "Cambió de estado (pendiente → en_curso)",
-        "quien": "Sin acción pendiente (completada)",
-        "fecha_limite": "-"
-      },
-      {
-        "casilla": "Modelos EMT",
-        "evento": "Cambió de estado (pendiente → en_curso)",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "01-09-2026"
-      },
-      {
-        "casilla": "REUC",
-        "evento": "Nuevo pendiente",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "07-09-2026"
-      },
-      {
-        "casilla": "P. Pagos",
-        "evento": "Nuevo pendiente",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "22-09-2026"
-      },
-      {
-        "casilla": "Pruebas End to End",
-        "evento": "Nuevo pendiente",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "01-09-2026"
-      },
-      {
-        "casilla": "PO E",
-        "evento": "Nuevo pendiente",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "01-09-2026"
-      },
-      {
-        "casilla": "IT PES",
-        "evento": "Nuevo pendiente",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "01-09-2026"
-      },
-      {
-        "casilla": "CVNC",
-        "evento": "Nuevo pendiente",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "01-09-2026"
-      },
-      {
-        "casilla": "VMD",
-        "evento": "Nuevo pendiente",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "01-09-2026"
-      },
-      {
-        "casilla": "PMax",
-        "evento": "Nuevo pendiente",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "01-09-2026"
-      },
-      {
-        "casilla": "PPyD",
-        "evento": "Nuevo pendiente",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "01-09-2026"
-      },
-      {
-        "casilla": "MT",
-        "evento": "Nuevo pendiente",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "01-09-2026"
-      },
-      {
-        "casilla": "Modelos EMT",
-        "evento": "Nuevo pendiente",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "01-09-2026"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-08T16:18:48.763531+00:00",
-    "changes": [
-      "'IT PES': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 30-09-2026)."
-    ],
-    "alerts": [
-      {
-        "casilla": "IT PES",
-        "evento": "Avanzó de etapa",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "30-09-2026"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-23T13:28:38.449174+00:00",
     "changes": [
       "'CVNC': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 15-10-2026)."
@@ -255,6 +66,21 @@
       },
       {
         "casilla": "Modelos EMT",
+        "evento": "Cambió de estado (en_curso → completado)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-22T02:57:20.634898+00:00",
+    "changes": [
+      "Casilla 'REUC' cambió de estado: en_curso -> completado",
+      "Avance general del proyecto: 87% → 88%."
+    ],
+    "alerts": [
+      {
+        "casilla": "REUC",
         "evento": "Cambió de estado (en_curso → completado)",
         "quien": "Sin acción pendiente (completada)",
         "fecha_limite": "-"
