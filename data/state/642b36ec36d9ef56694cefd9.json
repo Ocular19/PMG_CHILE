@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-22T19:44:59.560975+00:00",
+  "fetched_at": "2026-10-22T23:01:20.558221+00:00",
   "name": "PFV Conguillio (Ex PMG Mirador)",
   "correlativo": 1741,
   "completition_status": 88,
@@ -303,7 +303,7 @@
       "casilla": "VMD",
       "parent_group": "OTROS EO",
       "sub_panels": [
-        "Listado de Requerimientos\n0%\n'VALIDACIÓN DE MODELO DINÁMICO\nEncargado: Departamento de Modelación y Aplicaciones EMS\nI.1\nRecepción de informe VMD\nI.1\nRevisión de VMD\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGCS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n14-07-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n50%\n'VALIDACIÓN DE MODELO DINÁMICO\nEncargado: Departamento de Modelación y Aplicaciones EMS\nI.1\nRecepción de informe VMD\nI.1\nRevisión de VMD\n¿Qué estoy viendo?\n\nDescripción\n\nEl Coordinador envía la revisión al informe de VMD\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n20 días hábiles\n\nFecha límite\n\n19-11-2026\n\nDepende de\n\nRecepción de informe VMD\nHistorial de movimientos"
       ]
     },
     "req5d4da5d136d9ef761837315b": {
@@ -331,7 +331,7 @@
   "first_seen": {
     "req5d4c9a3d36d9ef7615c07cfb|Revisión de información técnica cargada en la plataforma de IT": "2026-10-15T19:42:32.681696+00:00",
     "req5d4da9c336d9ef761837419c|El Coordinador envía su revisión a la declaración de Costos Variables Combustibles y No Combustibles": "2026-10-20T16:34:36.569570+00:00",
-    "req5d4da87e36d9ef76183739c3|La Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico": "2026-06-23T01:26:05.334989+00:00",
+    "req5d4da87e36d9ef76183739c3|El Coordinador envía la revisión al informe de VMD": "2026-10-22T23:01:20.558453+00:00",
     "req5d4da5d136d9ef761837315b|Carta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.": "2026-10-09T15:02:20.308589+00:00",
     "req5d4da62e36d9ef76172b6c08|Carta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.": "2026-10-09T15:02:20.308610+00:00",
     "req5d4da56936d9ef7615c580e4|Carta del Coordinador que indica la Admisibilidad del informe recibido e indica la publicación del mismo.": "2026-10-09T15:02:20.308627+00:00"

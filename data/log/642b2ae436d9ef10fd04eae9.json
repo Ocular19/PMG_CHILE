@@ -1,19 +1,5 @@
 [
   {
-    "timestamp": "2026-09-16T08:53:50.240800+00:00",
-    "changes": [
-      "'REQUERIMIENTOS DE CONVERTIDORES': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 14-07-2026)."
-    ],
-    "alerts": [
-      {
-        "casilla": "REQUERIMIENTOS DE CONVERTIDORES",
-        "evento": "Nuevo pendiente",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "14-07-2026"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-23T13:25:40.424165+00:00",
     "changes": [
       "'VMD': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 22-10-2026)."
@@ -131,6 +117,20 @@
         "evento": "Cambió de estado (en_curso → completado)",
         "quien": "Sin acción pendiente (completada)",
         "fecha_limite": "-"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-22T23:01:10.073649+00:00",
+    "changes": [
+      "'VMD': avanzó de etapa — ahora Esperando que Grenergy cargue un documento (fecha límite 23-10-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "VMD",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "23-10-2026"
       }
     ]
   }

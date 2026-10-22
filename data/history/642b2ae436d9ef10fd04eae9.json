@@ -9,5 +9,11 @@
       "Casilla 'Modelos EMT' cambió de estado: en_curso -> completado",
       "Avance general del proyecto: 89% → 95%."
     ]
+  },
+  {
+    "timestamp": "2026-10-22T23:01:10.073317+00:00",
+    "changes": [
+      "'VMD': avanzó de etapa — ahora Esperando que Grenergy cargue un documento (fecha límite 23-10-2026)."
+    ]
   }
 ]

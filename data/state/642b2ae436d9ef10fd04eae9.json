@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-22T19:44:49.089620+00:00",
+  "fetched_at": "2026-10-22T23:01:10.072313+00:00",
   "name": "NI PMG Toledo (Ex Travesía)",
   "correlativo": 1721,
   "completition_status": 95,
@@ -296,13 +296,13 @@
       "casilla": "VMD",
       "parent_group": "OTROS EO",
       "sub_panels": [
-        "Listado de Requerimientos\n50%\n'VALIDACIÓN DE MODELO DINÁMICO\nEncargado: Departamento de Modelación y Aplicaciones EMS\nI.1\nRecepción de informe VMD\nI.1\nRevisión de VMD\n¿Qué estoy viendo?\n\nDescripción\n\nEl Coordinador envía la revisión al informe de VMD\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n20 días hábiles\n\nFecha límite\n\n22-10-2026\n\nDepende de\n\nRecepción de informe VMD\nHistorial de movimientos"
+        "Listado de Requerimientos\n50%\n'VALIDACIÓN DE MODELO DINÁMICO\nEncargado: Departamento de Modelación y Aplicaciones EMS\nI.2\nRecepción de informe VMD\nI.2\nRevisión de VMD\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGNS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n23-10-2026\n\nHistorial de movimientos"
       ]
     }
   },
   "first_seen": {
     "req5d4da9c336d9ef761837419c|El Coordinador envía su revisión a la declaración de Costos Variables Combustibles y No Combustibles": "2026-10-09T15:01:55.550588+00:00",
-    "req5d4da87e36d9ef76183739c3|El Coordinador envía la revisión al informe de VMD": "2026-09-23T13:25:40.422211+00:00"
+    "req5d4da87e36d9ef76183739c3|La Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico": "2026-10-22T23:01:10.072548+00:00"
   },
   "avance_prev": {
     "completition_status": {
