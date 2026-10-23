@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-10-20T16:34:36.570330+00:00",
-    "changes": [
-      "'CVNC': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 10-11-2026)."
-    ]
-  },
-  {
     "timestamp": "2026-10-20T22:59:10.012860+00:00",
     "changes": [
       "Casilla 'REQUERIMIENTOS DE CONVERTIDORES' cambió de estado: en_curso -> completado",
