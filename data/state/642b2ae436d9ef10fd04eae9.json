@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-23T19:47:56.313351+00:00",
+  "fetched_at": "2026-10-23T23:03:59.555311+00:00",
   "name": "NI PMG Toledo (Ex Travesía)",
   "correlativo": 1721,
   "completition_status": 95,
@@ -304,10 +304,5 @@
     "req5d4da9c336d9ef761837419c|El Coordinador envía su revisión a la declaración de Costos Variables Combustibles y No Combustibles": "2026-10-09T15:01:55.550588+00:00",
     "req5d4da87e36d9ef76183739c3|La Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico": "2026-10-22T23:01:10.072548+00:00"
   },
-  "avance_prev": {
-    "completition_status": {
-      "antes": 89,
-      "changed_at": "2026-10-20T22:58:58.931586+00:00"
-    }
-  }
+  "avance_prev": {}
 }
