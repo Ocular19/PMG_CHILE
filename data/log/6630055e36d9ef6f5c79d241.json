@@ -86,5 +86,20 @@
         "fecha_limite": "-"
       }
     ]
+  },
+  {
+    "timestamp": "2026-10-23T03:00:50.444133+00:00",
+    "changes": [
+      "Casilla 'P. Pagos' cambió de estado: en_curso -> completado",
+      "Avance general del proyecto: 88% → 89%."
+    ],
+    "alerts": [
+      {
+        "casilla": "P. Pagos",
+        "evento": "Cambió de estado (en_curso → completado)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      }
+    ]
   }
 ]

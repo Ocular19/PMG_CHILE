@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-22T23:01:31.539576+00:00",
+  "fetched_at": "2026-10-23T03:00:50.443128+00:00",
   "name": "PMG Buenaventura",
   "correlativo": 650,
-  "completition_status": 88,
+  "completition_status": 89,
   "completition_pes": 98,
   "service_estimate_date": "2026-07-01T00:00:00",
   "operative_estimate_date": "2026-10-31T00:00:00",
@@ -235,7 +235,7 @@
     },
     "req60612e0736d9ef1fc3814808": {
       "text": "P. Pagos",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req60478dea36d9ef42935ee7d1": {
@@ -302,13 +302,6 @@
         "Listado de Requerimientos\n50%\nPLAN DE ENERGIZACIÓN GENERACIÓN\nEncargado: Departamento Conexiones\nI.2\nRecepción plan de energización Generación\nI.2\nRevisión Plan de Energización Generación\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa solicitante debe hacer envío del plan de Energización de acuerdo al AT.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n25-09-2026\n\nHistorial de movimientos"
       ]
     },
-    "req60612e0736d9ef1fc3814808": {
-      "casilla": "P. Pagos",
-      "parent_group": "PLATAFORMAS EO",
-      "sub_panels": [
-        "Listado de Requerimientos\n0%\n'PORTAL DE PAGOS\nEncargado: Por definir\nI.1\nIncorporación a la Plataforma Portal de Pagos\n¿Qué estoy viendo?\n\nDescripción\n\nIncorporación de la Empresa a la Plataforma Portal de Pagos (Solo si no es Coordinada)\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n16-10-2026\n\nHistorial de movimientos"
-      ]
-    },
     "req5d4da9c336d9ef761837419c": {
       "casilla": "CVNC",
       "parent_group": "OTROS EO",
@@ -347,7 +340,6 @@
   },
   "first_seen": {
     "req665604b236d9ef441648202b|La Empresa solicitante debe hacer envío del plan de Energización de acuerdo al AT.": "2026-08-17T16:26:10.939565+00:00",
-    "req60612e0736d9ef1fc3814808|Incorporación de la Empresa a la Plataforma Portal de Pagos (Solo si no es Coordinada)": "2026-09-01T08:58:16.887824+00:00",
     "req5d4da9c336d9ef761837419c|El Coordinador envía su revisión a la declaración de Costos Variables Combustibles y No Combustibles": "2026-09-23T13:28:38.447774+00:00",
     "req5d4da87e36d9ef76183739c3|La Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico": "2026-09-01T08:58:16.887877+00:00",
     "req5d4da5d136d9ef761837315b|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-09-01T08:58:16.887885+00:00",
@@ -357,7 +349,7 @@
   "avance_prev": {
     "completition_status": {
       "antes": 87,
-      "changed_at": "2026-10-22T02:57:20.633999+00:00"
+      "changed_at": "2026-10-23T03:00:50.443299+00:00"
     }
   }
 }
