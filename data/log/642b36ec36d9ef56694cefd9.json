@@ -1,49 +1,5 @@
 [
   {
-    "timestamp": "2026-09-21T14:54:45.878155+00:00",
-    "changes": [
-      "Casilla 'DUF' cambió de estado: completado -> en_curso",
-      "Casilla 'IT PES' cambió de estado: en_curso -> pendiente",
-      "'DUF': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 22-09-2026).",
-      "Avance general del proyecto: 86% → 84%.",
-      "Avance de requisitos para inicio de PES: 99% → 97%."
-    ],
-    "alerts": [
-      {
-        "casilla": "DUF",
-        "evento": "Cambió de estado (completado → en_curso)",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "22-09-2026"
-      },
-      {
-        "casilla": "IT PES",
-        "evento": "Cambió de estado (en_curso → pendiente)",
-        "quien": "Sin acción pendiente (completada)",
-        "fecha_limite": "-"
-      },
-      {
-        "casilla": "DUF",
-        "evento": "Nuevo pendiente",
-        "quien": "Esperando que Grenergy cargue un documento",
-        "fecha_limite": "22-09-2026"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-22T22:48:00.441652+00:00",
-    "changes": [
-      "'DUF': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 01-10-2026)."
-    ],
-    "alerts": [
-      {
-        "casilla": "DUF",
-        "evento": "Avanzó de etapa",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "01-10-2026"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-09-28T21:36:20.409127+00:00",
     "changes": [
       "Casilla 'DUF' cambió de estado: en_curso -> completado",
@@ -205,6 +161,21 @@
         "evento": "Avanzó de etapa",
         "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
         "fecha_limite": "19-11-2026"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-10-29T18:13:30.294745+00:00",
+    "changes": [
+      "Casilla 'IT PES' cambió de estado: en_curso -> completado",
+      "Avance general del proyecto: 88% → 91%."
+    ],
+    "alerts": [
+      {
+        "casilla": "IT PES",
+        "evento": "Cambió de estado (en_curso → completado)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
       }
     ]
   }
