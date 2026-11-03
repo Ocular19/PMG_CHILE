@@ -1,42 +1,5 @@
 [
   {
-    "timestamp": "2026-09-28T21:36:20.409127+00:00",
-    "changes": [
-      "Casilla 'DUF' cambió de estado: en_curso -> completado",
-      "Avance general del proyecto: 84% → 86%.",
-      "Avance de requisitos para inicio de PES: 97% → 99%."
-    ],
-    "alerts": [
-      {
-        "casilla": "DUF",
-        "evento": "Cambió de estado (en_curso → completado)",
-        "quien": "Sin acción pendiente (completada)",
-        "fecha_limite": "-"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-29T17:52:39.818086+00:00",
-    "changes": [
-      "Casilla 'IT PES' cambió de estado: pendiente -> en_curso",
-      "'IT PES': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 30-09-2026)."
-    ],
-    "alerts": [
-      {
-        "casilla": "IT PES",
-        "evento": "Cambió de estado (pendiente → en_curso)",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "30-09-2026"
-      },
-      {
-        "casilla": "IT PES",
-        "evento": "Nuevo pendiente",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "30-09-2026"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-05T16:52:28.382913+00:00",
     "changes": [
       "'Modelos EMT': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 03-11-2026)."
@@ -173,6 +136,35 @@
     "alerts": [
       {
         "casilla": "IT PES",
+        "evento": "Cambió de estado (en_curso → completado)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-03T19:16:15.383542+00:00",
+    "changes": [
+      "Casilla 'PMax' cambió de estado: en_curso -> completado",
+      "Casilla 'PPyD' cambió de estado: en_curso -> completado",
+      "Casilla 'MT' cambió de estado: en_curso -> completado",
+      "Avance general del proyecto: 91% → 95%."
+    ],
+    "alerts": [
+      {
+        "casilla": "PMax",
+        "evento": "Cambió de estado (en_curso → completado)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "PPyD",
+        "evento": "Cambió de estado (en_curso → completado)",
+        "quien": "Sin acción pendiente (completada)",
+        "fecha_limite": "-"
+      },
+      {
+        "casilla": "MT",
         "evento": "Cambió de estado (en_curso → completado)",
         "quien": "Sin acción pendiente (completada)",
         "fecha_limite": "-"
