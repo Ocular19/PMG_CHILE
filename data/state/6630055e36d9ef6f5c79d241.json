@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-03T11:26:46.743041+00:00",
+  "fetched_at": "2026-11-03T15:53:53.377683+00:00",
   "name": "PMG Buenaventura",
   "correlativo": 650,
   "completition_status": 89,
@@ -320,21 +320,21 @@
       "casilla": "PMax",
       "parent_group": "PARÁMETROS DE GENERACIÓN",
       "sub_panels": [
-        "Listado de Requerimientos\n0%\n'INFORME DE POTENCIA MÁXIMA EN UNIDADES GENERADORAS\nEncargado: Por definir\nI.1\nCarta del envío al Coordinador de informe\nI.1\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n25-09-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n0%\n'INFORME DE POTENCIA MÁXIMA EN UNIDADES GENERADORAS\nEncargado: DCO\nI.1\nCarta del envío al Coordinador de informe\nI.1\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n25-09-2026\n\nHistorial de movimientos"
       ]
     },
     "req5d4da62e36d9ef76172b6c08": {
       "casilla": "PPyD",
       "parent_group": "PARÁMETROS DE GENERACIÓN",
       "sub_panels": [
-        "Listado de Requerimientos\n0%\n'INFORME DE PARÁMETROS PROCESOS DE PARTIDA Y DETENCIÓN DE UNIDADES GENERADORAS\nEncargado: Por definir\nI.1\nCarta del envío al Coordinador de informe\nI.1\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n25-09-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n0%\n'INFORME DE PARÁMETROS PROCESOS DE PARTIDA Y DETENCIÓN DE UNIDADES GENERADORAS\nEncargado: DCO\nI.1\nCarta del envío al Coordinador de informe\nI.1\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n25-09-2026\n\nHistorial de movimientos"
       ]
     },
     "req5d4da56936d9ef7615c580e4": {
       "casilla": "MT",
       "parent_group": "PARÁMETROS DE GENERACIÓN",
       "sub_panels": [
-        "Listado de Requerimientos\n0%\n'INFORME DE DETERMINACIÓN DE MÍNIMOS TÉCNICOS EN UNIDADES GENERADORAS\nEncargado: Por definir\nI.1\nCarta del envío al Coordinador de informe\nI.1\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n25-09-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n0%\n'INFORME DE DETERMINACIÓN DE MÍNIMOS TÉCNICOS EN UNIDADES GENERADORAS\nEncargado: DCO\nI.1\nCarta del envío al Coordinador de informe\nI.1\nCarta de admisibilidad del informe\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n25-09-2026\n\nHistorial de movimientos"
       ]
     }
   },
