@@ -1,11 +1,5 @@
 [
   {
-    "timestamp": "2026-11-02T17:54:02.120928+00:00",
-    "changes": [
-      "'VMD': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 30-11-2026)."
-    ]
-  },
-  {
     "timestamp": "2026-11-03T15:53:27.238932+00:00",
     "changes": [
       "Casilla 'CVNC' cambió de estado: en_curso -> completado",
