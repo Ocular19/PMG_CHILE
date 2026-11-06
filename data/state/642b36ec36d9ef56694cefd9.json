@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-06T19:03:55.117904+00:00",
+  "fetched_at": "2026-11-06T21:26:01.545418+00:00",
   "name": "PFV Conguillio (Ex PMG Mirador)",
   "correlativo": 1741,
   "completition_status": 95,
@@ -304,10 +304,5 @@
     "req5d4da9c336d9ef761837419c|El Coordinador envía su revisión a la declaración de Costos Variables Combustibles y No Combustibles": "2026-10-20T16:34:36.569570+00:00",
     "req5d4da87e36d9ef76183739c3|El Coordinador envía la revisión al informe de VMD": "2026-10-22T23:01:20.558453+00:00"
   },
-  "avance_prev": {
-    "completition_status": {
-      "antes": 91,
-      "changed_at": "2026-11-03T19:16:15.382366+00:00"
-    }
-  }
+  "avance_prev": {}
 }
