@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-06T15:42:50.658805+00:00",
+  "fetched_at": "2026-11-06T19:03:47.812196+00:00",
   "name": "NI PMG Toledo (Ex Travesía)",
   "correlativo": 1721,
   "completition_status": 96,
@@ -296,10 +296,5 @@
   "first_seen": {
     "req5d4da87e36d9ef76183739c3|La Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico": "2026-11-04T19:33:47.155568+00:00"
   },
-  "avance_prev": {
-    "completition_status": {
-      "antes": 95,
-      "changed_at": "2026-11-03T15:53:27.238109+00:00"
-    }
-  }
+  "avance_prev": {}
 }
