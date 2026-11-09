@@ -1,48 +1,5 @@
 [
   {
-    "timestamp": "2026-10-05T16:52:10.024262+00:00",
-    "changes": [
-      "Casilla 'Cronograma' cambió de estado: en_curso -> completado",
-      "'PMax': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 27-10-2026).",
-      "'PPyD': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 27-10-2026).",
-      "'MT': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 27-10-2026).",
-      "'Modelos EMT': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 03-11-2026).",
-      "Avance de requisitos para inicio de PES: 99% → 100%."
-    ],
-    "alerts": [
-      {
-        "casilla": "Cronograma",
-        "evento": "Cambió de estado (en_curso → completado)",
-        "quien": "Sin acción pendiente (completada)",
-        "fecha_limite": "-"
-      },
-      {
-        "casilla": "PMax",
-        "evento": "Avanzó de etapa",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "27-10-2026"
-      },
-      {
-        "casilla": "PPyD",
-        "evento": "Avanzó de etapa",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "27-10-2026"
-      },
-      {
-        "casilla": "MT",
-        "evento": "Avanzó de etapa",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "27-10-2026"
-      },
-      {
-        "casilla": "Modelos EMT",
-        "evento": "Avanzó de etapa",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "03-11-2026"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-05T20:23:31.515875+00:00",
     "changes": [
       "Fecha estimada de Entrada en Operación: 2026-07-28T00:00:00 → 2027-01-17T00:00:00."
@@ -160,6 +117,20 @@
         "evento": "Avanzó de etapa",
         "quien": "Esperando que Grenergy cargue un documento",
         "fecha_limite": "05-11-2026"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-09T18:25:31.581604+00:00",
+    "changes": [
+      "'VMD': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 07-12-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "VMD",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "07-12-2026"
       }
     ]
   }
