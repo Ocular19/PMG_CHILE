@@ -1,53 +1,15 @@
 [
   {
-    "timestamp": "2026-09-14T20:10:46.166825+00:00",
+    "timestamp": "2026-11-10T19:28:51.731671+00:00",
     "changes": [
-      "Casilla 'Cronograma' cambió de estado: en_curso -> completado",
-      "'Act. CEM Def': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 29-09-2026).",
-      "Avance general del proyecto: 11% → 12%.",
-      "Avance de requisitos para inicio de PES: 14% → 15%."
+      "'INFORMACIÓN TÉCNICA': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 30-09-2026)."
     ],
     "alerts": [
-      {
-        "casilla": "Cronograma",
-        "evento": "Cambió de estado (en_curso → completado)",
-        "quien": "Sin acción pendiente (completada)",
-        "fecha_limite": "-"
-      },
-      {
-        "casilla": "Act. CEM Def",
-        "evento": "Avanzó de etapa",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "29-09-2026"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-09-14T23:00:10.831412+00:00",
-    "changes": [
-      "Fecha estimada de Puesta en Servicio: 2026-03-30T00:00:00 → 2027-01-29T00:00:00.",
-      "Fecha estimada de Entrada en Operación: 2026-06-22T00:00:00 → 2027-05-20T00:00:00."
-    ],
-    "alerts": []
-  },
-  {
-    "timestamp": "2026-09-29T14:41:09.359141+00:00",
-    "changes": [
-      "Casilla 'Act. CEM Def' cambió de estado: en_curso -> completado",
-      "Casilla 'INFORMACIÓN TÉCNICA' cambió de estado: pendiente -> en_curso"
-    ],
-    "alerts": [
-      {
-        "casilla": "Act. CEM Def",
-        "evento": "Cambió de estado (en_curso → completado)",
-        "quien": "Sin acción pendiente (completada)",
-        "fecha_limite": "-"
-      },
       {
         "casilla": "INFORMACIÓN TÉCNICA",
-        "evento": "Cambió de estado (pendiente → en_curso)",
-        "quien": "Sin acción pendiente (completada)",
-        "fecha_limite": "-"
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "30-09-2026"
       }
     ]
   }
