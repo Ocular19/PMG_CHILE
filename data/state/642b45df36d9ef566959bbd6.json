@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-10T19:28:51.730555+00:00",
+  "fetched_at": "2026-11-10T21:39:50.697931+00:00",
   "name": "NI PMG Zaturno ",
   "correlativo": 1697,
   "completition_status": 12,
@@ -311,13 +311,12 @@
       "casilla": "INFORMACIÓN TÉCNICA",
       "parent_group": null,
       "sub_panels": [
-        "Listado de Requerimientos\n66%\n'REVISIÓN INGENIERÍA DE DISEÑO\nEncargado: Dpto. Estándares y Normativa\nI.3\nSolicitud de Revisión de la Ingeniería de Diseño\nI.3\nRevisión de Ingeniería de Diseño\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa Solicitante envía a revisión los respaldos de la Ingeniería de Diseño solicitada\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGMMS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n30-09-2026\n\nHistorial de movimientos"
+        "Listado de Requerimientos\n0%\n*INFORMACIÓN TÉCNICA\nEncargado: Departamento Conexiones\nI.1\nGrupo de Requerimientos\n¿Qué estoy viendo?\n\nDescripción\n\nGrupo de Requerimientos\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n150 días hábiles\n\nFecha límite\n\n04-05-2027\n\nHistorial de movimientos"
       ]
     }
   },
   "first_seen": {
-    "req5d4d5ffe36d9ef7615c24383|La Empresa Solicitante envía a revisión los respaldos de la Ingeniería de Diseño solicitada": "2026-06-23T01:26:23.550396+00:00",
-    "req60ca060536d9ef1ee6b43b49|La Empresa Solicitante envía a revisión los respaldos de la Ingeniería de Diseño solicitada": "2026-11-10T19:28:51.730678+00:00"
+    "req5d4d5ffe36d9ef7615c24383|La Empresa Solicitante envía a revisión los respaldos de la Ingeniería de Diseño solicitada": "2026-06-23T01:26:23.550396+00:00"
   },
   "avance_prev": {}
 }

@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-11-10T19:28:27.546941+00:00",
+  "fetched_at": "2026-11-10T21:39:23.516122+00:00",
   "name": "NI PMG Toledo (Ex Travesía)",
   "correlativo": 1721,
-  "completition_status": 96,
+  "completition_status": 98,
   "completition_pes": 100,
   "service_estimate_date": "2026-04-27T00:00:00",
   "operative_estimate_date": "2027-01-17T00:00:00",
@@ -245,7 +245,7 @@
     },
     "req5d4da87e36d9ef76183739c3": {
       "text": "VMD",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req600f044436d9ef327f0765cb": {
@@ -284,17 +284,12 @@
       "is_container": false
     }
   },
-  "active_tasks": {
-    "req5d4da87e36d9ef76183739c3": {
-      "casilla": "VMD",
-      "parent_group": "OTROS EO",
-      "sub_panels": [
-        "Listado de Requerimientos\n83%\n'VALIDACIÓN DE MODELO DINÁMICO\nEncargado: Departamento de Modelación y Aplicaciones EMS\nI.3\nRecepción de informe VMD\nI.3\nRevisión de VMD\n¿Qué estoy viendo?\n\nDescripción\n\nEl Coordinador envía la revisión al informe de VMD\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nPlazo\n\n20 días hábiles\n\nFecha límite\n\n07-12-2026\n\nDepende de\n\nRecepción de informe VMD\nHistorial de movimientos"
-      ]
+  "active_tasks": {},
+  "first_seen": {},
+  "avance_prev": {
+    "completition_status": {
+      "antes": 96,
+      "changed_at": "2026-11-10T21:39:23.516183+00:00"
     }
-  },
-  "first_seen": {
-    "req5d4da87e36d9ef76183739c3|El Coordinador envía la revisión al informe de VMD": "2026-11-09T18:25:31.580966+00:00"
-  },
-  "avance_prev": {}
+  }
 }
