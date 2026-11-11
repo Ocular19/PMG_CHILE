@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "timestamp": "2026-11-11T22:29:58.816528+00:00",
+    "changes": [
+      "Casilla 'Pronósticos' cambió de estado: pendiente -> en_curso",
+      "'Pronósticos': nuevo pendiente — Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 18-11-2026)."
+    ]
+  }
+]
