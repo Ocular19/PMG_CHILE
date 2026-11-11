@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-11-11T11:30:46.226785+00:00",
+  "fetched_at": "2026-11-11T19:24:06.109253+00:00",
   "name": "NI PMG Toledo (Ex Travesía)",
   "correlativo": 1721,
-  "completition_status": 98,
+  "completition_status": 99,
   "completition_pes": 100,
   "service_estimate_date": "2026-04-27T00:00:00",
   "operative_estimate_date": "2027-01-17T00:00:00",
@@ -225,7 +225,7 @@
     },
     "req60478dea36d9ef42935ee7d1": {
       "text": "OTROS EO",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": true
     },
     "req5d4c9a3d36d9ef7615c07cfb": {
@@ -280,16 +280,26 @@
     },
     "req5d4dab3f36d9ef7615c59207": {
       "text": "SEO",
-      "state": "pendiente",
+      "state": "en_curso",
       "is_container": false
     }
   },
-  "active_tasks": {},
-  "first_seen": {},
+  "active_tasks": {
+    "req5d4dab3f36d9ef7615c59207": {
+      "casilla": "SEO",
+      "parent_group": null,
+      "sub_panels": [
+        "Listado de Requerimientos\n0%\n'SOLICITUD DE ENTRADA EN OPERACIÓN\nEncargado: Departamento Conexiones\nI.1\nSolicitud de Entrada en Operación\nI.1\nCarta de Entrada en Operación\n¿Qué estoy viendo?\n\nDescripción\n\nCarta de Solicitud de Entrada en Operación, incluyendo la Declaración Jurada del cumplimiento de las exigencias establecidas en la normativa vigente, de acuerdo al Artículo 28 del Anexo Técnico de Requisitos Técnicos Mínimos. La fecha de EO será la fecha de la entrega, por parte de la empresa, del último pendiente para revisión del Coordinador.\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nGNS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n12-11-2026\n\nHistorial de movimientos"
+      ]
+    }
+  },
+  "first_seen": {
+    "req5d4dab3f36d9ef7615c59207|Carta de Solicitud de Entrada en Operación, incluyendo la Declaración Jurada del cumplimiento de las exigencias establecidas en la normativa vigente, de acuerdo al Artículo 28 del Anexo Técnico de Requisitos Técnicos Mínimos. La fecha de EO será la fecha de la entrega, por parte de la empresa, del último pendiente para revisión del Coordinador.": "2026-11-11T19:24:06.109386+00:00"
+  },
   "avance_prev": {
     "completition_status": {
       "antes": 96,
-      "changed_at": "2026-11-10T21:39:23.516183+00:00"
+      "changed_at": "2026-11-11T19:24:06.109402+00:00"
     }
   }
 }
