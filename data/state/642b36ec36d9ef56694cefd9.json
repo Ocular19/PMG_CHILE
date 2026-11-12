@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-12T16:37:30.309019+00:00",
+  "fetched_at": "2026-11-12T19:41:35.481025+00:00",
   "name": "PFV Conguillio (Ex PMG Mirador)",
   "correlativo": 1741,
   "completition_status": 96,
@@ -296,10 +296,5 @@
   "first_seen": {
     "req5d4da87e36d9ef76183739c3|El Coordinador envía la revisión al informe de VMD": "2026-10-22T23:01:20.558453+00:00"
   },
-  "avance_prev": {
-    "completition_status": {
-      "antes": 95,
-      "changed_at": "2026-11-09T18:25:40.116443+00:00"
-    }
-  }
+  "avance_prev": {}
 }
