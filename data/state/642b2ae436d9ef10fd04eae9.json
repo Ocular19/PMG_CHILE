@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-14T17:47:18.813743+00:00",
+  "fetched_at": "2026-11-14T20:25:38.424474+00:00",
   "name": "NI PMG Toledo (Ex Travesía)",
   "correlativo": 1721,
   "completition_status": 99,
@@ -296,10 +296,5 @@
   "first_seen": {
     "req5d4dab3f36d9ef7615c59207|Carta de Solicitud de Entrada en Operación, incluyendo la Declaración Jurada del cumplimiento de las exigencias establecidas en la normativa vigente, de acuerdo al Artículo 28 del Anexo Técnico de Requisitos Técnicos Mínimos. La fecha de EO será la fecha de la entrega, por parte de la empresa, del último pendiente para revisión del Coordinador.": "2026-11-11T19:24:06.109386+00:00"
   },
-  "avance_prev": {
-    "completition_status": {
-      "antes": 96,
-      "changed_at": "2026-11-11T19:24:06.109402+00:00"
-    }
-  }
+  "avance_prev": {}
 }
