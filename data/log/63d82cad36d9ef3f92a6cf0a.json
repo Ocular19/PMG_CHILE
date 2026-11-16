@@ -19,5 +19,27 @@
         "fecha_limite": "18-11-2026"
       }
     ]
+  },
+  {
+    "timestamp": "2026-11-16T23:59:27.329520+00:00",
+    "changes": [
+      "Casilla 'Cronograma' cambió de estado: completado -> en_curso",
+      "'Cronograma': nuevo pendiente — Esperando que Grenergy cargue un documento (fecha límite 17-11-2026).",
+      "Avance general del proyecto: 75% → 74%."
+    ],
+    "alerts": [
+      {
+        "casilla": "Cronograma",
+        "evento": "Cambió de estado (completado → en_curso)",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "17-11-2026"
+      },
+      {
+        "casilla": "Cronograma",
+        "evento": "Nuevo pendiente",
+        "quien": "Esperando que Grenergy cargue un documento",
+        "fecha_limite": "17-11-2026"
+      }
+    ]
   }
 ]
