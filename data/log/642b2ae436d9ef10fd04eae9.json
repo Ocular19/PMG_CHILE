@@ -1,19 +1,5 @@
 [
   {
-    "timestamp": "2026-10-09T15:01:55.553586+00:00",
-    "changes": [
-      "'CVNC': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 02-11-2026)."
-    ],
-    "alerts": [
-      {
-        "casilla": "CVNC",
-        "evento": "Avanzó de etapa",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "02-11-2026"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-20T22:58:58.932476+00:00",
     "changes": [
       "Casilla 'PMax' cambió de estado: en_curso -> completado",
@@ -161,6 +147,20 @@
         "evento": "Nuevo pendiente",
         "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
         "fecha_limite": "12-11-2026"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-17T17:25:27.528209+00:00",
+    "changes": [
+      "'SEO': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 27-11-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "SEO",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "27-11-2026"
       }
     ]
   }

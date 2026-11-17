@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-11-17T12:35:04.548842+00:00",
+  "fetched_at": "2026-11-17T17:25:48.606497+00:00",
   "name": "PMG Buenaventura",
   "correlativo": 650,
-  "completition_status": 89,
+  "completition_status": 91,
   "completition_pes": 98,
   "service_estimate_date": "2026-07-01T00:00:00",
   "operative_estimate_date": "2026-10-31T00:00:00",
@@ -240,7 +240,7 @@
     },
     "req60478dea36d9ef42935ee7d1": {
       "text": "OTROS EO",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": true
     },
     "req5d4c9a3d36d9ef7615c07cfb": {
@@ -250,7 +250,7 @@
     },
     "req5d4da9c336d9ef761837419c": {
       "text": "CVNC",
-      "state": "en_curso",
+      "state": "completado",
       "is_container": false
     },
     "req5d4da87e36d9ef76183739c3": {
@@ -302,13 +302,6 @@
         "Listado de Requerimientos\n50%\nPLAN DE ENERGIZACIÓN GENERACIÓN\nEncargado: Departamento Conexiones\nI.2\nRecepción plan de energización Generación\nI.2\nRevisión Plan de Energización Generación\n¿Qué estoy viendo?\n\nDescripción\n\nLa Empresa solicitante debe hacer envío del plan de Energización de acuerdo al AT.\n\nEstado: Esta tarea está pendiente.\n\nArchivo(s):\n\n\n\nResponsable\n\nGPS\n\nPlazo\n\n1 días hábiles\n\nFecha límite\n\n25-09-2026\n\nHistorial de movimientos"
       ]
     },
-    "req5d4da9c336d9ef761837419c": {
-      "casilla": "CVNC",
-      "parent_group": "OTROS EO",
-      "sub_panels": [
-        "Listado de Requerimientos\n50%\n'DECLARACIÓN DE CVC-CVNC\nEncargado: Por definir\nI.1\nRecepción de antecedentes para la declaración de CVC-CVNC\nI.1\nRevisión de antecedentes para la declaración de CVC-CVNC\n¿Qué estoy viendo?\n\nDescripción\n\nEl Coordinador envía su revisión a la declaración de Costos Variables Combustibles y No Combustibles\n\nEstado: Esta tarea está pendiente.\n\nResponsable\n\nPlazo\n\n15 días hábiles\n\nFecha límite\n\n15-10-2026\n\nDepende de\n\nRecepción de antecedentes para la declaración de CVC-CVNC\nHistorial de movimientos"
-      ]
-    },
     "req5d4da87e36d9ef76183739c3": {
       "casilla": "VMD",
       "parent_group": "OTROS EO",
@@ -340,11 +333,15 @@
   },
   "first_seen": {
     "req665604b236d9ef441648202b|La Empresa solicitante debe hacer envío del plan de Energización de acuerdo al AT.": "2026-08-17T16:26:10.939565+00:00",
-    "req5d4da9c336d9ef761837419c|El Coordinador envía su revisión a la declaración de Costos Variables Combustibles y No Combustibles": "2026-09-23T13:28:38.447774+00:00",
     "req5d4da87e36d9ef76183739c3|La Empresa Solicitante debe enviar un informe y la base de datos para la Validación del Modelo Dinámico": "2026-09-01T08:58:16.887877+00:00",
     "req5d4da5d136d9ef761837315b|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-09-01T08:58:16.887885+00:00",
     "req5d4da62e36d9ef76172b6c08|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-09-01T08:58:16.887892+00:00",
     "req5d4da56936d9ef7615c580e4|La Empresa Solicitante debe cargar la Carta con timbre de recepción del Coordinador, en el cual envían el informe": "2026-09-01T08:58:16.887900+00:00"
   },
-  "avance_prev": {}
+  "avance_prev": {
+    "completition_status": {
+      "antes": 89,
+      "changed_at": "2026-11-17T17:25:48.606754+00:00"
+    }
+  }
 }
