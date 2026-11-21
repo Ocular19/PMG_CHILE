@@ -1,34 +1,5 @@
 [
   {
-    "timestamp": "2026-10-15T19:42:32.682842+00:00",
-    "changes": [
-      "'IT PES': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 05-11-2026)."
-    ],
-    "alerts": [
-      {
-        "casilla": "IT PES",
-        "evento": "Avanzó de etapa",
-        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
-        "fecha_limite": "05-11-2026"
-      }
-    ]
-  },
-  {
-    "timestamp": "2026-10-16T16:19:40.348869+00:00",
-    "changes": [
-      "Casilla 'Cronograma' cambió de estado: en_curso -> completado",
-      "Avance de requisitos para inicio de PES: 99% → 100%."
-    ],
-    "alerts": [
-      {
-        "casilla": "Cronograma",
-        "evento": "Cambió de estado (en_curso → completado)",
-        "quien": "Sin acción pendiente (completada)",
-        "fecha_limite": "-"
-      }
-    ]
-  },
-  {
     "timestamp": "2026-10-19T15:20:23.873973+00:00",
     "changes": [
       "Fecha estimada de Entrada en Operación: 2026-07-26T00:00:00 → 2027-01-17T00:00:00."
@@ -155,6 +126,20 @@
         "evento": "Avanzó de etapa",
         "quien": "Esperando que Grenergy cargue un documento",
         "fecha_limite": "19-11-2026"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-11-21T01:08:21.211681+00:00",
+    "changes": [
+      "'VMD': avanzó de etapa — ahora Esperando respuesta/revisión del Coordinador (CEN) (fecha límite 21-12-2026)."
+    ],
+    "alerts": [
+      {
+        "casilla": "VMD",
+        "evento": "Avanzó de etapa",
+        "quien": "Esperando respuesta/revisión del Coordinador (CEN)",
+        "fecha_limite": "21-12-2026"
       }
     ]
   }
